@@ -1,0 +1,210 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+  background-image: linear-gradient(180deg, black, navy, white, navy, black);
+  border-radius: 50%;
+  background-size: 1365px 660px;
+  background-attachment: fixed;
+}
+
+.player {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.wrapper {
+  width: 350px;
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  background-color: white;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.now-playing {
+  font-size: 25px;
+}
+
+.track-art {
+  margin: 20px auto;
+  height: 190px;
+  width: 190px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  border: 2px solid #fff;
+  box-shadow: 0px 6px 5px #ccc;
+  box-shadow: 0px 6px 5px rgba(33, 30, 30, 0.701), -0px -4px 5px rgba(71, 71, 71, 0.21);
+}
+
+.track-name {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+}
+
+.track-artist {	
+  font-size: 17px;
+  text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
+  margin-top: 3px;
+  color: rgba(0, 0, 0, 0.715);
+}
+
+.current-time {	
+  text-align: center;
+  font-family: cursive;
+  font-size: 13px;
+  padding-top: 30px;
+  left: 0;
+}
+
+.seek_slider {
+  width: 100%;
+  border-radius: 20px;
+  appearance: none;
+  height: 4px;
+  background: #83a9ff;
+  transition: opacity 0.2s;
+}
+
+.seek_slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 13px;
+  height: 13px;
+  background: white;
+  border: 3px solid #3774ff;
+  cursor: pointer;
+  border-radius: 100%;
+}
+
+.buttons {	
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons i {
+  opacity: 0.9;
+  padding: 13px;
+  font-size: 30px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.buttons i:hover {
+  color: cyan;
+}
+
+.buttons .playpause-track i {	
+  font-size: 65px;
+}
+
+.rotate {
+  animation: rotation 9s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.fa-random {	
+  margin-right: 5px;
+}
+
+.fa-repeat {
+  margin-left: 5px;
+}
+
+h1 {
+	text-align: center;
+	font-family: copperplate;
+	letter-spacing: 5px;
+}
+
+img {
+	float: right;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+header {
+	background-color: lime;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	background-color: black;
+	color: lime;
+}
+
+li {
+	border: 2px double white;
+	padding: 5px;
+	background-color: black;
+	width: 300px;
+	color: lime;
+	font-family: audiowide;
+	text-align: center;
+}
+
+li:hover {
+	background-color: cyan;
+	color: white;
+}
+
+details {
+	cursor: pointer;
+}
+
+#playlist {
+	background-color: black;
+	opacity: 0.7; 
+	width: 355px;
+	color: lime;
+	resize: both;
+	overflow: auto;
+}
+
+button {
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+iframe {
+	border: none;
+	float: right;
+	width: 600px;
+	height: 400px;
+}
