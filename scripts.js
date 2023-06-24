@@ -1,4 +1,4 @@
-const playlist = [
+const playlist = [ 
   {
     img : 'https://i.ytimg.com/vi/Bw-5Lka7gPE/maxresdefault.jpg',
     name : '99 (Mob Psycho 100 OP)',
