@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang = "en"> 
+  <head>
+    <meta charset = "UTF-8">	
+    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">	
+    <meta name = "viewport" content = "width=device-width, initial-scale = 1.0"> 
+    <title> My Music Source </title>
+    <link rel = "stylesheet" href = "C:/Music Site/music_styling.css">
+    <script src = "scripts.js" defer = "true"> </script>
+    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel = "icon" type = "image/x-icon" href = "https://st.depositphotos.com/1000123/4290/i/950/depositphotos_42906467-stock-photo-electric-lighting-effect.jpg">
+  </head>
+  <body>
+<header>
+	<address> <a href = "C:/Music Site/Playlist.html" target = "_blank"> Click here to see the entire playlist </a> </address>
+</header>
+    <div class = "player">	
+      <div class = "wrapper">	
+        <div class = "details"> 
+          <div class = "now-playing" style = "text-align: center;"> NOW PLAYING </div>	
+          <div class = "track-art"> </div>	
+          <div class = "track-name"> TRACK NAME </div>	
+          <div class = "track-artist"> TRACK ARTIST </div>	
+        </div>
+        <div class = "slider-container">
+      	  <div class = "current-time"> </div>
+          <input type = "range" min = "1" max = "100" value = "0" class = "seek_slider" onchange = "seekTo()">
+        </div>
+        <div class = "buttons">
+          <div class = "random-track" onclick = "randomTrack()"> 
+            <i class = "fas fa-random fa-1x" title = "Shuffle"> </i> 
+          </div>
+          <div class = "prev-track" onclick = "prevTrack()"> 
+            <i class = "fa fa-step-backward fa-2x" title = "Previous Track"> </i> 
+          </div>
+          <div class = "playpause-track" onclick = "playpauseTrack()">
+            <i class = "fa fa-play-circle fa-5x"> </i>
+          </div>
+          <div class = "next-track" onclick = "nextTrack()">
+            <i class = "fa fa-step-forward fa-2x" title = "Next Track"> </i> 
+          </div>
+          <div class = "repeat-track" onclick = "repeatTrack()"> 
+            <i class = "fa fa-repeat fa-2x" title = "Repeat"> </i> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
