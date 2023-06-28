@@ -577,6 +577,12 @@ const playlist = [
     music : 'audio/Rakuen.mp3'
   },
   {
+    img : 'https://static.wikia.nocookie.net/dr-stone/images/b/b7/Dr._Stone_New_World_Key_Visual_1.png/revision/latest?cb=20221215214230',
+    name : 'Wasure Gataki (Dr. Stone Season 3 OP)',
+    artist : 'Huwie Ishizaki',
+    music : 'audio/Wasuregataki.mp3'
+  },
+  {
     img : 'https://i.ytimg.com/vi/syv7ONEE4co/maxresdefault.jpg',
     name : 'Touch Off (The Promised Neverland OP 1)',
     artist : 'UVERworld',
