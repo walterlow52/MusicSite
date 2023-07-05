@@ -57,7 +57,8 @@ body {
   text-transform: capitalize;
 }
 
-.track-artist {	
+.track-artist {
+  text-align: center;
   font-size: 17px;
   text-transform: capitalize;
   font-family: "Roboto", sans-serif;
