@@ -174,13 +174,13 @@ const playlist = [
     music : 'audio/Twice-Shot Clock.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2016/04/Twice-Cheer-Up.jpg',
+    img : 'https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6',
     name : 'Touchdown',
     artist : 'TWICE',
     music : 'audio/Twice-Touchdown.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2016/04/Twice-Cheer-Up.jpg',
+    img : 'https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6',
     name : 'Precious Love',
     artist : 'TWICE',
     music : 'audio/Twice-Precious Love.mp3'
@@ -510,13 +510,13 @@ const playlist = [
     music : 'audio/Itzy-Weapon.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2023/05/aespa-Welcome-To-MY-World.jpg',
+    img : 'https://upload.wikimedia.org/wikipedia/en/a/ac/Aespa_-_Welcome_to_My_World.png',
     name : 'Welcome To My World',
     artist : 'Aespa',
     music : 'audio/Aespa-Welcome To My World.mp3'
   },
   {
-    img : 'https://static.wikia.nocookie.net/kpop/images/5/51/TXT_Good_Boy_Gone_Bad_Limited_Edition_B_album_cover.png/revision/latest?cb=20220823175057',
+    img : 'https://static.wikia.nocookie.net/txt/images/3/3b/TXT_Good_Boy_Gone_Bad_Standard.jpg/revision/latest?cb=20220724204746',
     name : 'Ring',
     artist : 'Tomorrow X Together',
     music : 'audio/Ring.mp3'
@@ -569,9 +569,8 @@ const playlist = [
     artist : 'ASH DA HERO',
     music : 'audio/Judgement.mp3'
   },
-
   {
-    img : 'https://static.wikia.nocookie.net/dr-stone/images/6/64/Dr._Stone_Opening_1/revision/latest/scale-to-width-down/340?cb=20190813133218',
+    img : 'https://i.ytimg.com/vi/tF4faMbs5oQ/maxresdefault.jpg',
     name : 'Good Morning World (Dr. Stone OP 1)',
     artist : 'Burnout Syndromes',
     music : 'audio/Good Morning World.mp3'
@@ -589,7 +588,7 @@ const playlist = [
     music : 'audio/Rakuen.mp3'
   },
   {
-    img : 'https://static.wikia.nocookie.net/dr-stone/images/b/b7/Dr._Stone_New_World_Key_Visual_1.png/revision/latest?cb=20221215214230',
+    img : 'https://cdn.otakutale.com/wp-content/uploads/2022/12/Dr.-Stone-Season-3-Slated-for-April-2023-Visual-Promotional-Video-Revealed.jpg',
     name : 'Wasure Gataki (Dr. Stone Season 3 OP)',
     artist : 'Huwie Ishizaki',
     music : 'audio/Wasuregataki.mp3'
@@ -751,7 +750,7 @@ const playlist = [
     music : 'audio/Dark Crow.mp3'
   },
   {
-    img : 'https://i.ytimg.com/vi/aUF_DYE0Cwo/maxresdefault.jpg',
+    img : 'https://pbs.twimg.com/media/FmVmwCIagAABU45.jpg:large',
     name : 'River (Vinland Saga Season 2 OP)',
     artist : 'Anonymouz',
     music : 'audio/River.mp3'
@@ -835,7 +834,7 @@ const playlist = [
     music : 'audio/Kara No Kokoro.mp3'
   },
   {
-    img : 'https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Bleach_TYBW_Key_Visual.jpg/220px-Bleach_TYBW_Key_Visual.jpg',
+    img : 'https://media.tenor.com/g81LfG7rvK0AAAAC/bleach-bleach-anime.gif',
     name : 'Scar (Bleach TYBW OP)',
     artist : 'Tatsuya Kitani',
     music : 'audio/Scar.mp3'
@@ -859,7 +858,7 @@ const playlist = [
     music : 'audio/Hope.mp3'
   },
   {
-    img : 'https://static.wikia.nocookie.net/onepiece/images/a/af/DREAMIN%27_ON.png/revision/latest?cb=20200802180322',
+    img : 'https://i.ytimg.com/vi/ej-IhB3BFao/mqdefault.jpg',
     name : 'Dreamin\' On (One Piece OP 23)',
     artist : 'Da-Ice',
     music : 'audio/Dreamin On.mp3'
