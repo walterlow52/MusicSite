@@ -12,6 +12,24 @@ const playlist = [
     music : 'audio/Am I Dreaming.mp3'
   },
   {
+    img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
+    name : 'Calling',
+    artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
+    music : 'audio/Calling.mp3'
+  },
+  {
+    img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
+    name : 'Home',
+    artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
+    music : 'audio/Home.mp3'
+  },
+  {
+    img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
+    name : 'Givin\' Up (Not the One)',
+    artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
+    music : 'audio/Givin\' Up.mp3'
+  },
+  {
     img : 'https://i.ytimg.com/vi/Bw-5Lka7gPE/maxresdefault.jpg',
     name : '99 (Mob Psycho 100 OP)',
     artist : 'Mob Choir',
@@ -478,6 +496,48 @@ const playlist = [
     name : 'A Strange Day (Summer Strike OST)',
     artist : 'Jihyo',
     music : 'audio/Jihyo-A Strange Day.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'Do Not Touch',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-Do not touch.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'Behind The Curtain',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-Behind The Curtain.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'Marshmellow',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-Marshmellow.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'Funny Valentine',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-Do not touch.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'It\'s Not Easy For You',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-It\'s not easy for you.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'Rewind you',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-Rewind you.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
+    name : 'Bouquet',
+    artist : 'MISAMO',
+    music : 'audio/Misamo-Bouquet.mp3'
   },
   {
     img : 'https://images.genius.com/7135b5e9e6c92f5c8782c48adccf786c.1000x1000x1.jpg',
