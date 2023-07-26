@@ -519,7 +519,7 @@ const playlist = [
     img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
     name : 'Funny Valentine',
     artist : 'MISAMO',
-    music : 'audio/Misamo-Do not touch.mp3'
+    music : 'audio/Misamo-Funny Valentine.mp3'
   },
   {
     img : 'https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909',
