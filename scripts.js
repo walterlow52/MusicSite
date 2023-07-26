@@ -14,19 +14,19 @@ const playlist = [
   {
     img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
     name : 'Calling',
-    artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
+    artist : 'Metro Boomin ft. Swae Lee, NAV, & A Boogie wit da Hoodie',
     music : 'audio/Calling.mp3'
   },
   {
     img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
     name : 'Home',
-    artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
+    artist : 'Metro Boomin ft. Don Toliver, & Lil Uzi Vert',
     music : 'audio/Home.mp3'
   },
   {
     img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
     name : 'Givin\' Up (Not the One)',
-    artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
+    artist : 'Don Toliver ft. 21 Savage, & 2 Chainz',
     music : 'audio/Givin\' Up.mp3'
   },
   {
