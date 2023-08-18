@@ -492,6 +492,42 @@ const playlist = [
     music : 'audio/Nayeon-Love Countdown.mp3'
   },
   {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Killin\' Me Good',
+    artist : 'Jihyo',
+    music : 'audio/Jihyo-Killin Me Good.mp3'
+  },
+  {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Talkin\' About It',
+    artist : 'Jihyo',
+    music : 'audio/Jihyo-Talkin About It.mp3'
+  },
+  {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Wishing On You',
+    artist : 'Jihyo',
+    music : 'audio/Jihyo-A Strange Day.mp3'
+  },
+  {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Don\'t Wanna Go Back',
+    artist : 'Jihyo ft. HEIZE',
+    music : 'audio/Jihyo-Don\'t Wanna Go Back.mp3'
+  },
+  {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Room',
+    artist : 'Jihyo',
+    music : 'audio/Jihyo-Room.mp3'
+  },
+  {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Nightmare',
+    artist : 'Jihyo',
+    music : 'audio/Jihyo-Nightmare.mp3'
+  },
+  {
     img : 'https://images.genius.com/59c0457c5e86bfe09afd5d311ad77f79.1000x1000x1.jpg',
     name : 'A Strange Day (Summer Strike OST)',
     artist : 'Jihyo',
