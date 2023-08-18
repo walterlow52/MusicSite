@@ -507,7 +507,7 @@ const playlist = [
     img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
     name : 'Wishing On You',
     artist : 'Jihyo',
-    music : 'audio/Jihyo-A Strange Day.mp3'
+    music : 'audio/Jihyo-Wishing On You.mp3'
   },
   {
     img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
