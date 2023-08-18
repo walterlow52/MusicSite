@@ -517,6 +517,12 @@ const playlist = [
   },
   {
     img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    name : 'Closer',
+    artist : 'Jihyo',
+    music : 'audio/Jihyo-Closer.mp3'
+  },
+  {
+    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
     name : 'Room',
     artist : 'Jihyo',
     music : 'audio/Jihyo-Room.mp3'
