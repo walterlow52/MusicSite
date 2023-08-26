@@ -492,6 +492,30 @@ const playlist = [
     music : 'audio/Nayeon-Love Countdown.mp3'
   },
   {
+    img : 'https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02',
+    name : 'Candyfloss',
+    artist : 'Nayeon',
+    music : 'audio/Nayeon-Candyfloss.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02',
+    name : 'All Or Nothing',
+    artist : 'Nayeon',
+    music : 'audio/Nayeon-All or Nothing.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02',
+    name : 'Happy Birthday To You',
+    artist : 'Nayeon',
+    music : 'audio/Nayeon-Happy Birthday.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02',
+    name : 'Sunset',
+    artist : 'Nayeon',
+    music : 'audio/Nayeon-Sunset.mp3'
+  },
+  {
     img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
     name : 'Killin\' Me Good',
     artist : 'Jihyo',
@@ -616,6 +640,12 @@ const playlist = [
     name : 'Welcome To My World',
     artist : 'Aespa',
     music : 'audio/Aespa-Welcome To My World.mp3'
+  },
+  {
+    img : 'https://images.genius.com/023e3f18072e1161f557c2e9153b5826.1000x1000x1.jpg',
+    name : 'We Go',
+    artist : 'Aespa',
+    music : 'audio/Aespa-We Go.mp3'
   },
   {
     img : 'https://static.wikia.nocookie.net/txt/images/3/3b/TXT_Good_Boy_Gone_Bad_Standard.jpg/revision/latest?cb=20220724204746',
