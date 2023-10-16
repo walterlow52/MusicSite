@@ -648,7 +648,7 @@ const playlist = [
     music : 'audio/Aespa-We Go.mp3'
   },
   {
-    img : 'https://static.wikia.nocookie.net/kpop/images/5/51/TXT_Good_Boy_Gone_Bad_Limited_Edition_B_album_cover.png/revision/latest?cb=20220823175057',
+    img : 'https://static.wikia.nocookie.net/txt/images/3/3b/TXT_Good_Boy_Gone_Bad_Standard.jpg/revision/latest?cb=20220724204746',
     name : 'Ring',
     artist : 'Tomorrow X Together',
     music : 'audio/Ring.mp3'
