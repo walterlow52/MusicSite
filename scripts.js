@@ -1013,6 +1013,7 @@ let current_time = document.querySelector('.current-time');
 let icon = document.querySelector('.fa-random');
 let current_track = document.createElement('audio');
 
+let shuffle = document.querySelector('.random-track');
 let previous_button = document.querySelector('.prev-track');
 let playpause_button = document.querySelector('.playpause-track');
 let next_button = document.querySelector('.next-track');
@@ -1050,10 +1051,12 @@ function randomTrack() {
 
 function playRandom() {
   random = true;
+  shuffle.innerHTML = 'ON'
 }
 
 function pauseRandom() {
   random = false;
+  shuffle.innerHTML = 'OFF'
 }
 
 function repeatTrack() {
