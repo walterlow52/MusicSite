@@ -36,7 +36,7 @@ const playlist = [
     music : 'audio/99.mp3'
   },
   {
-    img : 'https://i.ytimg.com/vi/4JrrTpZjM8I/maxresdefault.jpg',
+    img : 'https://i.ytimg.com/vi/86I43asqndI/maxresdefault.jpg',
     name : '99.9 (Mob Psycho 100 Season 2 OP)',
     artist : 'Mob Choir',
     music : 'audio/99.9.mp3'
@@ -648,7 +648,7 @@ const playlist = [
     music : 'audio/Aespa-We Go.mp3'
   },
   {
-    img : 'https://static.wikia.nocookie.net/txt/images/3/3b/TXT_Good_Boy_Gone_Bad_Standard.jpg/revision/latest?cb=20220724204746',
+    img : 'https://static.wikia.nocookie.net/kpop/images/5/51/TXT_Good_Boy_Gone_Bad_Limited_Edition_B_album_cover.png/revision/latest?cb=20220823175057',
     name : 'Ring',
     artist : 'Tomorrow X Together',
     music : 'audio/Ring.mp3'
@@ -858,7 +858,7 @@ const playlist = [
     music : 'audio/Kizuna no Kiseki.mp3'
   },
   {
-    img : 'https://thenerdstash.com/wp-content/uploads/2023/04/demon-slayer-season-3-cover-image.jpg',
+    img : 'https://www.denofgeek.com/wp-content/uploads/2023/04/Demon-Slayer-Season-3.jpg?fit=1200%2C675',
     name : 'Koi Kogare (Demon Slayer Season 3 ED)',
     artist : 'Milet x Man With A Mission',
     music : 'audio/Koi Kogare.mp3'
@@ -942,13 +942,13 @@ const playlist = [
     music : 'audio/Closer.mp3'
   },
   {
-    img : 'https://thumbs.gfycat.com/DependableWiltedCatbird-size_restricted.gif',
+    img : 'https://i.ytimg.com/vi/P1yJ51DH-18/maxresdefault.jpg',
     name : 'Diver (Naruto Shippuden OP 8)',
     artist : 'NICO Touches the Walls',
     music : 'audio/Diver.mp3'
   },
   {
-    img : 'https://i.ytimg.com/vi/VnaSUrQpXoE/maxresdefault.jpg',
+    img : 'https://1.bp.blogspot.com/-OrZSBa63Av8/XvYHEokxoUI/AAAAAAAAAQ4/aaIk_BNAzrwy8ruv1kYasN62rpRmftWQwCK4BGAsYHg/s320/narutosop12.png',
     name : 'Moshimo (Naruto Shippuden OP 12)',
     artist : 'Daisuke',
     music : 'audio/Moshimo.mp3'
@@ -966,7 +966,7 @@ const playlist = [
     music : 'audio/Kara No Kokoro.mp3'
   },
   {
-    img : 'https://media.tenor.com/g81LfG7rvK0AAAAC/bleach-bleach-anime.gif',
+    img : 'https://i.ytimg.com/vi/mjeR7vUrDvM/mqdefault.jpg',
     name : 'Scar (Bleach TYBW OP)',
     artist : 'Tatsuya Kitani',
     music : 'audio/Scar.mp3'
