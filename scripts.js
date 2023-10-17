@@ -1,4 +1,4 @@
-const playlist = [  
+const playlist = [    
   {
     img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
     name : 'Annihilate',
