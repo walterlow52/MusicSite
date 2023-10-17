@@ -522,37 +522,37 @@ const playlist = [
     music : 'audio/Jihyo-Killin Me Good.mp3'
   },
   {
-    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    img : 'https://pbs.twimg.com/media/F3lNbHYXQAAqwcv.jpg:large',
     name : 'Talkin\' About It',
     artist : 'Jihyo',
     music : 'audio/Jihyo-Talkin About It.mp3'
   },
   {
-    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    img : 'https://i.ytimg.com/vi/zlpH_1C-Gho/maxresdefault.jpg',
     name : 'Wishing On You',
     artist : 'Jihyo',
     music : 'audio/Jihyo-Wishing On You.mp3'
   },
   {
-    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    img : 'https://pbs.twimg.com/media/F3lN8MNbsAAeKxE.jpg:large',
     name : 'Don\'t Wanna Go Back',
     artist : 'Jihyo ft. HEIZE',
     music : 'audio/Jihyo-Don\'t Wanna Go Back.mp3'
   },
   {
-    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1Zu7ynChOUAadP_jDbvyR5lfn57NvjrNPQ&usqp=CAU',
     name : 'Closer',
     artist : 'Jihyo',
     music : 'audio/Jihyo-Closer.mp3'
   },
   {
-    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    img : 'https://i.ytimg.com/vi/3LrGiiwVC6o/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKgC4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBkc1268nrdh_ui9wETlxuze1GlYg',
     name : 'Room',
     artist : 'Jihyo',
     music : 'audio/Jihyo-Room.mp3'
   },
   {
-    img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
+    img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwCcUI2QENRlcNVJ_COysIpt7AN3BMEzDwg&usqp=CAU',
     name : 'Nightmare',
     artist : 'Jihyo',
     music : 'audio/Jihyo-Nightmare.mp3'
@@ -648,7 +648,7 @@ const playlist = [
     music : 'audio/Aespa-We Go.mp3'
   },
   {
-    img : 'https://static.wikia.nocookie.net/txt/images/3/3b/TXT_Good_Boy_Gone_Bad_Standard.jpg/revision/latest?cb=20220724204746',
+    img : 'https://static.wikia.nocookie.net/txt/images/3/36/TXT_Good_Boy_Gone_Bad_Limited_Edition_B.jpg/revision/latest?cb=20220724204902',
     name : 'Ring',
     artist : 'Tomorrow X Together',
     music : 'audio/Ring.mp3'
