@@ -636,6 +636,12 @@ const playlist = [
     music : 'audio/Itzy-Weapon.mp3'
   },
   {
+    img : 'https://www.musicplaza.com/cdn/shop/files/WPZL-32084_800x.jpg?v=1691515104',
+    name : 'Ringo',
+    artist : 'Itzy',
+    music : 'audio/Itzy-Ringo.mp3'
+  },
+  {
     img : 'https://upload.wikimedia.org/wikipedia/en/a/ac/Aespa_-_Welcome_to_My_World.png',
     name : 'Welcome To My World',
     artist : 'Aespa',
