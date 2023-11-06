@@ -609,7 +609,7 @@ const playlist = [
     img : 'https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616',
     name : 'Queencard',
     artist : '(G)I-DLE',
-    music : 'C:/Music Site/GIDLE/GIDLE-Queencard.mp3'
+    music : 'audio/GIDLE-Queencard.mp3'
   },
   {
     img : 'https://images.genius.com/7135b5e9e6c92f5c8782c48adccf786c.1000x1000x1.jpg',
