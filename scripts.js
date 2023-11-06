@@ -660,6 +660,12 @@ const playlist = [
     music : 'audio/Itzy-Weapon.mp3'
   },
   {
+    img : 'https://images.genius.com/1a7e143cdac5dfaad0f0c64eafbc8443.1000x1000x1.jpg',
+    name : 'Bet On Me',
+    artist : 'Itzy',
+    music : 'C:/Music Site/Itzy/Itzy-Bet On Me.mp3'
+  },
+  {
     img : 'https://www.musicplaza.com/cdn/shop/files/WPZL-32084_800x.jpg?v=1691515104',
     name : 'Ringo',
     artist : 'Itzy',
