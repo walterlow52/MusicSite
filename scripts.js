@@ -474,6 +474,18 @@ const playlist = [
     music : 'audio/Twice-Catch A Wave.mp3'
   },
   {
+    img : 'https://i.ytimg.com/vi/SY2kZjVEd54/hqdefault.jpg',
+    name : 'Monsters (Katie Sky)',
+    artist : 'Twice Cover by DAHYUN',
+    music : 'audio/Twice Cover by Dahyun-Monsters (Katie Sky).mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/1S-4d1nRUis/hqdefault.jpg',
+    name : 'Good Mood (Adam Levine)',
+    artist : 'Twice Cover by DAHYUN',
+    music : 'audio/Twice Cover by Dahyun-Good Mood (Adam Levine).mp3'
+  },
+  {
     img : 'https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02',
     name : 'Pop',
     artist : 'Nayeon',
