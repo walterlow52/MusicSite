@@ -612,6 +612,24 @@ const playlist = [
     music : 'audio/GIDLE-Queencard.mp3'
   },
   {
+    img : 'https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616',
+    name : 'Allergy',
+    artist : '(G)I-DLE',
+    music : 'audio/GIDLE-Allergy.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/8/81/%28G%29I-dle_%E2%80%93_I_Do.jpg',
+    name : 'I Do',
+    artist : '(G)I-DLE',
+    music : 'audio/GIDLE-I Do.mp3'
+  },
+  {
+    img : 'https://images.genius.com/839942f1ff5a5b7a21e8ca9813f8c446.1000x1000x1.png',
+    name : 'I Want That',
+    artist : '(G)I-DLE',
+    music : 'audio/GIDLE-I Want That.mp3'
+  },
+  {
     img : 'https://images.genius.com/7135b5e9e6c92f5c8782c48adccf786c.1000x1000x1.jpg',
     name : 'I\'ll Show You',
     artist : 'KDA ft. TWICE, Bekuh Boom, & Annika Wells',
