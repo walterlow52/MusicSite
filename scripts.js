@@ -606,6 +606,12 @@ const playlist = [
     music : 'audio/Misamo-Bouquet.mp3'
   },
   {
+    img : 'https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616',
+    name : 'Queencard',
+    artist : '(G)I-DLE',
+    music : 'C:/Music Site/GIDLE/GIDLE-Queencard.mp3'
+  },
+  {
     img : 'https://images.genius.com/7135b5e9e6c92f5c8782c48adccf786c.1000x1000x1.jpg',
     name : 'I\'ll Show You',
     artist : 'KDA ft. TWICE, Bekuh Boom, & Annika Wells',
@@ -646,6 +652,24 @@ const playlist = [
     name : 'Welcome To My World',
     artist : 'Aespa',
     music : 'audio/Aespa-Welcome To My World.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/2/2e/Aespa_-_Next_Level.jpg',
+    name : 'Next Level',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Next Level.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce',
+    name : 'Spicy',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Spicy.mp3'
+  },
+  {
+    img : 'https://images.genius.com/eeee77e3f0826a02a28e78b584280698.1000x1000x1.jpg',
+    name : 'Beter Things',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Better Things.mp3'
   },
   {
     img : 'https://images.genius.com/023e3f18072e1161f557c2e9153b5826.1000x1000x1.jpg',
