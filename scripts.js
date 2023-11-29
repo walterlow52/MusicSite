@@ -708,6 +708,12 @@ const playlist = [
     music : 'audio/Aespa-Better Things.mp3'
   },
   {
+    img : 'https://m.media-amazon.com/images/I/71BLCPDFlfL._UF1000,1000_QL80_.jpg',
+    name : 'Drama',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Drama.mp3'
+  },
+  {
     img : 'https://images.genius.com/023e3f18072e1161f557c2e9153b5826.1000x1000x1.jpg',
     name : 'We Go',
     artist : 'Aespa',
