@@ -690,6 +690,12 @@ const playlist = [
     music : 'audio/Aespa-Welcome To My World.mp3'
   },
   {
+    img : 'https://upload.wikimedia.org/wikipedia/en/e/e4/Aespa_-_Black_Mamba.png',
+    name : 'Black Mamba',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Black Mamba.mp3'
+  },
+  {
     img : 'https://upload.wikimedia.org/wikipedia/en/2/2e/Aespa_-_Next_Level.jpg',
     name : 'Next Level',
     artist : 'Aespa',
@@ -712,6 +718,12 @@ const playlist = [
     name : 'Drama',
     artist : 'Aespa',
     music : 'audio/Aespa-Drama.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764',
+    name : 'Jingle Bell Rock',
+    artist : 'Aespa',
+    music : 'audio/Aespa-JingleBell.mp3'
   },
   {
     img : 'https://images.genius.com/023e3f18072e1161f557c2e9153b5826.1000x1000x1.jpg',
