@@ -810,6 +810,12 @@ const playlist = [
     music : 'audio/Wasuregataki.mp3'
   },
   {
+    img : 'https://a.storyblok.com/f/178900/1064x1480/80804d3052/jujutsu-kaisen-season-2-shibuya-incident-key-art-1064.png/m/filters:quality(95)format(webp)',
+    name : 'Specialz (Jujitsu Kaisen Season 2 OP 2)',
+    artist : 'King Gnu',
+    music : 'audio/Specialz.mp3'
+  },
+  {
     img : 'https://i.ytimg.com/vi/syv7ONEE4co/maxresdefault.jpg',
     name : 'Touch Off (The Promised Neverland OP 1)',
     artist : 'UVERworld',
