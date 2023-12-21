@@ -683,7 +683,7 @@ const playlist = [
     artist : 'Itzy',
     music : 'audio/Itzy-Ringo.mp3'
   },
-  {
+ {
     img : 'https://upload.wikimedia.org/wikipedia/en/a/ac/Aespa_-_Welcome_to_My_World.png',
     name : 'Welcome To My World',
     artist : 'Aespa',
@@ -702,10 +702,52 @@ const playlist = [
     music : 'audio/Aespa-Next Level.mp3'
   },
   {
+    img : 'https://static.wikia.nocookie.net/aespa/images/f/fa/Girls_Digital_Album_Cover.png/revision/latest?cb=20220708052010',
+    name : 'Girls',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Girls.mp3'
+  },
+  {
+    img : 'https://static.wikia.nocookie.net/aespa/images/f/fa/Girls_Digital_Album_Cover.png/revision/latest?cb=20220708052010',
+    name : 'Illusion',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Illusion.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/5/59/Life%27s_Too_Short_English_version.jpg',
+    name : 'Life\'s Too Short',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Life\'s Too Short.mp3'
+  },
+  {
+    img : 'https://d238m8ukn6hkhb.cloudfront.net/file/project/singer_aespa_01/intro/aespa_01_thumb.jpg',
+    name : 'aenergy',
+    artist : 'Aespa',
+    music : 'audio/Aespa-aenergy.mp3'
+  },
+  {
+    img : 'https://d238m8ukn6hkhb.cloudfront.net/file/project/singer_aespa_01/intro/aespa_01_thumb.jpg',
+    name : 'Yeppi Yeppi',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Yeppi.mp3'
+  },
+  {
+    img : 'https://d238m8ukn6hkhb.cloudfront.net/file/project/singer_aespa_01/intro/aespa_01_thumb.jpg',
+    name : 'Lucid Dream',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Lucid Dream.mp3'
+  },
+  {
     img : 'https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce',
     name : 'Spicy',
     artist : 'Aespa',
     music : 'audio/Aespa-Spicy.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce',
+    name : 'Till We Meet Again',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Meet Again.mp3'
   },
   {
     img : 'https://images.genius.com/eeee77e3f0826a02a28e78b584280698.1000x1000x1.jpg',
@@ -718,6 +760,48 @@ const playlist = [
     name : 'Drama',
     artist : 'Aespa',
     music : 'audio/Aespa-Drama.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/I/71BLCPDFlfL._UF1000,1000_QL80_.jpg',
+    name : 'Trick or Trick',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Trick or Trick.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/I/71BLCPDFlfL._UF1000,1000_QL80_.jpg',
+    name : 'Don\'t Blink',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Don\'t Blink.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/I/71BLCPDFlfL._UF1000,1000_QL80_.jpg',
+    name : 'YOLO',
+    artist : 'Aespa',
+    music : 'audio/Aespa-YOLO.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/I/71BLCPDFlfL._UF1000,1000_QL80_.jpg',
+    name : 'You',
+    artist : 'Aespa',
+    music : 'audio/Aespa-You.mp3'
+  },
+  {
+    img : 'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/a7/c0/9ea7c0dd-6e09-35c2-f240-1545b0c2db23/5054197834004.jpg/1200x1200bf-60.jpg',
+    name : 'Zoom Zoom',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Zoom Zoom.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/i0RCcSBPjuU/maxresdefault.jpg',
+    name : 'Thirsty',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Thirsty.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/fvtzZFhrKLE/maxresdefault.jpg',
+    name : 'Hold On Tight',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Hold On Tight.mp3'
   },
   {
     img : 'https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764',
