@@ -900,6 +900,24 @@ const playlist = [
     music : 'audio/Wasuregataki.mp3'
   },
   {
+    img : 'https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg',
+    name : 'Kaikai Kitan (Jujitsu Kaisen Season 1 OP 1)',
+    artist : 'Eve',
+    music : 'audio/Kai.mp3'
+  },
+  {
+    img : 'https://cdn.mos.cms.futurecdn.net/4VePFAXZRhb3MNcCsuKqmW.jpg',
+    name : 'Vivid Vice (Jujitsu Kaisen Season 1 OP 2)',
+    artist : 'Who-ya Extended',
+    music : 'audio/Vice.mp3'
+  },
+  {
+    img : 'https://www.cnet.com/a/img/resize/c3f018606cbd01ce8d0f9ca3506d7dce15d66acc/hub/2023/07/05/b8503974-3baa-4311-bfa1-5e5b747c83ad/jujutsu-kaisen-season-2.jpg?auto=webp&width=1200',
+    name : 'Ao No Sumika (Jujitsu Kaisen Season 2 OP 1)',
+    artist : 'Tatsuya Kitani',
+    music : 'audio/Sumika.mp3'
+  },
+  {
     img : 'https://a.storyblok.com/f/178900/1064x1480/80804d3052/jujutsu-kaisen-season-2-shibuya-incident-key-art-1064.png/m/filters:quality(95)format(webp)',
     name : 'Specialz (Jujitsu Kaisen Season 2 OP 2)',
     artist : 'King Gnu',
