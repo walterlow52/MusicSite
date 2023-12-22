@@ -732,6 +732,18 @@ const playlist = [
     music : 'audio/Aespa-Life\'s Too Short.mp3'
   },
   {
+    img : 'https://static.wikia.nocookie.net/kpop/images/0/03/Aespa_Dreams_Come_True_album_cover.png/revision/latest?cb=20211220092818',
+    name : 'Dreams Come True',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Dreams Come True.mp3'
+  },
+  {
+    img : 'https://d238m8ukn6hkhb.cloudfront.net/file/project/singer_aespa_01/intro/aespa_01_thumb.jpg',
+    name : 'Savage',
+    artist : 'Aespa',
+    music : 'audio/Aespa-Savage.mp3'
+  },
+  {
     img : 'https://d238m8ukn6hkhb.cloudfront.net/file/project/singer_aespa_01/intro/aespa_01_thumb.jpg',
     name : 'aenergy',
     artist : 'Aespa',
