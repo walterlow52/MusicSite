@@ -1087,15 +1087,27 @@ const playlist = [
   },
   {
     img : 'https://i.ytimg.com/vi/6VfRB-O82XM/maxresdefault.jpg',
-    name : 'Rise (English Version) (The Rising of the Shield Hero OP 1)',
+    name : 'Rise (English Version) (The Rising of the Shield Hero Season 1 OP 1)',
     artist : 'Madkid',
     music : 'audio/Rise.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/blXjSva7Q9U/maxresdefault.jpg',
-    name : 'Faith (English Version) (The Rising of the Shield Hero OP 2)',
+    name : 'Faith (English Version) (The Rising of the Shield Hero Season 1 OP 2)',
     artist : 'Madkid',
     music : 'audio/Faith.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/Bjm5TPhsLPQ/maxresdefault.jpg',
+    name : 'Bring Back (The Rising of the Shield Hero Season 2 OP)',
+    artist : 'Madkid',
+    music : 'audio/Bring Back.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/9/93/The_Rising_of_the_Shield_Hero_Season_3_KV.jpg',
+    name : 'Sin (The Rising of the Shield Hero Season 3 OP)',
+    artist : 'Madkid',
+    music : 'audio/Sin.mp3'
   },
   {
     img : 'https://img1.ak.crunchyroll.com/i/spire1/2f24e280b7c0c94000d91133fe1552cc1665499260_main.png',
