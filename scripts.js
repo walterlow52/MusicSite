@@ -537,7 +537,7 @@ const playlist = [
     img : 'https://img5.yna.co.kr/etc/inner/EN/2023/09/08/AEN20230908005500315_01_i_P2.jpg',
     name : 'Killin\' Me Good (English Version)',
     artist : 'Jihyo',
-    music : 'C:/Music Site/Jihyo/Jihyo-Killin Me Good (Eng).mp3'
+    music : 'audio/Jihyo-Killin Me Good (Eng).mp3'
   },
   {
     img : 'https://0.soompi.io/wp-content/uploads/2023/06/08081005/Jihyo-1.jpeg',
