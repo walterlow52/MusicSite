@@ -469,6 +469,12 @@
     music : 'audio/Twice-Catch A Wave.mp3'
   },
   {
+    img : 'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/a5/18/caa5180b-35c4-155e-521e-0e2193dce20f/5054197922886.jpg/1200x1200bf-60.jpg',
+    name : 'Dance Again',
+    artist : 'TWICE',
+    music : 'audio/Twice-Dance Again.mp3'
+  },
+  {
     img : 'https://i.ytimg.com/vi/SY2kZjVEd54/hqdefault.jpg',
     name : 'Monsters (Katie Sky)',
     artist : 'Twice Cover by DAHYUN',
