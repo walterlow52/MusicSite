@@ -945,7 +945,7 @@ const playlist = [
     img : 'https://i.ytimg.com/vi/6riDJMI-Y8U/maxresdefault.jpg',
     name : 'Lost In Paradise (Jujitsu Kaisen Season 1 ED 1)',
     artist : 'Ali ft. Aklo',
-    music : 'C:/Music Site/Juju/Paradise.mp3'
+    music : 'audio/Paradise.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/syv7ONEE4co/maxresdefault.jpg',
