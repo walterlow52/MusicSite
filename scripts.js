@@ -936,7 +936,7 @@ const playlist = [
     music : 'audio/Sumika.mp3'
   },
   {
-    img : 'https://a.storyblok.com/f/178900/1064x1480/80804d3052/jujutsu-kaisen-season-2-shibuya-incident-key-art-1064.png/m/filters:quality(95)format(webp)',
+    img : 'https://media.kitsu.io/anime/45857/poster_image/large-1ebb56f346edda6bcde9cdffa9b89316.jpeg',
     name : 'Specialz (Jujitsu Kaisen Season 2 OP 2)',
     artist : 'King Gnu',
     music : 'audio/Specialz.mp3'
