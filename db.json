@@ -1229,6 +1229,48 @@
     "name" : "Paint (One Piece OP 24)",
     "artist" : "I Don't Like Mondays",
     "music" : "audio/Paint.mp3"
+  },
+  {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/5/5b/BlackOpsII_CarryOn.jpg",
+    "name" : "Carry On (Call of Duty Black Ops 2 - Campaign ED Soundtrack)",
+    "artist" : "Avenged Sevenfold",
+    "music" : "audio/Carry On.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/-B19u9tHnIs/maxresdefault.jpg",
+    "name" : "115 (Call Of Duty Black Ops Zombies/Black Ops 3 Zombies Chronicles - Kino Der Toten EE)",
+    "artist" : "Treyarch - Kevin Sherwood & Elena Siegman",
+    "music" : "audio/115.mp3"
+  },
+  {
+    "img" : "https://pm1.aminoapps.com/6481/ffdca04031697bb9dcae561b960442413a634c69_00.jpg",
+    "name" : "Carrion (Call of Duty Black Ops 2 Zombies - Tranzit EE)",
+    "artist" : "Kevin Sherwood",
+    "music" : "audio/Carrion.mp3"
+  },
+  {
+    "img" : "https://static.wikia.nocookie.net/callofduty/images/4/4d/The_Giant_Menu_Selection_BO3.png/revision/latest?cb=20160923082219",
+    "name" : "Beauty of Annihilation (Call of Duty World At War/Black Ops 3 Zombies - Der Riese/The Giant EE)",
+    "artist" : "Kevin Sherwood ft. Elena Siegman",
+    "music" : "audio/BOA.mp3"
+  },
+  {
+    "img" : "https://static.wikia.nocookie.net/callofduty/images/7/72/Gorod_Krovi_Menu_Selection_BO3.png/revision/latest?cb=20160923082253",
+    "name" : "Ace of Spades (Call of Duty Black Ops 3 Zombies - Gorod Krovi)",
+    "artist" : "Motorhead",
+    "music" : "audio/AOS.mp3"
+  },
+  {
+    "img" : "https://callofdutymaps.com/wp-content/uploads/originsloadscreen-1024x576.jpg",
+    "name" : "Shepherd of Fire (Call of Duty Black Ops 2 Zombies/Black Ops 3 Zombies Chronicles - Origins EE)",
+    "artist" : "Avenged Sevenfold",
+    "music" : "audio/SOF.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/ysho2xTWUYo/maxresdefault.jpg",
+    "name" : "Animal I Have Become",
+    "artist" : "Three Days Grace",
+    "music" : "audio/TDG-Animal.mp3"
   }
   ]
 }
