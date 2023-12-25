@@ -709,13 +709,13 @@
     "music" : "audio/Aespa-Next Level.mp3"
   },
   {
-    "img" : "https://static.wikia.nocookie.net/aespa/images/f/fa/Girls_Digital_Album_Cover.png/revision/latest?cb=20220708052010",
+    "img" : "https://upload.wikimedia.org/wikipedia/en/5/59/Aespa_-_Girls.png",
     "name" : "Girls",
     "artist" : "Aespa",
     "music" : "audio/Aespa-Girls.mp3"
   },
   {
-    "img" : "https://static.wikia.nocookie.net/aespa/images/f/fa/Girls_Digital_Album_Cover.png/revision/latest?cb=20220708052010",
+    "img" : "https://upload.wikimedia.org/wikipedia/en/5/59/Aespa_-_Girls.png",
     "name" : "Illusion",
     "artist" : "Aespa",
     "music" : "audio/Aespa-Illusion.mp3"
@@ -727,7 +727,7 @@
     "music" : "audio/Aespa-Life's Too Short.mp3"
   },
   {
-    "img" : "https://static.wikia.nocookie.net/kpop/images/0/03/Aespa_Dreams_Come_True_album_cover.png/revision/latest?cb=20211220092818",
+    "img" : "https://www.allkpop.com/upload/2021/12/content/210045/1640065530-img-20211221-134454.jpg",
     "name" : "Dreams Come True",
     "artist" : "Aespa",
     "music" : "audio/Aespa-Dreams Come True.mp3"
@@ -877,7 +877,7 @@
     "music" : "audio/Seventeen-To You.mp3"
   },
   {
-    "img" : "https://cdn.myanimelist.net/images/about_me/ranking_items/10368353-d76675b5-2ba1-4339-9f1d-51da9969fa7f.jpg?t=1673962766",
+    "img" : "https://www.nautiljon.com/images/anime/00/38/blue_lock_10583.webp?1679771155",
     "name" : "Chaos ga Kiwamaru (Blue Lock OP 1)",
     "artist" : "Unison Square Garden",
     "music" : "audio/Chaos ga Kiwamaru.mp3"
@@ -1249,13 +1249,13 @@
     "music" : "audio/Carrion.mp3"
   },
   {
-    "img" : "https://static.wikia.nocookie.net/callofduty/images/4/4d/The_Giant_Menu_Selection_BO3.png/revision/latest?cb=20160923082219",
+    "img" : "https://cdn.akamai.steamstatic.com/steam/apps/366849/ss_8ae9ef9fc44fd5165837d3a4b9a7adf075ca07e9.1920x1080.jpg?t=1554429088",
     "name" : "Beauty of Annihilation (Call of Duty World At War/Black Ops 3 Zombies - Der Riese/The Giant EE)",
     "artist" : "Kevin Sherwood ft. Elena Siegman",
     "music" : "audio/BOA.mp3"
   },
   {
-    "img" : "https://static.wikia.nocookie.net/callofduty/images/7/72/Gorod_Krovi_Menu_Selection_BO3.png/revision/latest?cb=20160923082253",
+    "img" : "https://steamuserimages-a.akamaihd.net/ugc/1689373386869227673/91624D5124686FB72725DDD68A9E8EB85A618785/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
     "name" : "Ace of Spades (Call of Duty Black Ops 3 Zombies - Gorod Krovi)",
     "artist" : "Motorhead",
     "music" : "audio/AOS.mp3"
