@@ -990,6 +990,12 @@ const playlist = [
     music : 'audio/Everlasting Sunshine.mp3'
   },
   {
+    img : 'https://i.ytimg.com/vi/NFzwbDplw14/maxresdefault.jpg',
+    name : 'A Walk (Black Clover ED 12)',
+    artist : 'Gakuto Kajiwara',
+    music : 'audio/A Walk.mp3'
+  },
+  {
     img : 'https://i.ytimg.com/vi/aaZq6SXXNt4/maxresdefault.jpg',
     name : 'Grandeur (Black Clover OP 13)',
     artist : 'SnowMan',
@@ -1000,6 +1006,12 @@ const playlist = [
     name : 'Beautiful (Black Clover ED 13)',
     artist : 'Treasure',
     music : 'audio/Beautiful.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/MWSR17vEVBw/maxresdefault.jpg',
+    name : 'Red Swan (Attack on Titan Season 3 OP 1)',
+    artist : 'YOSHIKI ft. HYDE',
+    music : 'audio/Red Swan.mp3'
   },
   {
     img : 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/attack-on-titan-titans-origin-story-subjects-ymir-eldia-marley.jpeg?q=50&fit=crop&w=1280&dpr=1.5',
@@ -1090,6 +1102,36 @@ const playlist = [
     name : 'Leader (Hortensia Saga OP)',
     artist : 'My First Story',
     music : 'audio/Leader.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/M/MV5BNzdhOGUwNjEtNTQyMi00MjkxLThkNDMtYjZiZmVkYWI2NDllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg',
+    name : 'Chain (Darwin\'s Game OP)',
+    artist : 'ASCA',
+    music : 'audio/Chain.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-000113182788-h3fkix-t500x500.jpg',
+    name : 'Core Pride (Blue Exorcist OP 1)',
+    artist : 'UVERworld',
+    music : 'audio/Core Pride.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-ywrvJaO29SWV1RwJ-es7eTw-t500x500.jpg',
+    name : 'Long Shot (Re:Zero Season 2 OP 2)',
+    artist : 'Mayu Maeshima',
+    music : 'audio/Long shot.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/UW_-eBc0U7U/maxresdefault.jpg',
+    name : 'Contradiction (The God of High School OP)',
+    artist : 'KSUKE ft. Tyler Carter',
+    music : 'audio/Contradiction.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg',
+    name : 'Again (Fullmetal Alchemist: Brotherhood OP 1)',
+    artist : 'YUI',
+    music : 'audio/Again.mp3'
   },
   {
     img : 'https://i1.sndcdn.com/artworks-000590206535-zqm1wf-t500x500.jpg',
@@ -1198,6 +1240,12 @@ const playlist = [
     name : 'Kara no Kokoro (Naruto Shippuden OP 20)',
     artist : 'Anly',
     music : 'audio/Kara No Kokoro.mp3'
+  },
+  {
+    img : 'https://64.media.tumblr.com/ae027ac1da91f0f2059a125195d3ed6d/f26f889b0c622418-41/s500x750/c8d44240012d96ebc2a29af3048f2c3e825928b1.gif',
+    name : 'Number One (Bleach OST)',
+    artist : 'Shiro Sagisu ft. Hazel Fernandes',
+    music : 'audio/Bleach #1.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/mjeR7vUrDvM/mqdefault.jpg',
