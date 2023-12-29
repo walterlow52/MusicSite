@@ -1245,7 +1245,7 @@ const playlist = [
     img : 'https://64.media.tumblr.com/ae027ac1da91f0f2059a125195d3ed6d/f26f889b0c622418-41/s500x750/c8d44240012d96ebc2a29af3048f2c3e825928b1.gif',
     name : 'Number One (Bleach OST)',
     artist : 'Shiro Sagisu ft. Hazel Fernandes',
-    music : 'audio/Bleach #1.mp3'
+    music : 'audio/Bleach1.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/mjeR7vUrDvM/mqdefault.jpg',
