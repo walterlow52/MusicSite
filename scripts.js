@@ -882,6 +882,12 @@ const playlist = [
     music : 'audio/Seventeen-To You.mp3'
   },
   {
+    img : 'https://m.media-amazon.com/images/M/MV5BMjhhMDU5Y2QtMzcyZS00ZGE1LTg3ZjMtMTYyOTM0OTFlYTRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
+    name : 'Blizzard (English Version) (Dragon Ball Super: Broly OST)',
+    artist : 'Daichi Miura',
+    music : 'audio/Blizzard.mp3'
+  },
+  {
     img : 'https://www.nautiljon.com/images/anime/00/38/blue_lock_10583.webp?1679771155',
     name : 'Chaos ga Kiwamaru (Blue Lock OP 1)',
     artist : 'Unison Square Garden',
@@ -952,6 +958,12 @@ const playlist = [
     name : 'Touch Off (The Promised Neverland OP 1)',
     artist : 'UVERworld',
     music : 'audio/Touch Off.mp3'
+  },
+  {
+    img : 'https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2020/12/The-Promised-Neverland-Season-2-Key-Visual-2-e1607302281296.jpg?resize=696%2C392&ssl=1',
+    name : 'Identity (The Promised Neverland Season 2 OP)',
+    artist : 'Kiro Akiyama',
+    music : 'audio/Identity.mp3'
   },
   {
     img : 'http://pm1.narvii.com/6663/57d565a6f64484659d2ae7b64ac6035a11a268fe_00.jpg',
@@ -1026,6 +1038,24 @@ const playlist = [
     music : 'audio/You Say Run.mp3'
   },
   {
+    img : 'https://media.comicbook.com/2018/04/my-hero-academia-season-3-opening-credits-spoilers-1100764.jpeg',
+    name : 'Odd Future (My Hero Academia Season 3 OP 1)',
+    artist : 'UVERworld',
+    music : 'audio/Odd Future.mp3'
+  },
+  {
+    img : 'https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8b/Season_4_Promotional_Teaser.png/revision/latest?cb=20181219101409',
+    name : 'Polaris (My Hero Academia Season 4 OP 1)',
+    artist : 'Blue Encount',
+    music : 'audio/Polaris.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/Ei0LbNH02-Y/maxresdefault.jpg',
+    name : 'Shout Baby (My Hero Academia Season 4 ED 2)',
+    artist : 'Ryokuoushoku Shakai',
+    music : 'audio/Shout.mp3'
+  },
+  {
     img : 'https://64.media.tumblr.com/42a3d62915c24f3967e00e90cae54f9b/86c71349977d58e6-e6/s540x810/f63a571cd376075e4cf096a875a4635e68a36aee.gif',
     name : 'Merry-Go-Round (My Hero Academia Season 5 OP 2)',
     artist : 'Man With A Mission',
@@ -1098,6 +1128,18 @@ const playlist = [
     music : 'audio/Koi Kogare.mp3'
   },
   {
+    img : 'https://static.wikia.nocookie.net/digimon/images/6/6e/Brave_heart_2.jpg/revision/latest?cb=20110113110759',
+    name : 'Brave Heart (Digimon)',
+    artist : 'Animelmack',
+    music : 'audio/Brave Heart.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/M/MV5BZmM5YjNmZWMtNTgxOC00NzUwLTgwZTMtN2QwOTExMjJmOTY4XkEyXkFqcGdeQXVyMTI0ODUzNzQw._V1_.jpg',
+    name : 'Final Phase (A Certain Scientific Railgun OP)',
+    artist : 'fripSide',
+    music : 'audio/Final Phase.mp3'
+  },
+  {
     img : 'https://www.lyrical-nonsense.com/wp-content/uploads/2020/12/MY-FIRST-STORY-LEADER.jpg',
     name : 'Leader (Hortensia Saga OP)',
     artist : 'My First Story',
@@ -1116,6 +1158,12 @@ const playlist = [
     music : 'audio/Core Pride.mp3'
   },
   {
+    img : 'https://m.media-amazon.com/images/M/MV5BNTlkMTYyODEtM2ZjZS00NGI2LWI1NTEtY2FhZmI0MGRmMjljXkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_FMjpg_UX1000_.jpg',
+    name : 'Adabana Necromancy (Zombie Land Saga OP 1)',
+    artist : 'Franchouchou',
+    music : 'audio/Necromancy.mp3'
+  },
+  {
     img : 'https://i1.sndcdn.com/artworks-ywrvJaO29SWV1RwJ-es7eTw-t500x500.jpg',
     name : 'Long Shot (Re:Zero Season 2 OP 2)',
     artist : 'Mayu Maeshima',
@@ -1132,6 +1180,12 @@ const playlist = [
     name : 'Again (Fullmetal Alchemist: Brotherhood OP 1)',
     artist : 'YUI',
     music : 'audio/Again.mp3'
+  },
+  {
+    img : 'https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg',
+    name : 'the WORLD (Death Note OP 1)',
+    artist : 'Nightmare',
+    music : 'audio/World.mp3'
   },
   {
     img : 'https://i1.sndcdn.com/artworks-000590206535-zqm1wf-t500x500.jpg',
@@ -1246,6 +1300,24 @@ const playlist = [
     name : 'Number One (Bleach OST)',
     artist : 'Shiro Sagisu ft. Hazel Fernandes',
     music : 'audio/Bleach1.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67706c0000da8442ee8ef9ee65eb7dc1392bee',
+    name : 'Asterisk (Bleach OP 1)',
+    artist : 'Orange Range',
+    music : 'audio/Asterisk.mp3'
+  },
+  {
+    img : 'https://static.wikia.nocookie.net/bleach/images/a/a6/Ep26D-tecnoLifeCast.png/revision/latest?cb=20210401034214&path-prefix=en',
+    name : 'D-tecnoLife (Bleach OP 2)',
+    artist : 'UVERworld',
+    music : 'audio/D.mp3'
+  },
+  {
+    img : 'https://qph.cf2.quoracdn.net/main-qimg-cb66a547a7969ba42e5e41fafc3ead0d',
+    name : 'Alones (Bleach OP 6)',
+    artist : 'Aqua Timez',
+    music : 'audio/Alones.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/mjeR7vUrDvM/mqdefault.jpg',
