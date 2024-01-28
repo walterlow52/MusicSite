@@ -900,6 +900,12 @@ const playlist = [
     music : 'audio/Judgement.mp3'
   },
   {
+    img : 'https://m.media-amazon.com/images/M/MV5BYWMwYmYwNjMtMmE0MC00ODdhLTgzYzQtYzA3MDQ5OWRmZWNhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg',
+    name : 'LEveL (Solo Leveling OP)',
+    artist : 'SawanoHiroyuki[nZk] ft. TOMORROW X TOGETHER (TXT)',
+    music : 'audio/Level.mp3'
+  },
+  {
     img : 'https://i.ytimg.com/vi/tF4faMbs5oQ/maxresdefault.jpg',
     name : 'Good Morning World (Dr. Stone OP 1)',
     artist : 'Burnout Syndromes',
