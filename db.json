@@ -475,6 +475,12 @@
     "music" : "audio/Twice-Dance Again.mp3"
   },
   {
+    "img" : "https://i1.sndcdn.com/artworks-MkcUSTeyFnpn0hvf-mWZe4g-t500x500.jpg",
+    "name" : "I Got You",
+    "artist" : "TWICE",
+    "music" : "audio/Twice-I Got You.mp3"
+  },     
+  {
     "img" : "https://i.ytimg.com/vi/SY2kZjVEd54/hqdefault.jpg",
     "name" : "Monsters (Katie Sky)",
     "artist" : "Twice Cover by DAHYUN",
@@ -689,6 +695,12 @@
     "name" : "Ringo",
     "artist" : "Itzy",
     "music" : "audio/Itzy-Ringo.mp3"
+  },
+  {
+    "img" : "https://musicdaily.com/wp-content/uploads/2024/01/itzy-born-to-be-1024x819.jpeg",
+    "name" : "Born To Be",
+    "artist" : "Itzy",
+    "music" : "audio/Itzy-Born to Be.mp3"
   },
   {
     "img" : "https://upload.wikimedia.org/wikipedia/en/a/ac/Aespa_-_Welcome_to_My_World.png",
