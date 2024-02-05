@@ -1206,6 +1206,30 @@ const playlist = [
     music : 'audio/World.mp3'
   },
   {
+    img : 'https://i.ytimg.com/vi/JBqxVX_LXvk/maxresdefault.jpg',
+    name : 'Inferno (Fire Force Season 1 OP 1)',
+    artist : 'Mrs. Green Apple',
+    music : 'audio/Inferno.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/E_-EEKSs-J0/maxresdefault.jpg',
+    name : 'Mayday (Fire Force Season 1 OP 2)',
+    artist : 'coldrain',
+    music : 'audio/Mayday.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/SXe3r64cWTk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDljXFdGRivNVKzYnCA9OARRIkI-A',
+    name : 'Spark Again (Fire Force Season 2 OP 1)',
+    artist : 'Aimer',
+    music : 'audio/Spark Again.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/SXe3r64cWTk/maxresdefault.jpg',
+    name : 'Torch Of Liberty (Fire Force Season 2 OP 2)',
+    artist : 'Kana-Boon',
+    music : 'audio/Torch of Liberty.mp3'
+  },
+  {
     img : 'https://i1.sndcdn.com/artworks-000590206535-zqm1wf-t500x500.jpg',
     name : 'Mukanjyo (Vinland Saga OP 1)',
     artist : 'Survive Said The Prophet',
@@ -1284,10 +1308,34 @@ const playlist = [
     music : 'audio/Time Left.mp3'
   },
   {
+    img : 'https://i0.wp.com/www.maxatplay.com/wp-content/uploads/2018/10/Screenshot_20181002-183750.jpg?resize=800%2C445',
+    name : 'Seven Deadly Sins (The Seven Deadly Sins Season 1 OP 2)',
+    artist : 'Man With A Mission',
+    music : 'audio/SDS.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/kheMFtQJabQ/maxresdefault.jpg',
+    name : 'Howling (The Seven Deadly Sins Season 2 OP 1)',
+    artist : 'Flow X Granrodeo',
+    music : 'audio/Howling.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/vxvP9zSOL7s/maxresdefault.jpg',
+    name : 'Hero\'s Come Back (Naruto Shippuden OP 1)',
+    artist : 'nobodyknows+',
+    music : 'audio/Hero ComeBack.mp3'
+  },
+  {
     img : 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/95740abd-84e1-40f6-9ea9-9a73ce727d1a/dd2l97b-8eff5fe2-e709-41ec-a890-30d15eebcb4d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1NzQwYWJkLTg0ZTEtNDBmNi05ZWE5LTlhNzNjZTcyN2QxYVwvZGQybDk3Yi04ZWZmNWZlMi1lNzA5LTQxZWMtYTg5MC0zMGQxNWVlYmNiNGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oH5qzHbeoKhlJtns66kNkmvuKV-3IX4DbfrrEPFV9uw',
     name : 'Closer (Naruto Shippuden OP 4)',
     artist : 'Joe Inoue',
     music : 'audio/Closer.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/SavhHnWla6c/maxresdefault.jpg',
+    name : 'Sign (Naruto Shippuden OP 6)',
+    artist : 'Flow',
+    music : 'audio/Sign.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/P1yJ51DH-18/maxresdefault.jpg',
@@ -1302,6 +1350,12 @@ const playlist = [
     music : 'audio/Moshimo.mp3'
   },
   {
+    img : 'https://i.ytimg.com/vi/zVgKnfN9i34/maxresdefault.jpg',
+    name : 'Silhouette (Naruto Shippuden OP 16)',
+    artist : 'Kana-Boon',
+    music : 'audio/Silhouette.mp3'
+  },
+  {
     img : 'https://c.tenor.com/cRFh6sC-sFwAAAAd/naruto-op-naruto-op19.gif',
     name : 'Blood Circulator (Naruto Shippuden OP 19)',
     artist : 'Asian Kung-Fu Generation',
@@ -1312,6 +1366,24 @@ const playlist = [
     name : 'Kara no Kokoro (Naruto Shippuden OP 20)',
     artist : 'Anly',
     music : 'audio/Kara No Kokoro.mp3'
+  },
+  {
+    img : 'https://pbs.twimg.com/media/EyIB2B2W8AI_twp?format=jpg&name=large',
+    name : 'Baku (Boruto: Naruto Next Generations OP 8)',
+    artist : 'Ikimonogakari',
+    music : 'audio/Baku.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-Xw6KvAWUEmbuRjfi-0mVImQ-t500x500.jpg',
+    name : 'Gold (Boruto: Naruto Next Generations OP 10)',
+    artist : 'Flow',
+    music : 'audio/Gold.mp3'
+  },
+  {
+    img : 'https://i.ytimg.com/vi/5H7XdgAB_Bg/maxresdefault.jpg',
+    name : 'Kirarirari (Boruto: Naruto Next Generations OP 11)',
+    artist : 'Kana-Boon',
+    music : 'audio/Kirarirari.mp3'
   },
   {
     img : 'https://64.media.tumblr.com/ae027ac1da91f0f2059a125195d3ed6d/f26f889b0c622418-41/s500x750/c8d44240012d96ebc2a29af3048f2c3e825928b1.gif',
