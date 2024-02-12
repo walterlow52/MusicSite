@@ -1195,6 +1195,12 @@
     "music" : "audio/Again.mp3"
   },
   {
+    "img" : "https://i1.sndcdn.com/artworks-000271210709-vooivl-t500x500.jpg",
+    "name" : "Uso (Fullmetal Alchemist: Brotherhood ED 1)",
+    "artist" : "SID",
+    "music" : "audio/Uso.mp3"
+  },
+  {
     "img" : "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
     "name" : "the WORLD (Death Note OP 1)",
     "artist" : "Nightmare",
@@ -1399,10 +1405,82 @@
     "music" : "audio/D.mp3"
   },
   {
+    "img" : "https://i.makeagif.com/media/1-22-2017/51Bn3Z.gif",
+    "name" : "Ichirin no Hana (Bleach OP 3)",
+    "artist" : "HIGH and MIGHTY COLOR",
+    "music" : "audio/Ichirin.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/oi3wY1-EwDs/maxresdefault.jpg",
+    "name" : "Tonight, Tonight, Tonight (Bleach OP 4)",
+    "artist" : "BEAT CRUSADERS",
+    "music" : "audio/Tonight.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/PSDIaaRC3jc/maxresdefault.jpg",
+    "name" : "Rolling Star (Bleach OP 5)",
+    "artist" : "Yui",
+    "music" : "audio/Rolling Star.mp3"
+  },
+  {
     "img" : "https://qph.cf2.quoracdn.net/main-qimg-cb66a547a7969ba42e5e41fafc3ead0d",
     "name" : "Alones (Bleach OP 6)",
     "artist" : "Aqua Timez",
     "music" : "audio/Alones.mp3"
+  },
+  {
+    "img" : "https://static.wikia.nocookie.net/bleach/images/0/05/Bleach_-_Opening_7_After_Dark/revision/latest/scale-to-width-down/340?cb=20190413230710&path-prefix=en",
+    "name" : "After Dark (Bleach OP 7)",
+    "artist" : "Asian Kung-Fu Generation",
+    "music" : "audio/After Dark.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/cZ8Xpej1hXo/maxresdefault.jpg",
+    "name" : "Chubura (Bleach OP 8)",
+    "artist" : "Kelun",
+    "music" : "audio/Chubura.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/M8HPgF5MS88/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEkgSihZMA8=&rs=AOn4CLCu2bfxTZZgMsdT2gxKae224rLGWw",
+    "name" : "Velonica (Bleach OP 9)",
+    "artist" : "Aqua Timez",
+    "music" : "audio/Velonica.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/HN_-WaTLD_A/maxresdefault.jpg",
+    "name" : "Shoujyo S (Bleach OP 10)",
+    "artist" : "SCANDAL",
+    "music" : "audio/Shoujyo S.mp3"
+  },
+  {
+    "img" : "https://static.wikia.nocookie.net/bleach/images/1/17/Bleach_-_Opening_11_Anima_Rossa/revision/latest/scale-to-width-down/340?cb=20190413231154&path-prefix=en",
+    "name" : "Anima Rossa (Bleach OP 11)",
+    "artist" : "PornoGraffitti",
+    "music" : "audio/Anima.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/i0we6am_25g/maxresdefault.jpg",
+    "name" : "chAngE (Bleach OP 12)",
+    "artist" : "Miwa",
+    "music" : "audio/Change.mp3"
+  },
+  {
+    "img" : "https://external-preview.redd.it/Qwlvkcu30MKJyBaWOXcWSzRyFzStvHHEIi7cRi-omoM.png?format=pjpg&auto=webp&s=21f521541267033bb72e3b0f6f6a88ebca75a2f1",
+    "name" : "Ranbu No Melody (Bleach OP 13)",
+    "artist" : "SID",
+    "music" : "audio/Ranbu.mp3"
+  },
+  {
+    "img" : "https://i1.sndcdn.com/artworks-000136274840-b0uad1-t500x500.jpg",
+    "name" : "Blue (Bleach OP 14)",
+    "artist" : "ViViD",
+    "music" : "audio/Blue.mp3"
+  },
+  {
+    "img" : "https://i.makeagif.com/media/6-13-2015/Zxm6lc.gif",
+    "name" : "Harukaze (Bleach OP 15)",
+    "artist" : "SCANDAL",
+    "music" : "audio/Harukaze.mp3"
   },
   {
     "img" : "https://i.ytimg.com/vi/mjeR7vUrDvM/mqdefault.jpg",
