@@ -31,6 +31,36 @@
     "music" : "audio/Spiderverse/Givin' Up.mp3"
   },
   {
+    "img" : "https://i1.sndcdn.com/artworks-000131062466-gbhsgy-t500x500.jpg",
+    "name" : "Trap Queen",
+    "artist" : "Fetty Wap",
+    "music" : "audio/Fetty Wap/Fetty Wap-Trap Queen.mp3"
+  },
+  {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/4/4c/679_by_Fetty_Wap.jpg",
+    "name" : "679",
+    "artist" : "Fetty Wap ft. Remy Boyz",
+    "music" : "audio/Fetty Wap/Fetty Wap-679.mp3"
+  },
+  {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/e/e2/Fetty-wap-again.jpg",
+    "name" : "Again",
+    "artist" : "Fetty Wap",
+    "music" : "audio/Fetty Wap/Fetty Wap-Again.mp3"
+  },
+  {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/0/01/My_Way_by_Fetty_Wap.png",
+    "name" : "My Way",
+    "artist" : "Fetty Wap ft. Monty",
+    "music" : "audio/Fetty Wap/Fetty Wap-My Way.mp3"
+  },
+  {
+    "img" : "https://i.ytimg.com/vi/wHhPuy-lCfI/maxresdefault.jpg",
+    "name" : "Promise",
+    "artist" : "Kid Ink ft. Fetty Wap",
+    "music" : "audio/Fetty Wap/Fetty Wap-Promise.mp3"
+  },
+  {
     "img" : "https://i.ytimg.com/vi/Bw-5Lka7gPE/maxresdefault.jpg",
     "name" : "99 (Mob Psycho 100 OP)",
     "artist" : "Mob Choir",
