@@ -486,31 +486,31 @@ const playlist = [
     music : 'audio/Twice/Twice-I Got You.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2024/02/TWICE-With-YOU-th.jpg',
+    img : 'https://www.rollingstone.com/wp-content/uploads/2024/02/TWICE-interview.jpg?w=1581&h=1054&crop=1',
     name : 'One Spark',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-One Spark.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2024/02/TWICE-With-YOU-th.jpg',
+    img : 'https://www.rollingstone.com/wp-content/uploads/2024/02/TWICE-interview.jpg?w=1581&h=1054&crop=1',
     name : 'Rush',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Rush.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2024/02/TWICE-With-YOU-th.jpg',
+    img : 'https://www.rollingstone.com/wp-content/uploads/2024/02/TWICE-interview.jpg?w=1581&h=1054&crop=1',
     name : 'New New',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-New New.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2024/02/TWICE-With-YOU-th.jpg',
+    img : 'https://www.rollingstone.com/wp-content/uploads/2024/02/TWICE-interview.jpg?w=1581&h=1054&crop=1',
     name : 'Bloom',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Bloom.mp3'
   },
   {
-    img : 'https://colorcodedlyrics.com/wp-content/uploads/2024/02/TWICE-With-YOU-th.jpg',
+    img : 'https://www.rollingstone.com/wp-content/uploads/2024/02/TWICE-interview.jpg?w=1581&h=1054&crop=1',
     name : 'You Get Me',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-You Get Me.mp3'
