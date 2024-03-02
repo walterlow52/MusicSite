@@ -4,7 +4,7 @@
 
 <h1> Welcome to my Music Playlist Project Website! </h1>
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
-<p> It includes many artists <i> (but not limited to) </i> like: </p> <pre>
+<p> It includes many artists <i> (but not limited to) </i> like: </p>
 <ul> 
        <li> Metro Boomin </li>
        <li> Fetty Wap </li>
@@ -14,7 +14,7 @@
        <li> Aespa </li>
        <li> Tomorrow X Together (TXT) </li>
        <li> Stray Kids (SKZ) </li>
-</ul> </pre>
+</ul>
 
 <hr>
 <h6> Click here to view the Music Site -  <a href = "https://walterlow52.github.io/MusicSite/index.html"> https://walterlow52.github.io/MusicSite/index.html </a> </h6>
