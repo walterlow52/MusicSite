@@ -1,5 +1,4 @@
 # MusicSite
-<img src = "https://st.depositphotos.com/1000123/4290/i/950/depositphotos_42906467-stock-photo-electric-lighting-effect.jpg">
 <img src = "https://png.pngtree.com/thumb_back/fh260/background/20200520/pngtree-lightning-creative-texture-hand-painted-water-and-fire-background-image_335938.jpg">
 
 <h1> Welcome to my Music Playlist! </h1>
