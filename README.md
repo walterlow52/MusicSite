@@ -6,7 +6,6 @@
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
 <p> It includes many artists <i> (but not limited to) </i> like: </p> <br>
 <ul> 
-   <pre>
        <li> Metro Boomin </li>
        <li> Fetty Wap </li>
        <li> Twice </li>
@@ -15,7 +14,6 @@
        <li> Aespa </li>
        <li> Tomorrow X Together (TXT) </li>
        <li> Stray Kids (SKZ) </li>
-   </pre> 
 </ul>
 
 <hr>
