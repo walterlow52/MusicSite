@@ -1,6 +1,6 @@
 # MusicSite
 <img src = "https://st.depositphotos.com/1000123/4290/i/950/depositphotos_42906467-stock-photo-electric-lighting-effect.jpg" width = "400px" height = "400px">
-<img src = "https://png.pngtree.com/thumb_back/fh260/background/20200520/pngtree-lightning-creative-texture-hand-painted-water-and-fire-background-image_335938.jpg" width = "500px" height = "400px"> <br>
+<img src = "https://png.pngtree.com/thumb_back/fh260/background/20200520/pngtree-lightning-creative-texture-hand-painted-water-and-fire-background-image_335938.jpg" width = "400px" height = "400px"> <br>
 
 <h1> Welcome to my Music Playlist! </h1>
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
