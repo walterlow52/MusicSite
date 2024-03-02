@@ -4,7 +4,7 @@
 
 <h1> Welcome to my Music Playlist Project Website! </h1>
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
-<p> It includes many artists <i> (but not limited to) </i> like: </p> <br>
+<p> It includes many artists <i> (but not limited to) </i> like: </p>
 <ul> 
        <li> Metro Boomin </li>
        <li> Fetty Wap </li>
