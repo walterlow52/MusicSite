@@ -4,7 +4,7 @@
 
 <pre> <h1> Welcome to my Music Playlist Project Website! </h1> </pre>
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
-<p> It includes many <mark> famous artists </mark> like: </p>
+<p> It includes many famous artists like: </p>
 <ul> 
        <i> <li> Metro Boomin </li>
        <li> Fetty Wap </li>
@@ -17,7 +17,7 @@
        <li> and more. </li> </i>
 </ul>
 
-<p> This playlist even includes many tracks from <mark> famous animes </mark> like: </p>
+<p> This playlist even includes many tracks from famous animes like: </p>
 <ul>
        <i> <li> <b> Dragon Ball Super </li>
        <li> Naruto <i> (Shippuden) </i> </li>
