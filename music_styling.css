@@ -5,7 +5,7 @@ html {
 body {
   background-image: linear-gradient(180deg, black, navy, white, navy, black);
   border-radius: 50%;
-  background-size: 1365px 660px;
+  background-size: 100% 100%;
   background-attachment: fixed;
 }
 
