@@ -4,7 +4,7 @@
 
 <pre> <h1> Welcome to my Music Playlist Project Website! </h1> </pre>
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
-<p> It includes many artists like: </p>
+<p> It includes many famous artists like: </p>
 <ul> 
        <i> <li> Metro Boomin </li>
        <li> Fetty Wap </li>
@@ -17,12 +17,12 @@
        <li> and more. </li> </i>
 </ul>
 
-<p> This playlist even includes different tracks from many famous animes like: </p>
+<p> This playlist even includes many tracks from famous animes like: </p>
 <ul>
-       <i> <li> Dragon Ball Super </li>
+       <i> <li> <b> Dragon Ball Super </li>
        <li> Naruto <i> (Shippuden) </i> </li>
        <li> Bleach </li>
-       <li> One Piece </li>
+       <li> One Piece </b> </li>
        <li> Boruto: Naruto Next Generations </li>
        <li> Blue Lock </li>
        <li> Solo Leveling </li>
@@ -51,5 +51,5 @@
 </ul>
 
 <hr>
-<h6> Click here to view the Music Site -  <a href = "https://walterlow52.github.io/MusicSite/index.html"> https://walterlow52.github.io/MusicSite/index.html </a> </h6>
-<h6> Click here to view the Music Site - Playlist - <a href = "https://walterlow52.github.io/MusicSite/playlist.html"> https://walterlow52.github.io/MusicSite/playlist.html </a> </h6>
+<small> <h6> Click here to view the Music Site -  <a href = "https://walterlow52.github.io/MusicSite/index.html"> https://walterlow52.github.io/MusicSite/index.html </a> </h6>
+<h6> Click here to view the Music Site - Playlist - <a href = "https://walterlow52.github.io/MusicSite/playlist.html"> https://walterlow52.github.io/MusicSite/playlist.html </a> </h6> </small>
