@@ -4,16 +4,50 @@
 
 <pre> <h1> Welcome to my Music Playlist Project Website! </h1> </pre>
 <p> This playlist contains my favorite songs ranging from a variety of different genres like Kpop, Hip-Hop, etc. </p> <br>
-<p> It includes many artists <i> (but not limited to) </i> like: </p>
+<p> It includes many artists like: </p>
 <ul> 
-       <li> Metro Boomin </li>
+       <i> <li> Metro Boomin </li>
        <li> Fetty Wap </li>
        <li> Twice </li>
        <li> (G)-IDLE </li>
        <li> Itzy </li>
        <li> Aespa </li>
        <li> Tomorrow X Together (TXT) </li>
-       <li> Stray Kids (SKZ) </li>
+       <li> Stray Kids (SKZ) </li> 
+       <li> and more. </li> </i>
+</ul>
+
+<p> This playlist even includes different tracks from many famous animes like: </p>
+<ul>
+       <i> <li> Dragon Ball Super </li>
+       <li> Naruto <i> (Shippuden) </i> </li>
+       <li> Bleach </li>
+       <li> One Piece </li>
+       <li> Boruto: Naruto Next Generations </li>
+       <li> Blue Lock </li>
+       <li> Solo Leveling </li>
+       <li> Dr Stone </li>
+       <li> Jujitsu Kaisen </li>
+       <li> The Promised Neverland </li>
+       <li> Black Clover </li>
+       <li> Attack on Titan </li>
+       <li> My Hero Academia </li>
+       <li> Demon Slayer </li>
+       <li> Digimon </li>
+       <li> Hortensia Saga </li>
+       <li> Darwin's Game </li>
+       <li> Blue Exorcist </li>
+       <li> Zombieland Saga </li>
+       <li> Re:Zero </li>
+       <li> The God of High School </li>
+       <li> Fullmetal Alchemist: Brotherhood </li>
+       <li> Death Note </li>
+       <li> Fire Force </li>
+       <li> Vinland Saga </li>
+       <li> The Rising of the Shield Hero </li>
+       <li> Chainsaw Man </li>
+       <li> The Seven Deadly Sins </li>
+       <li> and more </li> </i>
 </ul>
 
 <hr>
