@@ -55,5 +55,4 @@
 <h6> Click here to view the Music Site - Playlist - <a href = "https://walterlow52.github.io/MusicSite/playlist.html"> https://walterlow52.github.io/MusicSite/playlist.html </a> </h6> <hr>
 
 
-<h6> -- Created by Walter Low --</h6>
-<h6> - Email: <i> walterlow52@gmail.com </i> - </h6>
+<h6> -- Created by Walter Low -- <br> Email: <i> walterlow52@gmail.com </i> </h6>
