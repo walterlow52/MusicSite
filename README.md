@@ -56,4 +56,4 @@
 
 
 <h6> -- Created by Walter Low --</h6>
-<h6> - Reach out to me by email: <i> walterlow52@gmail.com </i> </h6>
+<h6> - Email: <i> walterlow52@gmail.com </i> - </h6>
