@@ -55,4 +55,4 @@
 <h6> Click here to view the Music Site - Playlist - <a href = "https://walterlow52.github.io/MusicSite/playlist.html"> https://walterlow52.github.io/MusicSite/playlist.html </a> </h6> <hr>
 
 
-<p> -- <b> Created by Walter Low -- </b> <h6> <a href = "mailto:walterlow52@gmail.com"> (<i> walterlow52@gmail.com </i>) </a> </h6> </p> 
+<p> -- <b> Created by Walter Low -- </b> <h6> <a href = "mailto:walterlow52@gmail.com" title = "Feel free to email me!"> (<i> walterlow52@gmail.com </i>) </a> </h6> </p> 
