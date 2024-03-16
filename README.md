@@ -48,7 +48,15 @@
        <li> Chainsaw Man </li>
        <li> The Seven Deadly Sins </li>
        <li> and more </li> </i>
-</ul>
+</ul> <hr>
+
+<h1> WIP </h1>
+<ul> <i>
+       <li> Include feature that contains a link for each song to transfer to the MusicSite project with the corresponding track as the present song on the playlist using the HTML link bookmark (possibly have to wait for api routes to be implemented before proposed feature can be in use) </li>
+       <li> Include an images folder to contain saved images of tracks (eliminates the problem of having to change track images whenever the link fails) (only on Github) </li>
+       <li> Create HTML table to include all tracks in MusicSite & update Excel/Access SQL database (can't continue HTML tutorial until table feature is complete) </li>
+       <li> Include descriptive summarys for each artist in /audio folder </li>
+</i> </ul>
 
 <hr>
 <h6> Click here to view the Music Site -  <a href = "https://walterlow52.github.io/MusicSite/index.html"> https://walterlow52.github.io/MusicSite/index.html </a> </h6>
