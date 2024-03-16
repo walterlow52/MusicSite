@@ -1,4 +1,10 @@
-const playlist = [    
+const playlist = [
+  {
+    img : 'https://m.media-amazon.com/images/M/MV5BOGNkNjdiNDMtZWI3ZC00MzBmLTliM2MtYWI5YmU1ZDk0MTk1XkEyXkFqcGdeQXVyMjMzMTI2NzU@._V1_.jpg',
+    name : 'Sunflower',
+    artist : 'Post Malone ft. Swae Lee',
+    music : 'audio/Spiderverse/Sunflower.mp3'
+  },
   {
     img : 'https://media.cnn.com/api/v1/images/stellar/prod/230529132214-01-spider-man-across-the-spider-verse.jpg?c=1x1',
     name : 'Annihilate',
