@@ -30,6 +30,54 @@ const playlist = [
     music : 'audio/Spiderverse/Givin\' Up.mp3'
   },
   {
+    img : 'https://upload.wikimedia.org/wikipedia/en/7/7d/Imagine_Dragons_-_%22Monster%22_%28Single%29.jpg',
+    name : 'Monster',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Monster.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-000069495641-rx1t0z-t500x500.jpg',
+    name : 'Radioactive',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Radioactive.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-000069495641-rx1t0z-t500x500.jpg',
+    name : 'Bleeding Out',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Bleeding Out.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-000390136329-xmzd3t-t500x500.jpg',
+    name : 'Whatever It Takes',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Whatever It Takes.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/2/2b/Imagine_Dragons_-_%22Demons%22_%28Official_Single_Cover%29.jpg',
+    name : 'Demons',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Demons.mp3'
+  },
+  {
+    img : 'https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea',
+    name : 'Warriors',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Warriors.mp3'
+  },
+  {
+    img : 'https://i1.sndcdn.com/artworks-hHQCYLjV3g1UWHnn-cvKC5w-t500x500.jpg',
+    name : 'Natural',
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Natural.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/7/75/Masked_Wolf_-_Astronaut_in_the_Ocean.png',
+    name : 'Astronaut in the Ocean',
+    artist : 'Masked Wolf',
+    music : 'audio/Astronaut in the Ocean.mp3'
+  },
+  {
     img : 'https://i1.sndcdn.com/artworks-000131062466-gbhsgy-t500x500.jpg',
     name : 'Trap Queen',
     artist : 'Fetty Wap',
@@ -58,6 +106,18 @@ const playlist = [
     name : 'Promise',
     artist : 'Kid Ink ft. Fetty Wap',
     music : 'audio/Fetty Wap/Fetty Wap-Promise.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/1/1d/24kGoldn_-_Mood.png',
+    name : 'Mood',
+    artist : '24kGoldn ft. iann dior',
+    music : 'audio/Mood.mp3'
+  },
+  {
+    img : 'https://upload.wikimedia.org/wikipedia/en/2/27/Man%27s_Not_Hot_Artwork.png',
+    name : 'Man\'s Not Hot',
+    artist : 'Big Shaq',
+    music : 'audio/Man\'s Not Hot.mp3'
   },
   {
     img : 'https://i.ytimg.com/vi/Bw-5Lka7gPE/maxresdefault.jpg',
