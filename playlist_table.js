@@ -299,6 +299,6 @@ const playlist_table = (
   </table>
 );
 
-const container = document.getElementById("root");
+const container = document.getElementById('tracklist_display');
 const root = ReactDOM.createRoot(container);
 root.render(playlist_table);
