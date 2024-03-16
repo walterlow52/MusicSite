@@ -56,6 +56,8 @@
        <li> Include an images folder to contain saved images of tracks (eliminates the problem of having to change track images whenever the link fails) (only on Github) </li>
        <li> Create HTML table to include all tracks in MusicSite & update Excel/Access SQL database (can't continue HTML tutorial until table feature is complete) </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
+       <li> Implement React components </li>
+       <li> Implement Django </li>
 </i> </ul>
 
 <hr>
