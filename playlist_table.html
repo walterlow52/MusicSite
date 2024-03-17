@@ -11,9 +11,9 @@
     
     <script type = "text/babel">
       function Tracklist() {
-        return <h1> Bronco's Ultimate Playlist Tracklist </h1>;
-      }
-      const playlist_table = (
+        return (
+          <>
+          <h1> Bronco's Ultimate Playlist Tracklist </h1>
   <table>
   <tr>
     <th> Artist </th> <th> Track Name </th> <th> Featured Artists </th> <th> Promotional Type </th> <th> Promotion Name </th> <th> Type of Song </th> <th> Type # </th>
@@ -2830,11 +2830,13 @@
   </ol>
   </tr>
   </table>
+</ >
 );
+}
       const container = document.getElementById('root');
       const root = ReactDOM.createRoot(container);
       root.render(<Tracklist />);
-      root.render(playlist_table);
+      //root.render(playlist_table);
     </script>
   </body>
 </html>
