@@ -10,11 +10,23 @@
     <div id = "root"> </div>
     
     <script type = "text/babel">
-      function Tracklist() {
+      
+      const Tracklist = () => {
+        const Styling = {
+            border: 5px outset purple;
+            border-radius: 12px;
+            backgroundColor: cyan;
+            width: 100%;
+            text-align: center;
+            padding: 5px;
+            border-spacing: 5px;
+        }
+        
         return (
           <>
           <h1> Bronco's Ultimate Playlist Tracklist </h1>
-  <table>
+  <table style = {Styling}> 
+    <caption> Playlist Dataset Table </caption>
   <tr>
     <th> Artist </th> <th> Track Name </th> <th> Featured Artists </th> <th> Promotional Type </th> <th> Promotion Name </th> <th> Type of Song </th> <th> Type # </th>
   </tr>
@@ -868,7 +880,6 @@
       const container = document.getElementById('root');
       const root = ReactDOM.createRoot(container);
       root.render(<Tracklist />);
-      //root.render(playlist_table);
     </script>
   </body>
 </html>
