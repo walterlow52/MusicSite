@@ -218,3 +218,8 @@ tr:nth-child(even), th:nth-child(even), td:nth-child(even) {
 	background-color: white;
 	color: cyan;
 }
+
+tr:hover {
+	background-color: black;
+	color: lime;
+}
