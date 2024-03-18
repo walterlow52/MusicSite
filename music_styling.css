@@ -214,7 +214,7 @@ th, td {
 	border: 5px outset purple;
 }
 
-tr:nth-child(even) {
+tr:nth-child(even), th:nth-child(even), td:nth-child(even) {
 	background-color: white;
 	color: cyan;
 }
