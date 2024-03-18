@@ -16,6 +16,7 @@
             border: "5px outset purple",
             borderRadius: "12px",
             backgroundColor: "cyan",
+            color: "white",
             width: "100%",
             textAlign: "center",
             padding: "5px",
@@ -24,7 +25,8 @@
         return (
           <>
           <h1> Bronco's Ultimate Playlist Tracklist </h1>
-  <table style = {Styling}> 
+            <div style = {Styling}>
+  <table> 
     <caption> Playlist Dataset Table </caption>
   <tr>
     <th> Artist </th> <th> Track Name </th> <th> Featured Artists </th> <th> Promotional Type </th> <th> Promotion Name </th> <th> Type of Song </th> <th> Type # </th>
@@ -872,7 +874,7 @@
   <tr>
     <td> Three Days Grace </td> <td> Animal I Have Become </td> <td> </td> <td> Game </td> <td> WWE Raw vs Smackdown 2007 </td> <td> OST </td> <td> </td>
   </tr>
-  </table>
+  </table> </div>
 </>
 );
 }
