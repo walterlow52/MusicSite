@@ -58,6 +58,7 @@
        <li> Include feature to change background to track images using onClick react event in playlist_table.html by including additional image & MP3 source column </li>
        <li> Add distinguishing colorset for specific artists in table rows for playlist_table.html </li>
        <li> Improve CSS styling for Heading (h1) in playlist_table.html by including separate React objects designed specifically for headings & table </li>
+       <li> Fix playlist_table.html hover issue </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
        <li> Implement React components </li>
        <li> Implement Django </li>
