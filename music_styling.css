@@ -210,6 +210,10 @@ iframe {
 	height: 400px;
 }
 
+th, td {
+	border: 5px outset purple;
+}
+
 tr:nth-child(even) {
 	background-color: white;
 	color: cyan;
