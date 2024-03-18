@@ -209,3 +209,8 @@ iframe {
 	width: 600px;
 	height: 400px;
 }
+
+tr:nth-child(even) {
+	background-color: white;
+	color: cyan;
+}
