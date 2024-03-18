@@ -219,7 +219,7 @@ tr:nth-child(even), th:nth-child(even), td:nth-child(even) {
 	color: cyan;
 }
 
-tr:hover {
+tr:hover, th:hover, td:hover {
 	background-color: black;
 	color: lime;
 }
