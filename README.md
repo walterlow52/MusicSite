@@ -63,6 +63,7 @@
        <li> Include descriptive summarys for each artist in /audio folder </li>
        <li> Implement React components </li>
        <li> Implement Django </li>
+       <li> <b> RWD (including fix on track background on mobile) </b> </li>
 </i> </ul>
 
 <hr>
