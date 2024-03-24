@@ -59,7 +59,7 @@
        <li> Improve CSS styling for Heading (h1) in <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> by including separate React objects designed specifically for headings & table </li>
        <li> Fix <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> hover issue </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
-       <li> Create song request form (React) and use HTML layout elements in project </li>
+       <li> Create song request form (React) while using HTML layout elements in project and CSS border-box & media queries </li>
        <li> Finish onclick event function for <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> to play MP3 file </li>
        <li> Implement React components </li>
        <li> Implement Django </li>
