@@ -229,6 +229,10 @@ tr:hover, th:hover, td:hover {
 	color: lime;
 }
 
+.table-heading {
+	font-family: Copperplate;
+}
+
 @media only screen and (max-width: 800px) {		/*tablets*/
 	width: 100%;
 }
