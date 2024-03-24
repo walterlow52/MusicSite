@@ -55,13 +55,13 @@
        <li> Include feature that contains a link for each song to transfer to the MusicSite project with the corresponding track as the present song on the playlist using the HTML link bookmark (possibly have to wait for api routes to be implemented before proposed feature can be in use) </li>
        <li> Include an images folder to contain saved images of tracks (eliminates the problem of having to change track images whenever the link fails) </li>
        <li> Create HTML table to include all tracks in MusicSite & update Excel/Access SQL database (can't continue HTML tutorial until table feature is complete) </li>
-       <li> Include feature to change background to track images using onClick react event in playlist_table.html by including additional image & MP3 source column </li>
        <li> Add distinguishing colorset for specific artists in table rows for playlist_table.html </li>
        <li> Improve CSS styling for Heading (h1) in playlist_table.html by including separate React objects designed specifically for headings & table </li>
-       <li> Include sorting/filtering features for playlist_table.html </li>
+       <li> Include sorting/filtering features for <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> </li>
        <li> Fix playlist_table.html hover issue </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
        <li> Create song request form (React) </li>
+       <li> Finish onclick event function for playlist_table.html to play MP3 file </li>
        <li> Implement React components </li>
        <li> Implement Django </li>
        <li> <b> RWD (including fix on track background on mobile) </b> </li>
