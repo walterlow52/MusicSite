@@ -61,6 +61,7 @@
        <li> Include sorting/filtering features for playlist_table.html </li>
        <li> Fix playlist_table.html hover issue </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
+       <li> Create song request form (React) </li>
        <li> Implement React components </li>
        <li> Implement Django </li>
        <li> <b> RWD (including fix on track background on mobile) </b> </li>
