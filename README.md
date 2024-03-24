@@ -65,6 +65,7 @@
        <li> Implement React components </li>
        <li> Implement Django </li>
        <li> <b> RWD (including fix on track background on mobile) </b> </li>
+       <li> Transfer playlist JSON object from scripts.js into JSON server or separate JS file </li>
 </i> </ul>
 
 <hr>
