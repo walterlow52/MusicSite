@@ -53,7 +53,6 @@
 <h1> WIP </h1>
 <ul> <i>
        <li> Include feature that contains a link for each song to transfer to the MusicSite project with the corresponding track as the present song on the playlist using the HTML link bookmark (possibly have to wait for api routes to be implemented before proposed feature can be in use) </li>
-       <li> Upload local images folder on GitHub and update image paths for each track </li>
        <li> Update Excel/Access SQL database & include database features to table in <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> </li>
        <li> Add distinguishing colorset for specific artists in table rows for <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> </li>
        <li> Improve CSS styling for Heading (h1) in <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> by including separate React objects designed specifically for headings & table </li>
