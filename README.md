@@ -65,6 +65,7 @@
        <li> <b> RWD (including fix on track background on mobile) </b> </li>
        <li> Transfer playlist JSON object from scripts.js into JSON server or separate JS file </li>
        <li> Convert playlist_table.html to playlist_table.js by changing it from HTML to ReactJS </li>
+       <li> Fix images in index.html </li>
 </i> </ul>
 
 <hr>
