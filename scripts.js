@@ -1,81 +1,81 @@
 const playlist = [
   {
-    img : 'images/SpiderMan/Spider-Man Into The Spiderverse.jpg',
+    img : 'images/SpiderMan/Spider-Man-Into-The-Spiderverse.jpg',
     name : 'Sunflower',
     artist : 'Post Malone ft. Swae Lee',
     music : 'audio/Spiderverse/Sunflower.mp3'
   },
   {
-    img : 'images/SpiderMan/Spider-Man Across The Spiderverse.jpg',
+    img : 'images/SpiderMan/Spider-Man-Across-The-Spiderverse.jpg',
     name : 'Annihilate',
     artist : 'Metro Boomin ft. Swae Lee, Lil Wayne, & Offset',
     music : 'audio/Spiderverse/Annihilate.mp3'
   },
   {
-    img : 'images/SpiderMan/Spider-Man Across The Spiderverse.jpg',
+    img : 'images/SpiderMan/Spider-Man-Across-The-Spiderverse.jpg',
     name : 'Am I Dreaming',
     artist : 'Metro Boomin ft. A$AP Rocky, & Roisee',
     music : 'audio/Spiderverse/Am I Dreaming.mp3'
   },
   {
-    img : 'images/SpiderMan/Spider-Man Across The Spiderverse.jpg',
+    img : 'images/SpiderMan/Spider-Man-Across-The-Spiderverse.jpg',
     name : 'Calling',
     artist : 'Metro Boomin ft. Swae Lee, NAV, & A Boogie wit da Hoodie',
     music : 'audio/Spiderverse/Calling.mp3'
   },
   {
-    img : 'images/SpiderMan/Spider-Man Across The Spiderverse.jpg',
+    img : 'images/SpiderMan/Spider-Man-Across-The-Spiderverse.jpg',
     name : 'Home',
     artist : 'Metro Boomin ft. Don Toliver, & Lil Uzi Vert',
     music : 'audio/Spiderverse/Home.mp3'
   },
   {
-    img : 'images/SpiderMan/Spider-Man Across The Spiderverse.jpg',
+    img : 'images/SpiderMan/Spider-Man-Across-The-Spiderverse.jpg',
     name : 'Givin\' Up (Not the One)',
     artist : 'Don Toliver ft. 21 Savage, & 2 Chainz',
     music : 'audio/Spiderverse/Givin\' Up.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Monster.jpg',
+    img : 'images/Imagine-Dragons/Monster.jpg',
     name : 'Monster',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Monster.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Monster.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Radioactive.jpg',
+    img : 'images/Imagine-Dragons/Radioactive.jpg',
     name : 'Radioactive',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Radioactive.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Radioactive.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Radioactive.jpg',
+    img : 'images/Imagine-Dragons/Radioactive.jpg',
     name : 'Bleeding Out',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Bleeding Out.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Bleeding Out.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Whatever It Takes.jpg',
+    img : 'images/Imagine-Dragons/Whatever-It-Takes.jpg',
     name : 'Whatever It Takes',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Whatever It Takes.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Whatever It Takes.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Demons.jpg',
+    img : 'images/Imagine-Dragons/Demons.jpg',
     name : 'Demons',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Demons.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Demons.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Warriors.jpg',
+    img : 'images/Imagine-Dragons/Warriors.jpg',
     name : 'Warriors',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Warriors.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Warriors.mp3'
   },
   {
-    img : 'images/Imagine Dragons/Natural.jpg',
+    img : 'images/Imagine-Dragons/Natural.jpg',
     name : 'Natural',
-    artist : 'Imagine Dragons',
-    music : 'audio/Imagine Dragons/Imagine Dragons-Natural.mp3'
+    artist : 'Imagine-Dragons',
+    music : 'audio/Imagine-Dragons/Imagine-Dragons-Natural.mp3'
   },
   {
     img : 'images/hiphop/Astronaut In The Ocean.png',
