@@ -38,77 +38,77 @@ const playlist = [
   {
     img : 'images/Imagine-Dragons/Monster.jpg',
     name : 'Monster',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Monster.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Monster.mp3'
   },
   {
     img : 'images/Imagine-Dragons/Radioactive.jpg',
     name : 'Radioactive',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Radioactive.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Radioactive.mp3'
   },
   {
     img : 'images/Imagine-Dragons/Radioactive.jpg',
     name : 'Bleeding Out',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Bleeding Out.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Bleeding Out.mp3'
   },
   {
     img : 'images/Imagine-Dragons/Whatever-It-Takes.jpg',
     name : 'Whatever It Takes',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Whatever It Takes.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Whatever It Takes.mp3'
   },
   {
     img : 'images/Imagine-Dragons/Demons.jpg',
     name : 'Demons',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Demons.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Demons.mp3'
   },
   {
     img : 'images/Imagine-Dragons/Warriors.jpg',
     name : 'Warriors',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Warriors.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Warriors.mp3'
   },
   {
     img : 'images/Imagine-Dragons/Natural.jpg',
     name : 'Natural',
-    artist : 'Imagine-Dragons',
-    music : 'audio/Imagine-Dragons/Imagine-Dragons-Natural.mp3'
+    artist : 'Imagine Dragons',
+    music : 'audio/Imagine Dragons/Imagine Dragons-Natural.mp3'
   },
   {
-    img : 'images/hiphop/Astronaut In The Ocean.png',
+    img : 'images/hiphop/Astronaut-In-The-Ocean.png',
     name : 'Astronaut in the Ocean',
     artist : 'Masked Wolf',
     music : 'audio/Astronaut in the Ocean.mp3'
   },
   {
-    img : 'images/hiphop/Fetty Wap/Trap Queen.jpg',
+    img : 'images/hiphop/Fetty-Wap/Trap-Queen.jpg',
     name : 'Trap Queen',
     artist : 'Fetty Wap',
     music : 'audio/Fetty Wap/Fetty Wap-Trap Queen.mp3'
   },
   {
-    img : 'images/hiphop/Fetty Wap/679.jpg',
+    img : 'images/hiphop/Fetty-Wap/679.jpg',
     name : '679',
     artist : 'Fetty Wap ft. Remy Boyz',
     music : 'audio/Fetty Wap/Fetty Wap-679.mp3'
   },
   {
-    img : 'images/hiphop/Fetty Wap/Again.jpg',
+    img : 'images/hiphop/Fetty-Wap/Again.jpg',
     name : 'Again',
     artist : 'Fetty Wap',
     music : 'audio/Fetty Wap/Fetty Wap-Again.mp3'
   },
   {
-    img : 'images/hiphop/Fetty Wap/My Way.png',
+    img : 'images/hiphop/Fetty-Wap/My-Way.png',
     name : 'My Way',
     artist : 'Fetty Wap ft. Monty',
     music : 'audio/Fetty Wap/Fetty Wap-My Way.mp3'
   },
   {
-    img : 'images/hiphop/Fetty Wap/Promise.jpg',
+    img : 'images/hiphop/Fetty-Wap/Promise.jpg',
     name : 'Promise',
     artist : 'Kid Ink ft. Fetty Wap',
     music : 'audio/Fetty Wap/Fetty Wap-Promise.mp3'
@@ -120,67 +120,67 @@ const playlist = [
     music : 'audio/Mood.mp3'
   },
   {
-    img : 'images/hiphop/Man\'s Not Hot.png',
+    img : 'images/hiphop/Man\'s-Not-Hot.png',
     name : 'Man\'s Not Hot',
     artist : 'Big Shaq',
     music : 'audio/Man\'s Not Hot.mp3'
   },
   {
-    img : 'images/anime/Mob Psycho 100 S1.jpg',
+    img : 'images/anime/Mob-Psycho-100-S1.jpg',
     name : '99 (Mob Psycho 100 OP)',
     artist : 'Mob Choir',
     music : 'audio/Mob Psycho 100/99.mp3'
   },
   {
-    img : 'images/anime/Mob Psycho 100 S2.jpg',
+    img : 'images/anime/Mob-Psycho-100-S2.jpg',
     name : '99.9 (Mob Psycho 100 Season 2 OP)',
     artist : 'Mob Choir',
     music : 'audio/Mob Psycho 100/99.9.mp3'
   },
   {
-    img : 'images/anime/Mob Psycho 100 S3.jpg',
+    img : 'images/anime/Mob-Psycho-100-S3.jpg',
     name : '1 (Mob Psycho 100 Season 3 OP)',
     artist : 'Mob Choir',
     music : 'audio/Mob Psycho 100/1.mp3'
   },
   {
-    img : 'images/kpop/Twice/Perfect World.jpg',
+    img : 'images/kpop/Twice/Perfect-World.jpg',
     name : 'Promise',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Promise.mp3'
   }, 
   {
-    img : 'images/kpop/Twice/Perfect World.jpg',
+    img : 'images/kpop/Twice/Perfect-World.jpg',
     name : 'Pieces of Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Pieces of Love.mp3'
   },
   {
-    img : 'images/kpop/Twice/Kura Kura.png',
+    img : 'images/kpop/Twice/Kura-Kura.png',
     name : 'Strawberry Moon',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Strawberry Moon.mp3'
   },
   {
-    img : 'images/kpop/Twice/Perfect World.jpg',
+    img : 'images/kpop/Twice/Perfect-World.jpg',
     name : 'In The Summer',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-In the Summer.mp3'
   },
   {
-    img : 'images/kpop/Twice/Just Be Yourself.jpg',
+    img : 'images/kpop/Twice/Just-Be-Yourself.jpg',
     name : 'Just Be Yourself',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Just Be Yourself.mp3'
   },
   {
-    img : 'images/kpop/Twice/More & More.jpeg',
+    img : 'images/kpop/Twice/More-&-More.jpeg',
     name : 'Firework',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Firework.mp3'
   },
   {
-    img : 'images/kpop/Twice/More & More.jpeg',
+    img : 'images/kpop/Twice/More-&-More.jpeg',
     name : 'Shadow',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Shadow.mp3'
@@ -192,31 +192,31 @@ const playlist = [
     music : 'audio/Twice/Twice-Scorpion.mp3'
   },
   {
-    img : 'images/kpop/Twice/Feel Special.png',
+    img : 'images/kpop/Twice/Feel-Special.png',
     name : 'Feel Special',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Feel Special.mp3'
   },
   {
-    img : 'images/kpop/Twice/Feel Special.png',
+    img : 'images/kpop/Twice/Feel-Special.png',
     name : 'Rainbow',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Rainbow.mp3'
   },
   {
-    img : 'images/kpop/Twice/Feel Special.png',
+    img : 'images/kpop/Twice/Feel-Special.png',
     name : 'Get Loud',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Get Loud.mp3'
   },
   {
-    img : 'images/kpop/Twice/Feel Special.png',
+    img : 'images/kpop/Twice/Feel-Special.png',
     name : 'Love Foolish',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Love Foolish.mp3'
   },
   {
-    img : 'images/kpop/Twice/Feel Special.png',
+    img : 'images/kpop/Twice/Feel-Special.png',
     name : 'Trick It',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Trick It.mp3'
@@ -240,61 +240,61 @@ const playlist = [
     music : 'audio/Twice/Twice-You In My Heart.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'I Can\'t Stop Me English Version',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-ICSM Eng.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Queen',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Queen.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Hell in Heaven',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Hell in Heaven.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Go Hard',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Go Hard.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Up No More',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Up No More.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Behind the Mask',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Behind the Mask.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Do What We Like',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Do What We Like.mp3'
   },
   {
-    img : 'images/kpop/Twice/Eyes Wide Open.png',
+    img : 'images/kpop/Twice/Eyes-Wide-Open.png',
     name : 'Shot Clock',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Shot Clock.mp3'
   },
   {
-    img : 'images/kpop/Twice/Cheer Up.jpg',
+    img : 'images/kpop/Twice/Cheer-Up.jpg',
     name : 'Touchdown',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Touchdown.mp3'
   },
   {
-    img : 'images/kpop/Twice/Cheer Up.jpg',
+    img : 'images/kpop/Twice/Cheer-Up.jpg',
     name : 'Precious Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Precious Love.mp3'
@@ -318,121 +318,121 @@ const playlist = [
     music : 'audio/Twice/Twice-Say it again.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'The Feels',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-The Feels.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Push and Pull',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Push and Pull.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : '1, 3, 2',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-1,3,2.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Hello',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Hello.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Cactus',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Cactus.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Real You',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Real You.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Fall in Love Again (FILA)',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-FILA.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Last Waltz',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Last Waltz.mp3'
   },
   {
-    img : 'images/kpop/Twice/Formula Of Love.jpg',
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Rewind',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Rewind.mp3'
   },
   {
-    img : 'images/kpop/Twice/Summer Nights.jpg',
+    img : 'images/kpop/Twice/Summer-Nights.jpg',
     name : 'Shot thru the Heart',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Shot thru the heart.mp3'
   },
   {
-    img : 'images/kpop/Twice/Taste Of Love.webp',
+    img : 'images/kpop/Twice/Taste-Of-Love.webp',
     name : 'Baby Blue Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Baby Blue Love.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'Fake and True',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Fake and True.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'Breakthrough',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Breakthrough.mp3'
   },
 {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'The Reason Why',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-The Reason Why.mp3'
   },
 {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'Polish',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Polish.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'Be Ok',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Be Ok.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'How You Doin',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-How You Doin.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'Stronger',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Stronger.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'Changing',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Changing.mp3'
   },
   {
-    img : 'images/kpop/Twice/Fake & True.jpg',
+    img : 'images/kpop/Twice/Fake-&-True.jpg',
     name : 'What You Waiting For',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-What You Waiting For.mp3'
@@ -480,187 +480,187 @@ const playlist = [
     music : 'audio/Twice/Twice-Sandcastle.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'Talk that Talk',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-TTT.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'Queen of Hearts',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Queen of Hearts.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'Trouble',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Trouble.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'Gone',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Gone.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'Basics',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Basics.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'Brave',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Brave.mp3'
   },
   {
-    img : 'images/kpop/Twice/Between 1 & 2.webp',
+    img : 'images/kpop/Twice/Between-1-&-2.webp',
     name : 'When We Were Kids',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-When We Were Kids.mp3'
   },
   {
-    img : 'images/kpop/Twice/Moonlight Sunrise.jpg',
+    img : 'images/kpop/Twice/Moonlight-Sunrise.jpg',
     name : 'Moonlight Sunrise',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Moonlight Sunrise.mp3'
   },
   {
-    img : 'images/kpop/Twice/Ready To Be.jpeg',
+    img : 'images/kpop/Twice/Ready-To-Be.jpeg',
     name : 'Set Me Free (English Version)',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Set Me Free.mp3'
   },
   {
-    img : 'images/kpop/Twice/Ready To Be.jpeg',
+    img : 'images/kpop/Twice/Ready-To-Be.jpeg',
     name : 'Got the Thrills',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Got The Thrills.mp3'
   },
   {
-    img : 'images/kpop/Twice/Ready To Be.jpeg',
+    img : 'images/kpop/Twice/Ready-To-Be.jpeg',
     name : 'Blame It On Me',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Blame It On Me.mp3'
   },
   {
-    img : 'images/kpop/Twice/Ready To Be.jpeg',
+    img : 'images/kpop/Twice/Ready-To-Be.jpeg',
     name : 'Wallflower',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Wallflower.mp3'
   },
   {
-    img : 'images/kpop/Twice/Ready To Be.jpeg',
+    img : 'images/kpop/Twice/Ready-To-Be.jpeg',
     name : 'Crazy Stupid Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Crazy Stupid Love.mp3'
   },
   {
-    img : 'images/kpop/Twice/Hare Hare.jpg',
+    img : 'images/kpop/Twice/Hare-Hare.jpg',
     name : 'Hare Hare',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Hare Hare.mp3'
   },
   {
-    img : 'images/kpop/Twice/Hare Hare.jpg',
+    img : 'images/kpop/Twice/Hare-Hare.jpg',
     name : 'Catch A Wave',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Catch A Wave.mp3'
   },
   {
-    img : 'images/kpop/Twice/Dance Again.jpg',
+    img : 'images/kpop/Twice/Dance-Again.jpg',
     name : 'Dance Again',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Dance Again.mp3'
   },
   {
-    img : 'images/kpop/Twice/I Got You.jpg',
+    img : 'images/kpop/Twice/I-Got-You.jpg',
     name : 'I Got You',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-I Got You.mp3'
   },
   {
-    img : 'images/kpop/Twice/With Youth.webp',
+    img : 'images/kpop/Twice/With-Youth.webp',
     name : 'One Spark',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-One Spark.mp3'
   },
   {
-    img : 'images/kpop/Twice/With Youth.webp',
+    img : 'images/kpop/Twice/With-Youth.webp',
     name : 'Rush',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Rush.mp3'
   },
   {
-    img : 'images/kpop/Twice/With Youth.webp',
+    img : 'images/kpop/Twice/With-Youth.webp',
     name : 'New New',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-New New.mp3'
   },
   {
-    img : 'images/kpop/Twice/With Youth.webp',
+    img : 'images/kpop/Twice/With-Youth.webp',
     name : 'Bloom',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Bloom.mp3'
   },
   {
-    img : 'images/kpop/Twice/With Youth.webp',
+    img : 'images/kpop/Twice/With-Youth.webp',
     name : 'You Get Me',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-You Get Me.mp3'
   },
   {
-    img : 'images/kpop/Twice/Monsters Cover.jpg',
+    img : 'images/kpop/Twice/Monsters-Cover.jpg',
     name : 'Monsters (Katie Sky)',
     artist : 'Twice Cover by DAHYUN',
     music : 'audio/Twice Covers/Twice Cover by Dahyun-Monsters (Katie Sky).mp3'
   },
   {
-    img : 'images/kpop/Twice/Good Mood Cover.jpg',
+    img : 'images/kpop/Twice/Good-Mood-Cover.jpg',
     name : 'Good Mood (Adam Levine)',
     artist : 'Twice Cover by DAHYUN',
     music : 'audio/Twice Covers/Twice Cover by Dahyun-Good Mood (Adam Levine).mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'Pop',
     artist : 'Nayeon',
     music : 'audio/Nayeon/Nayeon-Pop.mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'No Problem',
     artist : 'Nayeon ft. Stray Kids Felix',
     music : 'audio/Nayeon/Nayeon-No Problem.mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'Love Countdown',
     artist : 'Nayeon',
     music : 'audio/Nayeon/Nayeon-Love Countdown.mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'Candyfloss',
     artist : 'Nayeon',
     music : 'audio/Nayeon/Nayeon-Candyfloss.mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'All Or Nothing',
     artist : 'Nayeon',
     music : 'audio/Nayeon/Nayeon-All or Nothing.mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'Happy Birthday To You',
     artist : 'Nayeon',
     music : 'audio/Nayeon/Nayeon-Happy Birthday.mp3'
   },
   {
-    img : 'images/kpop/Twice/Im Nayeon.jpg',
+    img : 'images/kpop/Twice/Im-Nayeon.jpg',
     name : 'Sunset',
     artist : 'Nayeon',
     music : 'audio/Nayeon/Nayeon-Sunset.mp3'
@@ -714,7 +714,7 @@ const playlist = [
     music : 'audio/Jihyo/Jihyo-Nightmare.mp3'
   },
   {
-    img : 'images/kpop/Twice/Summer Strike.jpg',
+    img : 'images/kpop/Twice/Summer-Strike.jpg',
     name : 'A Strange Day (Summer Strike OST)',
     artist : 'Jihyo',
     music : 'audio/Jihyo/Jihyo-A Strange Day.mp3'
@@ -762,25 +762,25 @@ const playlist = [
     music : 'audio/MISAMO/Misamo-Bouquet.mp3'
   },
   {
-    img : 'images/kpop/GIDLE/I Feel.jpg',
+    img : 'images/kpop/GIDLE/I-Feel.jpg',
     name : 'Queencard',
     artist : '(G)I-DLE',
     music : 'audio/GIDLE/GIDLE-Queencard.mp3'
   },
   {
-    img : 'images/kpop/GIDLE/I Feel.jpg',
+    img : 'images/kpop/GIDLE/I-Feel.jpg',
     name : 'Allergy',
     artist : '(G)I-DLE',
     music : 'audio/GIDLE/GIDLE-Allergy.mp3'
   },
   {
-    img : 'images/kpop/GIDLE/I Do.jpg',
+    img : 'images/kpop/GIDLE/I-Do.jpg',
     name : 'I Do',
     artist : '(G)I-DLE',
     music : 'audio/GIDLE/GIDLE-I Do.mp3'
   },
   {
-    img : 'images/kpop/GIDLE/I Want That.png',
+    img : 'images/kpop/GIDLE/I-Want-That.png',
     name : 'I Want That',
     artist : '(G)I-DLE',
     music : 'audio/GIDLE/GIDLE-I Want That.mp3'
@@ -816,7 +816,7 @@ const playlist = [
     music : 'audio/Itzy/Itzy-Weapon.mp3'
   },
   {
-    img : 'images/kpop/Itzy/Bet On Me.jpg',
+    img : 'images/kpop/Itzy/Bet-On-Me.jpg',
     name : 'Bet On Me',
     artist : 'Itzy',
     music : 'audio/Itzy/Itzy-Bet On Me.mp3'
@@ -828,25 +828,25 @@ const playlist = [
     music : 'audio/Itzy/Itzy-Ringo.mp3'
   },
   {
-    img : 'images/kpop/Itzy/Born To Be.jpeg',
+    img : 'images/kpop/Itzy/Born-To-Be.jpeg',
     name : 'Born To Be',
     artist : 'Itzy',
     music : 'audio/Itzy/Itzy-Born to Be.mp3'
   },
  {
-    img : 'images/kpop/Aespa/Welcome To My World.png',
+    img : 'images/kpop/Aespa/Welcome-To-My-World.png',
     name : 'Welcome To My World',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Welcome To My World.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Black Mamba.png',
+    img : 'images/kpop/Aespa/Black-Mamba.png',
     name : 'Black Mamba',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Black Mamba.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Next Level.jpg',
+    img : 'images/kpop/Aespa/Next-Level.jpg',
     name : 'Next Level',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Next Level.mp3'
@@ -864,13 +864,13 @@ const playlist = [
     music : 'audio/Aespa/Aespa-Illusion.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Life\'s Too Short.jpg',
+    img : 'images/kpop/Aespa/Life\'s-Too-Short.jpg',
     name : 'Life\'s Too Short',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Life\'s Too Short.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Dreams Come True.jpg',
+    img : 'images/kpop/Aespa/Dreams-Come-True.jpg',
     name : 'Dreams Come True',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Dreams Come True.mp3'
@@ -912,7 +912,7 @@ const playlist = [
     music : 'audio/Aespa/Aespa-Meet Again.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Better Things.jpg',
+    img : 'images/kpop/Aespa/Better-Things.jpg',
     name : 'Better Things',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Better Things.mp3'
@@ -948,7 +948,7 @@ const playlist = [
     music : 'audio/Aespa/Aespa-You.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Zoom Zoom.jpg',
+    img : 'images/kpop/Aespa/Zoom-Zoom.jpg',
     name : 'Zoom Zoom',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Zoom Zoom.mp3'
@@ -960,19 +960,19 @@ const playlist = [
     music : 'audio/Aespa/Aespa-Thirsty.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Hold On Tight.jpg',
+    img : 'images/kpop/Aespa/Hold-On-Tight.jpg',
     name : 'Hold On Tight',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-Hold On Tight.mp3'
   },
   {
-    img : 'images/kpop/Aespa/Jingle Bell Rock.jpg',
+    img : 'images/kpop/Aespa/Jingle-Bell-Rock.jpg',
     name : 'Jingle Bell Rock',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-JingleBell.mp3'
   },
   {
-    img : 'images/kpop/Aespa/We Go.jpg',
+    img : 'images/kpop/Aespa/We-Go.jpg',
     name : 'We Go',
     artist : 'Aespa',
     music : 'audio/Aespa/Aespa-We Go.mp3'
@@ -984,7 +984,7 @@ const playlist = [
     music : 'audio/Ring.mp3'
   },
   {
-    img : 'images/anime/Mars Red.jpg',
+    img : 'images/anime/Mars-Red.jpg',
     name : 'On My Own',
     artist : 'Hyde',
     music : 'audio/On My Own.mp3'
@@ -1008,7 +1008,7 @@ const playlist = [
     music : 'audio/Dreamers.mp3'
   },
   {
-    img : 'images/kpop/Blood Moon.jpg',
+    img : 'images/kpop/Blood-Moon.jpg',
     name : 'Luna',
     artist : 'Oneus',
     music : 'audio/Luna-Oneus.mp3'
@@ -1020,253 +1020,253 @@ const playlist = [
     music : 'audio/Seventeen-To You.mp3'
   },
   {
-    img : 'images/anime/DBS Broly.jpg',
+    img : 'images/anime/DBS-Broly.jpg',
     name : 'Blizzard (English Version) (Dragon Ball Super: Broly OST)',
     artist : 'Daichi Miura',
     music : 'audio/Blizzard.mp3'
   },
   {
-    img : 'images/anime/Blue Lock/Blue Lock 1.webp',
+    img : 'images/anime/Blue-Lock/Blue-Lock-1.webp',
     name : 'Chaos ga Kiwamaru (Blue Lock OP 1)',
     artist : 'Unison Square Garden',
     music : 'audio/Blue Lock/Chaos ga Kiwamaru.mp3'
   },
   {
-    img : 'images/anime/Blue Lock/Blue Lock 2.jpg',
+    img : 'images/anime/Blue-Lock/Blue-Lock-2.jpg',
     name : 'Judgement (Blue Lock OP 2)',
     artist : 'ASH DA HERO',
     music : 'audio/Blue Lock/Judgement.mp3'
   },
   {
-    img : 'images/anime/Solo Leveling.jpg',
+    img : 'images/anime/Solo-Leveling.jpg',
     name : 'LEveL (Solo Leveling OP)',
     artist : 'SawanoHiroyuki[nZk] ft. TOMORROW X TOGETHER (TXT)',
     music : 'audio/Solo Leveling/Level.mp3'
   },
   {
-    img : 'images/anime/Dr Stone/Dr Stone 1.jpg',
+    img : 'images/anime/Dr-Stone/Dr-Stone-1.jpg',
     name : 'Good Morning World (Dr. Stone OP 1)',
     artist : 'Burnout Syndromes',
     music : 'audio/Dr Stone/Good Morning World.mp3'
   },
   {
-    img : 'images/anime/Dr Stone/Dr Stone 2.jpg',
+    img : 'images/anime/Dr-Stone/Dr-Stone-2.jpg',
     name : 'Sangenshoku (Dr. Stone OP 2)',
     artist : 'Pelican Fanclub',
     music : 'audio/Dr Stone/Sangenshoku.mp3'
   },
   {
-    img : 'images/anime/Dr Stone/Dr Stone S2.jpg',
+    img : 'images/anime/Dr-Stone/Dr-Stone-S2.jpg',
     name : 'Rakuen (Dr. Stone Season 2 OP)',
     artist : 'Fujifabric',
     music : 'audio/Dr Stone/Rakuen.mp3'
   },
   {
-    img : 'images/anime/Dr Stone/Dr Stone S3.jpg',
+    img : 'images/anime/Dr-Stone/Dr-Stone-S3.jpg',
     name : 'Wasure Gataki (Dr. Stone Season 3 OP)',
     artist : 'Huwie Ishizaki',
     music : 'audio/Dr Stone/Wasuregataki.mp3'
   },
   {
-    img : 'images/anime/Juju/Juju Kaisen 1.jpg',
+    img : 'images/anime/Juju/Juju-Kaisen-1.jpg',
     name : 'Kaikai Kitan (Jujitsu Kaisen Season 1 OP 1)',
     artist : 'Eve',
     music : 'audio/Juju/Kai.mp3'
   },
   {
-    img : 'images/anime/Juju/Juju Kaisen 2.jpg',
+    img : 'images/anime/Juju/Juju-Kaisen-2.jpg',
     name : 'Vivid Vice (Jujitsu Kaisen Season 1 OP 2)',
     artist : 'Who-ya Extended',
     music : 'audio/Juju/Vice.mp3'
   },
   {
-    img : 'images/anime/Juju/Juju Kaisen S2 1.webp',
+    img : 'images/anime/Juju/Juju-Kaisen-S2-1.webp',
     name : 'Ao No Sumika (Jujitsu Kaisen Season 2 OP 1)',
     artist : 'Tatsuya Kitani',
     music : 'audio/Juju/Sumika.mp3'
   },
   {
-    img : 'images/anime/Juju/Juju Kaisen S2 2.webp',
+    img : 'images/anime/Juju/Juju-Kaisen-S2-2.webp',
     name : 'Specialz (Jujitsu Kaisen Season 2 OP 2)',
     artist : 'King Gnu',
     music : 'audio/Juju/Specialz.mp3'
   },
   {
-    img : 'images/anime/Juju/Juju Kaisen ED 1.jpg',
+    img : 'images/anime/Juju/Juju Kaisen-ED-1.jpg',
     name : 'Lost In Paradise (Jujitsu Kaisen Season 1 ED 1)',
     artist : 'Ali ft. Aklo',
     music : 'audio/Juju/Paradise.mp3'
   },
   {
-    img : 'images/anime/The Promised Neverland/The Promised Neverland.jpg',
+    img : 'images/anime/The-Promised-Neverland/The-Promised-Neverland.jpg',
     name : 'Touch Off (The Promised Neverland OP 1)',
     artist : 'UVERworld',
     music : 'audio/The Promised Neverland/Touch Off.mp3'
   },
   {
-    img : 'images/anime/The Promised Neverland/The Promised Neverland S2.webp',
+    img : 'images/anime/The-Promised-Neverland/The-Promised-Neverland-S2.webp',
     name : 'Identity (The Promised Neverland Season 2 OP)',
     artist : 'Kiro Akiyama',
     music : 'audio/The Promised Neverland/Identity.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover.jpg',
     name : 'Haruka Mirai (Black Clover OP 1)',
     artist : 'Kankaku Piero',
     music : 'audio/Black Clover/Haruka Mirai.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover 2.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-2.jpg',
     name : 'Paint It Black (Black Clover OP 2)',
     artist : 'BiSH',
     music : 'audio/Black Clover/Paint It Black.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover 3.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-3.jpg',
     name : 'Black Rover (Black Clover OP 3)',
     artist : 'Vickeblanka',
     music : 'audio/Black Clover/Black Rover.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover 10.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-10.jpg',
     name : 'Black Catcher (Black Clover OP 10)',
     artist : 'Vickeblanka',
     music : 'audio/Black Clover/Black Catcher.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover 11.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-11.jpg',
     name : 'Stories (Black Clover OP 11)',
     artist : 'Snowman',
     music : 'audio/Black Clover/Stories.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover 12.webp',
+    img : 'images/anime/Black-Clover/Black-Clover-12.webp',
     name : 'Everlasting Sunshine (Black Clover OP 12)',
     artist : 'Tomorrow X Together',
     music : 'audio/Black Clover/Everlasting Sunshine.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover ED 12.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-ED-12.jpg',
     name : 'A Walk (Black Clover ED 12)',
     artist : 'Gakuto Kajiwara',
     music : 'audio/Black Clover/A Walk.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover 13.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-13.jpg',
     name : 'Grandeur (Black Clover OP 13)',
     artist : 'SnowMan',
     music : 'audio/Black Clover/Grandeur.mp3'
   },
   {
-    img : 'images/anime/Black Clover/Black Clover ED 13.jpg',
+    img : 'images/anime/Black-Clover/Black-Clover-ED-13.jpg',
     name : 'Beautiful (Black Clover ED 13)',
     artist : 'Treasure',
     music : 'audio/Black Clover/Beautiful.mp3'
   },
   {
-    img : 'images/anime/Attack On Titan/Attack On Titan S3.jpg',
+    img : 'images/anime/Attack-On-Titan/Attack-On-Titan S3.jpg',
     name : 'Red Swan (Attack on Titan Season 3 OP 1)',
     artist : 'YOSHIKI ft. HYDE',
     music : 'audio/AOT/Red Swan.mp3'
   },
   {
-    img : 'images/anime/Attack On Titan/Attack On Titan Final Season 2.avif',
+    img : 'images/anime/Attack-On-Titan/Attack-On-Titan-Final-Season-2.avif',
     name : 'The Rumbling (Attack on Titan Final Season OP 2)',
     artist : 'SiM',
     music : 'audio/AOT/The Rumbling.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia OST.jpg',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-OST.jpg',
     name : 'You Say Run (My Hero Academia OST)',
     artist : 'Yuki Hayashi',
     music : 'audio/My Hero Academia/You Say Run.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S3.jpeg',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S3.jpeg',
     name : 'Odd Future (My Hero Academia Season 3 OP 1)',
     artist : 'UVERworld',
     music : 'audio/My Hero Academia/Odd Future.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S4.jpg',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S4.jpg',
     name : 'Polaris (My Hero Academia Season 4 OP 1)',
     artist : 'Blue Encount',
     music : 'audio/My Hero Academia/Polaris.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S4 ED 2.jpg',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S4-ED-2.jpg',
     name : 'Shout Baby (My Hero Academia Season 4 ED 2)',
     artist : 'Ryokuoushoku Shakai',
     music : 'audio/My Hero Academia/Shout.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S5 2.gif',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S5-2.gif',
     name : 'Merry-Go-Round (My Hero Academia Season 5 OP 2)',
     artist : 'Man With A Mission',
     music : 'audio/My Hero Academia/Merry-Go-Round.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S6.webp',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S6.webp',
     name : 'Hitamuki (My Hero Academia Season 6 OP)',
     artist : 'Super Beaver',
     music : 'audio/My Hero Academia/Hitamuki.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S6 2.jpg',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S6-2.jpg',
     name : 'Bokurano (My Hero Academia Season 6 OP 2)',
     artist : 'Eve',
     music : 'audio/My Hero Academia/Bokurano.mp3'
   },
   {
-    img : 'images/anime/My Hero Academia S6 ED 1.jpg',
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S6-ED-1.jpg',
     name : 'Sketch (My Hero Academia Season 6 ED)',
     artist : 'Kiro Akiyama',
     music : 'audio/My Hero Academia/Sketch.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer.jpg',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer.jpg',
     name : 'Gurenge (Demon Slayer OP 1)',
     artist : 'LiSA',
     music : 'audio/Demon Slayer/Gurenge.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer ED.jpg',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-ED.jpg',
     name : 'From The Edge (Demon Slayer ED 1)',
     artist : 'FictionJunction ft. LiSA',
     music : 'audio/Demon Slayer/From the Edge.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer OST.jpg',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-OST.jpg',
     name : 'Kamado Tanjiro No Uta (Demon Slayer OST)',
     artist : 'Go Shiina ft. Nami Nakagawa',
     music : 'audio/Demon Slayer/Kamado Tanjiro No Uta.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer S2 1.webp',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-S2-1.webp',
     name : 'Akeboshi (Demon Slayer Season 2 OP)',
     artist : 'LiSA',
     music : 'audio/Demon Slayer/Akeboshi.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer S2 ED 1.webp',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-S2-ED-1.webp',
     name : 'Shirogane (Demon Slayer Season 2 ED)',
     artist : 'LiSA',
     music : 'audio/Demon Slayer/Shirogane.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer S2 2.jpg',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-S2-2.jpg',
     name : 'Zankyou Sanka (Demon Slayer Season 2 OP 2)',
     artist : 'Aimer',
     music : 'audio/Demon Slayer/Zankyou Sanka.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer S3.jpg',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-S3.jpg',
     name : 'Kizuna no Kiseki (Demon Slayer Season 3 OP)',
     artist : 'Man With A Mission x Milet',
     music : 'audio/Demon Slayer/Kizuna no Kiseki.mp3'
   },
   {
-    img : 'images/anime/Demon Slayer/Demon Slayer S3 ED.webp',
+    img : 'images/anime/Demon-Slayer/Demon-Slayer-S3-ED.webp',
     name : 'Koi Kogare (Demon Slayer Season 3 ED)',
     artist : 'Milet x Man With A Mission',
     music : 'audio/Demon Slayer/Koi Kogare.mp3'
@@ -1278,415 +1278,415 @@ const playlist = [
     music : 'audio/Brave Heart.mp3'
   },
   {
-    img : 'images/anime/A Certain Scientific Railgun.jpg',
+    img : 'images/anime/A-Certain-Scientific-Railgun.jpg',
     name : 'Final Phase (A Certain Scientific Railgun OP)',
     artist : 'fripSide',
     music : 'audio/Final Phase.mp3'
   },
   {
-    img : 'images/anime/Hortensia Saga.jpg',
+    img : 'images/anime/Hortensia-Saga.jpg',
     name : 'Leader (Hortensia Saga OP)',
     artist : 'My First Story',
     music : 'audio/Leader.mp3'
   },
   {
-    img : 'images/anime/Darwin\'s Game.jpg',
+    img : 'images/anime/Darwin\'s-Game.jpg',
     name : 'Chain (Darwin\'s Game OP)',
     artist : 'ASCA',
     music : 'audio/Chain.mp3'
   },
   {
-    img : 'images/anime/Blue Exorcist.jpg',
+    img : 'images/anime/Blue-Exorcist.jpg',
     name : 'Core Pride (Blue Exorcist OP 1)',
     artist : 'UVERworld',
     music : 'audio/Core Pride.mp3'
   },
   {
-    img : 'images/anime/Zombieland Saga.jpg',
+    img : 'images/anime/Zombieland-Saga.jpg',
     name : 'Adabana Necromancy (Zombie Land Saga OP 1)',
     artist : 'Franchouchou',
     music : 'audio/Necromancy.mp3'
   },
   {
-    img : 'images/anime/Re Zero S2 2.jpg',
+    img : 'images/anime/Re-Zero-S2-2.jpg',
     name : 'Long Shot (Re:Zero Season 2 OP 2)',
     artist : 'Mayu Maeshima',
     music : 'audio/ReZero/Long shot.mp3'
   },
   {
-    img : 'images/anime/The God of High School.jpg',
+    img : 'images/anime/The-God-of-High-School.jpg',
     name : 'Contradiction (The God of High School OP)',
     artist : 'KSUKE ft. Tyler Carter',
     music : 'audio/Contradiction.mp3'
   },
   {
-    img : 'images/anime/FMAB/Fullmetal Alchemist Brotherhood.jpg',
+    img : 'images/anime/FMAB/Fullmetal-Alchemist-Brotherhood.jpg',
     name : 'Again (Fullmetal Alchemist: Brotherhood OP 1)',
     artist : 'YUI',
     music : 'audio/FMAB/Again.mp3'
   },
   {
-    img : 'images/anime/FMAB/Fullmetal Alchemist Brotherhood ED.jpg',
+    img : 'images/anime/FMAB/Fullmetal-Alchemist-Brotherhood-ED.jpg',
     name : 'Uso (Fullmetal Alchemist: Brotherhood ED 1)',
     artist : 'SID',
     music : 'audio/FMAB/Uso.mp3'
   },
   {
-    img : 'images/anime/Death Note.jpg',
+    img : 'images/anime/Death-Note.jpg',
     name : 'the WORLD (Death Note OP 1)',
     artist : 'Nightmare',
     music : 'audio/World.mp3'
   },
   {
-    img : 'images/anime/Fire Force/Fire Force.jpg',
+    img : 'images/anime/Fire-Force/Fire-Force.jpg',
     name : 'Inferno (Fire Force Season 1 OP 1)',
     artist : 'Mrs. Green Apple',
     music : 'audio/Fire Force/Inferno.mp3'
   },
   {
-    img : 'images/anime/Fire Force/Fire Force 2.jpg',
+    img : 'images/anime/Fire-Force/Fire-Force-2.jpg',
     name : 'Mayday (Fire Force Season 1 OP 2)',
     artist : 'coldrain',
     music : 'audio/Fire Force/Mayday.mp3'
   },
   {
-    img : 'images/anime/Fire Force/Fire Force S2.jpg',
+    img : 'images/anime/Fire-Force/Fire-Force-S2.jpg',
     name : 'Spark Again (Fire Force Season 2 OP 1)',
     artist : 'Aimer',
     music : 'audio/Fire Force/Spark Again.mp3'
   },
   {
-    img : 'images/anime/Fire Force/Fire Force S2 2.jpg',
+    img : 'images/anime/Fire-Force/Fire-Force-S2-2.jpg',
     name : 'Torch Of Liberty (Fire Force Season 2 OP 2)',
     artist : 'Kana-Boon',
     music : 'audio/Fire Force/Torch of Liberty.mp3'
   },
   {
-    img : 'images/anime/Vinland Saga/Vinland Saga.jpg',
+    img : 'images/anime/Vinland-Saga/Vinland-Saga.jpg',
     name : 'Mukanjyo (Vinland Saga OP 1)',
     artist : 'Survive Said The Prophet',
     music : 'audio/Vinland Saga/Mukanjyo.mp3'
   },
   {
-    img : 'images/anime/Vinland Saga/Vinland Saga 2.jpg',
+    img : 'images/anime/Vinland-Saga/Vinland-Saga-2.jpg',
     name : 'Dark Crow (Vinland Saga OP 2)',
     artist : 'Man With A Mission',
     music : 'audio/Vinland Saga/Dark Crow.mp3'
   },
   {
-    img : 'images/anime/Vinland Saga/Vinland Saga S2.jpg_large',
+    img : 'images/anime/Vinland-Saga/Vinland-Saga-S2.jpg_large',
     name : 'River (Vinland Saga Season 2 OP)',
     artist : 'Anonymouz',
     music : 'audio/Vinland Saga/River.mp3'
   },
   {
-    img : 'images/anime/Vinland Saga/Vinland Saga S2 2.jpg',
+    img : 'images/anime/Vinland-Saga/Vinland-Saga-S2-2.jpg',
     name : 'Paradox (Vinland Saga Season 2 OP 2)',
     artist : 'Survive Said The Prophet',
     music : 'audio/Vinland Saga/Paradox.mp3'
   },
   {
-    img : 'images/anime/Vinland Saga/Vinland Saga ED.jpg',
+    img : 'images/anime/Vinland-Saga/Vinland-Saga-ED.jpg',
     name : 'Torches (Vinland Saga ED 1)',
     artist : 'Aimer',
     music : 'audio/Vinland Saga/Torches.mp3'
   },
   {
-    img : 'images/anime/Vinland Saga/Vinland Saga S2 ED.jpg',
+    img : 'images/anime/Vinland-Saga/Vinland-Saga-S2-ED.jpg',
     name : 'Without Love (Vinland Saga Season 2 ED)',
     artist : 'LMYK',
     music : 'audio/Vinland Saga/Without Love.mp3'
   },
   {
-    img : 'images/anime/Shield Hero/Shield Hero.jpg',
+    img : 'images/anime/Shield-Hero/Shield-Hero.jpg',
     name : 'Rise (English Version) (The Rising of the Shield Hero Season 1 OP 1)',
     artist : 'Madkid',
     music : 'audio/Shield Hero/Rise.mp3'
   },
   {
-    img : 'images/anime/Shield Hero/Shield Hero 2.jpg',
+    img : 'images/anime/Shield-Hero/Shield-Hero-2.jpg',
     name : 'Faith (English Version) (The Rising of the Shield Hero Season 1 OP 2)',
     artist : 'Madkid',
     music : 'audio/Shield Hero/Faith.mp3'
   },
   {
-    img : 'images/anime/Shield Hero/Shield Hero S2.jpg',
+    img : 'images/anime/Shield-Hero/Shield-Hero-S2.jpg',
     name : 'Bring Back (The Rising of the Shield Hero Season 2 OP)',
     artist : 'Madkid',
     music : 'audio/Shield Hero/Bring Back.mp3'
   },
   {
-    img : 'images/anime/Shield Hero/Shield Hero S3.jpg',
+    img : 'images/anime/Shield-Hero/Shield-Hero-S3.jpg',
     name : 'Sin (The Rising of the Shield Hero Season 3 OP)',
     artist : 'Madkid',
     music : 'audio/Shield Hero/Sin.mp3'
   },
   {
-    img : 'images/anime/Chainsaw Man/Chainsaw Man.png',
+    img : 'images/anime/Chainsaw-Man/Chainsaw-Man.png',
     name : 'Kick Back (Chainsaw Man OP)',
     artist : 'Kenshi Yonezu',
     music : 'audio/Chainsaw Man/Kick Back.mp3'
   },
   {
-    img : 'images/anime/Chainsaw Man/Chainsaw Man ED.jpg',
+    img : 'images/anime/Chainsaw-Man/Chainsaw-Man-ED.jpg',
     name : 'Chainsaw Blood (Chainsaw Man ED 1)',
     artist : 'Vaundy',
     music : 'audio/Chainsaw Man/Chainsaw Blood.mp3'
   },
   {
-    img : 'images/anime/Chainsaw Man/Chainsaw Man ED 2.webp',
+    img : 'images/anime/Chainsaw-Man/Chainsaw-Man-ED-2.webp',
     name : 'Time Left (Chainsaw Man ED 2)',
     artist : 'Zutomayo',
     music : 'audio/Chainsaw Man/Time Left.mp3'
   },
   {
-    img : 'images/anime/Seven Deadly Sins/Seven Deadly Sins 2.webp',
+    img : 'images/anime/Seven-Deadly-Sins/Seven-Deadly-Sins-2.webp',
     name : 'Seven Deadly Sins (The Seven Deadly Sins Season 1 OP 2)',
     artist : 'Man With A Mission',
     music : 'audio/SDS/SDS.mp3'
   },
   {
-    img : 'images/anime/Seven Deadly Sins/Seven Deadly Sins S2.jpg',
+    img : 'images/anime/Seven-Deadly-Sins/Seven-Deadly-Sins-S2.jpg',
     name : 'Howling (The Seven Deadly Sins Season 2 OP 1)',
     artist : 'Flow X Granrodeo',
     music : 'audio/SDS/Howling.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden.jpg',
+    img : 'images/anime/Naruto/Naruto-Shippuden.jpg',
     name : 'Hero\'s Come Back (Naruto Shippuden OP 1)',
     artist : 'nobodyknows+',
     music : 'audio/Naruto/Hero ComeBack.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 4.gif',
+    img : 'images/anime/Naruto/Naruto-Shippuden-4.gif',
     name : 'Closer (Naruto Shippuden OP 4)',
     artist : 'Joe Inoue',
     music : 'audio/Naruto/Closer.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 6.jpg',
+    img : 'images/anime/Naruto/Naruto-Shippuden-6.jpg',
     name : 'Sign (Naruto Shippuden OP 6)',
     artist : 'Flow',
     music : 'audio/Naruto/Sign.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 8.jpg',
+    img : 'images/anime/Naruto/Naruto-Shippuden-8.jpg',
     name : 'Diver (Naruto Shippuden OP 8)',
     artist : 'NICO Touches the Walls',
     music : 'audio/Naruto/Diver.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 12.png',
+    img : 'images/anime/Naruto/Naruto-Shippuden-12.png',
     name : 'Moshimo (Naruto Shippuden OP 12)',
     artist : 'Daisuke',
     music : 'audio/Naruto/Moshimo.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 16.jpg',
+    img : 'images/anime/Naruto/Naruto-Shippuden-16.jpg',
     name : 'Silhouette (Naruto Shippuden OP 16)',
     artist : 'Kana-Boon',
     music : 'audio/Naruto/Silhouette.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 19.gif',
+    img : 'images/anime/Naruto/Naruto-Shippuden-19.gif',
     name : 'Blood Circulator (Naruto Shippuden OP 19)',
     artist : 'Asian Kung-Fu Generation',
     music : 'audio/Naruto/Blood Circulator.mp3'
   },
   {
-    img : 'images/anime/Naruto/Naruto Shippuden 20.jpg',
+    img : 'images/anime/Naruto/Naruto-Shippuden-20.jpg',
     name : 'Kara no Kokoro (Naruto Shippuden OP 20)',
     artist : 'Anly',
     music : 'audio/Naruto/Kara No Kokoro.mp3'
   },
   {
-    img : 'images/anime/Naruto/Boruto/Boruto 8.jpg',
+    img : 'images/anime/Naruto/Boruto/Boruto-8.jpg',
     name : 'Baku (Boruto: Naruto Next Generations OP 8)',
     artist : 'Ikimonogakari',
     music : 'audio/Naruto/Boruto/Baku.mp3'
   },
   {
-    img : 'images/anime/Naruto/Boruto/Boruto 10.jpg',
+    img : 'images/anime/Naruto/Boruto/Boruto-10.jpg',
     name : 'Gold (Boruto: Naruto Next Generations OP 10)',
     artist : 'Flow',
     music : 'audio/Naruto/Boruto/Gold.mp3'
   },
   {
-    img : 'images/anime/Naruto/Boruto/Boruto 11.jpg',
+    img : 'images/anime/Naruto/Boruto/Boruto-11.jpg',
     name : 'Kirarirari (Boruto: Naruto Next Generations OP 11)',
     artist : 'Kana-Boon',
     music : 'audio/Naruto/Boruto/Kirarirari.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach OST.gif',
+    img : 'images/anime/Bleach/Bleach-OST.gif',
     name : 'Number One (Bleach OST)',
     artist : 'Shiro Sagisu ft. Hazel Fernandes',
     music : 'audio/Bleach/Bleach1.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 1.jpg',
+    img : 'images/anime/Bleach/Bleach-1.jpg',
     name : 'Asterisk (Bleach OP 1)',
     artist : 'Orange Range',
     music : 'audio/Bleach/Asterisk.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 2.jpg',
+    img : 'images/anime/Bleach/Bleach-2.jpg',
     name : 'D-tecnoLife (Bleach OP 2)',
     artist : 'UVERworld',
     music : 'audio/Bleach/D.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 3.gif',
+    img : 'images/anime/Bleach/Bleach-3.gif',
     name : 'Ichirin no Hana (Bleach OP 3)',
     artist : 'HIGH and MIGHTY COLOR',
     music : 'audio/Bleach/Ichirin.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 4.jpg',
+    img : 'images/anime/Bleach/Bleach-4.jpg',
     name : 'Tonight, Tonight, Tonight (Bleach OP 4)',
     artist : 'BEAT CRUSADERS',
     music : 'audio/Bleach/Tonight.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 5.jpg',
+    img : 'images/anime/Bleach/Bleach-5.jpg',
     name : 'Rolling Star (Bleach OP 5)',
     artist : 'YUI',
     music : 'audio/Bleach/Rolling Star.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 6.gif',
+    img : 'images/anime/Bleach/Bleach-6.gif',
     name : 'Alones (Bleach OP 6)',
     artist : 'Aqua Timez',
     music : 'audio/Bleach/Alones.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 7.jpg',
+    img : 'images/anime/Bleach/Bleach-7.jpg',
     name : 'After Dark (Bleach OP 7)',
     artist : 'Asian Kung-Fu Generation',
     music : 'audio/Bleach/After Dark.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 8.jpg',
+    img : 'images/anime/Bleach/Bleach-8.jpg',
     name : 'Chubura (Bleach OP 8)',
     artist : 'Kelun',
     music : 'audio/Bleach/Chubura.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 9.jpg',
+    img : 'images/anime/Bleach/Bleach-9.jpg',
     name : 'Velonica (Bleach OP 9)',
     artist : 'Aqua Timez',
     music : 'audio/Bleach/Velonica.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 10.jpg',
+    img : 'images/anime/Bleach/Bleach-10.jpg',
     name : 'Shoujyo S (Bleach OP 10)',
     artist : 'SCANDAL',
     music : 'audio/Bleach/Shoujyo S.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 11.jpg',
+    img : 'images/anime/Bleach/Bleach-11.jpg',
     name : 'Anima Rossa (Bleach OP 11)',
     artist : 'PornoGraffitti',
     music : 'audio/Bleach/Anima.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 12.jpg',
+    img : 'images/anime/Bleach/Bleach-12.jpg',
     name : 'chAngE (Bleach OP 12)',
     artist : 'Miwa',
     music : 'audio/Bleach/Change.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 13.webp',
+    img : 'images/anime/Bleach/Bleach-13.webp',
     name : 'Ranbu No Melody (Bleach OP 13)',
     artist : 'SID',
     music : 'audio/Bleach/Ranbu.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 14.jpg',
+    img : 'images/anime/Bleach/Bleach-14.jpg',
     name : 'Blue (Bleach OP 14)',
     artist : 'ViViD',
     music : 'audio/Bleach/Blue.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach 15.gif',
+    img : 'images/anime/Bleach/Bleach-15.gif',
     name : 'Harukaze (Bleach OP 15)',
     artist : 'SCANDAL',
     music : 'audio/Bleach/Harukaze.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach TYBW.jpg',
+    img : 'images/anime/Bleach/Bleach-TYBW.jpg',
     name : 'Scar (Bleach TYBW OP)',
     artist : 'Tatsuya Kitani',
     music : 'audio/Bleach/Scar.mp3'
   },
   {
-    img : 'images/anime/Bleach/Bleach TYBW ED.jpg',
+    img : 'images/anime/Bleach/Bleach-TYBW-ED.jpg',
     name : 'Saihate (Bleach TYBW ED)',
     artist : 'SennaRin',
     music : 'audio/Bleach/Saihate.mp3'
   },
   {
-    img : 'images/anime/One Piece/One Piece 11.jpg',
+    img : 'images/anime/One-Piece/One-Piece-11.jpg',
     name : 'Share The World (One Piece OP 11)',
     artist : 'Tohoshinki',
     music : 'audio/One Piece/Share the World.mp3'
   },
   {
-    img : 'images/anime/One Piece/One Piece 20.jpg',
+    img : 'images/anime/One-Piece/One-Piece-20.jpg',
     name : 'Hope (One Piece OP 20)',
     artist : 'Namie Amuro',
     music : 'audio/One Piece/Hope.mp3'
   },
   {
-    img : 'images/anime/One Piece/One Piece 23.jpg',
+    img : 'images/anime/One-Piece/One-Piece-23.jpg',
     name : 'Dreamin\' On (One Piece OP 23)',
     artist : 'Da-Ice',
     music : 'audio/One Piece/Dreamin On.mp3'
   },
   {
-    img : 'images/anime/One Piece/One Piece 24.webp',
+    img : 'images/anime/One-Piece/One-Piece-24.webp',
     name : 'Paint (One Piece OP 24)',
     artist : 'I Don\'t Like Mondays',
     music : 'audio/One Piece/Paint.mp3'
   },
   {
-    img : 'images/COD/Call Of Duty Black Ops 2.jpg',
+    img : 'images/COD/Call-Of-Duty-Black-Ops-2.jpg',
     name : 'Carry On (Call of Duty Black Ops 2 - Campaign ED Soundtrack)',
     artist : 'Avenged Sevenfold',
     music : 'audio/COD/Carry On.mp3'
   },
   {
-    img : 'images/COD/Kino Der Toten EE.jpg',
+    img : 'images/COD/Kino-Der-Toten-EE.jpg',
     name : '115 (Call Of Duty Black Ops Zombies/Black Ops 3 Zombies Chronicles - Kino Der Toten EE)',
     artist : 'Treyarch - Kevin Sherwood & Elena Siegman',
     music : 'audio/COD/115.mp3'
   },
   {
-    img : 'images/COD/Tranzit EE.jpg',
+    img : 'images/COD/Tranzit-EE.jpg',
     name : 'Carrion (Call of Duty Black Ops 2 Zombies - Tranzit EE)',
     artist : 'Kevin Sherwood',
     music : 'audio/COD/Carrion.mp3'
   },
   {
-    img : 'images/COD/The Giant EE.jpg',
+    img : 'images/COD/The-Giant-EE.jpg',
     name : 'Beauty of Annihilation (Call of Duty World At War/Black Ops 3 Zombies - Der Riese/The Giant EE)',
     artist : 'Kevin Sherwood ft. Elena Siegman',
     music : 'audio/COD/BOA.mp3'
   },
   {
-    img : 'images/COD/Gorod Krovi EE.jpg',
+    img : 'images/COD/Gorod-Krovi-EE.jpg',
     name : 'Ace of Spades (Call of Duty Black Ops 3 Zombies - Gorod Krovi)',
     artist : 'Motorhead',
     music : 'audio/COD/AOS.mp3'
   },
   {
-    img : 'images/COD/Origins EE.jpg',
+    img : 'images/COD/Origins-EE.jpg',
     name : 'Shepherd of Fire (Call of Duty Black Ops 2 Zombies/Black Ops 3 Zombies Chronicles - Origins EE)',
     artist : 'Avenged Sevenfold',
     music : 'audio/COD/SOF.mp3'
   },
   {
-    img : 'images/Animal I Have Become.jpg',
+    img : 'images/Animal-I-Have-Become.jpg',
     name : 'Animal I Have Become',
     artist : 'Three Days Grace',
     music : 'audio/TDG-Animal.mp3'
