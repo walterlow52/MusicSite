@@ -121,25 +121,25 @@
     "music" : "audio/Mood.mp3"
   },
   {
-    "img" : "images/hiphop/Man's-Not-Hot.png",
+    "img" : "images/hiphop/Mans-Not-Hot.png",
     "name" : "Man's Not Hot",
     "artist" : "Big Shaq",
     "music" : "audio/Man's Not Hot.mp3"
   },
   {
-    "img" : "images/anime/Mob-Psycho-100-S1.jpg",
+    "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S1.jpg",
     "name" : "99 (Mob Psycho 100 OP)",
     "artist" : "Mob Choir",
     "music" : "audio/Mob Psycho 100/99.mp3"
   },
   {
-    "img" : "images/anime/Mob-Psycho-100-S2.jpg",
+    "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S2.jpg",
     "name" : "99.9 (Mob Psycho 100 Season 2 OP)",
     "artist" : "Mob Choir",
     "music" : "audio/Mob Psycho 100/99.9.mp3"
   },
   {
-    "img" : "images/anime/Mob-Psycho-100-S3.jpg",
+    "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S3.jpg",
     "name" : "1 (Mob Psycho 100 Season 3 OP)",
     "artist" : "Mob Choir",
     "music" : "audio/Mob Psycho 100/1.mp3"
@@ -859,7 +859,7 @@
     "music" : "audio/Aespa/Aespa-Illusion.mp3"
   },
   {
-    "img" : "images/kpop/Aespa/Life's-Too-Short.jpg",
+    "img" : "images/kpop/Aespa/Lifes-Too-Short.jpg",
     "name" : "Life's Too Short",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-Life's Too Short.mp3"
@@ -1051,7 +1051,7 @@
     "music" : "audio/Dr Stone/Sangenshoku.mp3"
   },
   {
-    "img" : "images/anime/Dr-Stone/Dr-Stone-S2.jpg",
+    "img" : "images/anime/Dr-Stone/Dr-Stone-S2.webp",
     "name" : "Rakuen (Dr. Stone Season 2 OP)",
     "artist" : "Fujifabric",
     "music" : "audio/Dr Stone/Rakuen.mp3"
@@ -1063,31 +1063,31 @@
     "music" : "audio/Dr Stone/Wasuregataki.mp3"
   },
   {
-    "img" : "images/anime/Juju/Juju-Kaisen-1.jpg",
+    "img" : "images/anime/Juju/JuJu-Kaisen-1.jpg",
     "name" : "Kaikai Kitan (Jujitsu Kaisen Season 1 OP 1)",
     "artist" : "Eve",
     "music" : "audio/Juju/Kai.mp3"
   },
   {
-    "img" : "images/anime/Juju/Juju-Kaisen-2.jpg",
+    "img" : "images/anime/Juju/JuJu-Kaisen-2.jpg",
     "name" : "Vivid Vice (Jujitsu Kaisen Season 1 OP 2)",
     "artist" : "Who-ya Extended",
     "music" : "audio/Juju/Vice.mp3"
   },
   {
-    "img" : "images/anime/Juju/Juju-Kaisen-S2-1.webp",
+    "img" : "images/anime/Juju/JuJu-Kaisen-S2-1.webp",
     "name" : "Ao No Sumika (Jujitsu Kaisen Season 2 OP 1)",
     "artist" : "Tatsuya Kitani",
     "music" : "audio/Juju/Sumika.mp3"
   },
   {
-    "img" : "images/anime/Juju/Juju-Kaisen-S2-2.webp",
+    "img" : "images/anime/Juju/JuJu-Kaisen-S2-2.webp",
     "name" : "Specialz (Jujitsu Kaisen Season 2 OP 2)",
     "artist" : "King Gnu",
     "music" : "audio/Juju/Specialz.mp3"
   },
   {
-    "img" : "images/anime/Juju/Juju-Kaisen-ED-1.jpg",
+    "img" : "images/anime/Juju/JuJu-Kaisen-ED-1.jpg",
     "name" : "Lost In Paradise (Jujitsu Kaisen Season 1 ED 1)",
     "artist" : "Ali ft. Aklo",
     "music" : "audio/Juju/Paradise.mp3"
@@ -1285,7 +1285,7 @@
     "music" : "audio/Leader.mp3"
   },
   {
-    "img" : "images/anime/Darwin's-Game.jpg",
+    "img" : "images/anime/Darwins-Game.jpg",
     "name" : "Chain (Darwin's Game OP)",
     "artist" : "ASCA",
     "music" : "audio/Chain.mp3"
@@ -1309,7 +1309,7 @@
     "music" : "audio/ReZero/Long shot.mp3"
   },
   {
-    "img" : "images/anime/The-God-of-High-School.jpg",
+    "img" : "images/anime/The-God-Of-High-School.jpg",
     "name" : "Contradiction (The God of High School OP)",
     "artist" : "KSUKE ft. Tyler Carter",
     "music" : "audio/Contradiction.mp3"
@@ -1675,7 +1675,7 @@
     "music" : "audio/COD/AOS.mp3"
   },
   {
-    "img" : "images/COD/Origins-EE.jpg",
+    "img" : "images/COD/Origins-EE.webp",
     "name" : "Shepherd of Fire (Call of Duty Black Ops 2 Zombies/Black Ops 3 Zombies Chronicles - Origins EE)",
     "artist" : "Avenged Sevenfold",
     "music" : "audio/COD/SOF.mp3"
