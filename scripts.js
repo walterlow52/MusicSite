@@ -1038,10 +1038,16 @@ const playlist = [
     music : 'audio/Blue Lock/Judgement.mp3'
   },
   {
-    img : 'images/anime/Solo-Leveling.jpg',
+    img : 'images/anime/Solo-Leveling/Solo-Leveling.jpg',
     name : 'LEveL (Solo Leveling OP)',
     artist : 'SawanoHiroyuki[nZk] ft. TOMORROW X TOGETHER (TXT)',
     music : 'audio/Solo Leveling/Level.mp3'
+  },
+  {
+    img : 'images/anime/Solo-Leveling/Solo-Leveling-OST.jpg',
+    name : 'DARK ARIA <LV2> (Solo Leveling OST)',
+    artist : 'SawanoHiroyuki[nZk] ft. XAI',
+    music : 'audio/Solo Leveling/LV2.mp3'
   },
   {
     img : 'images/anime/Dr-Stone/Dr-Stone-1.jpg',
