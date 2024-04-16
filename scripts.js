@@ -588,6 +588,12 @@ const playlist = [
     music : 'audio/Twice/Twice-One Spark.mp3'
   },
   {
+    img : 'images/kpop/Twice/With-Youth-2.jpg',
+    name : 'One Spark (English Version)',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-One Spark (Eng).mp3'
+  },
+  {
     img : 'images/kpop/Twice/With-Youth.webp',
     name : 'Rush',
     artist : 'TWICE',
