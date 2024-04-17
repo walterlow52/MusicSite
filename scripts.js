@@ -126,6 +126,12 @@ const playlist = [
     music : 'audio/Man\'s Not Hot.mp3'
   },
   {
+    img : 'images/WM-27-OST.jpg',
+    name : 'Written In The Stars',
+    artist : 'Tinie Tempah ft. Eric Turner',
+    music : 'audio/WM27.mp3'
+  },
+  {
     img : 'images/anime/Mob-Psycho-100/Mob-Psycho-100-S1.jpg',
     name : '99 (Mob Psycho 100 OP)',
     artist : 'Mob Choir',
