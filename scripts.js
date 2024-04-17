@@ -1062,6 +1062,12 @@ const playlist = [
     music : 'audio/Ninja Kamui/Vengeance.mp3'
   },
   {
+    img : 'images/anime/Ninja-Kamui/Ninja-Kamui-ED.jpg',
+    name : 'Eye Openers (Ninja Kamui ED)',
+    artist : 'Jessica Gelinas · R . O . N · Yuki Kanesaka',
+    music : 'audio/Ninja Kamui/Eye Openers.mp3'
+  },
+  {
     img : 'images/anime/Dr-Stone/Dr-Stone-1.jpg',
     name : 'Good Morning World (Dr. Stone OP 1)',
     artist : 'Burnout Syndromes',
