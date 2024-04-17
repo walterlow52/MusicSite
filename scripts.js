@@ -1056,6 +1056,12 @@ const playlist = [
     music : 'audio/Solo Leveling/LV2.mp3'
   },
   {
+    img : 'images/anime/Ninja-Kamui/Ninja-Kamui-OP.jpg',
+    name : 'Vengeance (Ninja Kamui OP)',
+    artist : 'coldrain',
+    music : 'audio/Ninja Kamui/Vengeance.mp3'
+  },
+  {
     img : 'images/anime/Dr-Stone/Dr-Stone-1.jpg',
     name : 'Good Morning World (Dr. Stone OP 1)',
     artist : 'Burnout Syndromes',
