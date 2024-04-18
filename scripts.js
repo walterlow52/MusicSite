@@ -1056,6 +1056,12 @@ const playlist = [
     music : 'audio/Solo Leveling/Level.mp3'
   },
   {
+    img : 'images/anime/Solo-Leveling/Solo-Leveling-ED.jpg',
+    name : 'request (Solo Leveling ED)',
+    artist : 'Krage',
+    music : 'audio/Solo Leveling/request.mp3'
+  },
+  {
     img : 'images/anime/Solo-Leveling/Solo-Leveling-OST.jpg',
     name : 'DARK ARIA <LV2> (Solo Leveling OST)',
     artist : 'SawanoHiroyuki[nZk] ft. XAI',
