@@ -33,7 +33,8 @@
           <>
           <h1 style = {{color: "white"}}> Bronco's Ultimate Playlist Tracklist </h1>
             <div style = {Styling}>
-  <table className = "searchable sortable"> 
+  <input id = "dbfun" type = "text" placeholder = "Search here"/>
+  <table className = "searchable sortable" id = "fun"> 
     <caption className = "table-heading"> Playlist Dataset Table </caption>
   <tr>
     <th> Artist </th> <th> Track Name </th> <th> Featured Artists </th> <th> Promotional Type </th> <th> Promotion Name </th> <th> Type of Song </th> <th> Type # </th>
@@ -902,6 +903,14 @@
   </table> </div>
 </>
 );
+$document.ready(function () {
+      $("dbfun").on("keyup", function() {
+        var value = $(this).val().toLowerCase();
+      $("#fun tr").filter(function () {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    });
+  });
 }
       const container = document.getElementById('root');
       const root = ReactDOM.createRoot(container);
