@@ -151,6 +151,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Perfect-World.jpg',
+    name : 'Perfect World',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Perfect World.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Perfect-World.jpg',
     name : 'Promise',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Promise.mp3'
@@ -162,16 +168,16 @@ const playlist = [
     music : 'audio/Twice/Twice-Pieces of Love.mp3'
   },
   {
-    img : 'images/kpop/Twice/Kura-Kura.png',
-    name : 'Strawberry Moon',
-    artist : 'TWICE',
-    music : 'audio/Twice/Twice-Strawberry Moon.mp3'
-  },
-  {
     img : 'images/kpop/Twice/Perfect-World.jpg',
     name : 'In The Summer',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-In the Summer.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Kura-Kura.png',
+    name : 'Strawberry Moon',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Strawberry Moon.mp3'
   },
   {
     img : 'images/kpop/Twice/Just-Be-Yourself.jpg',
@@ -1074,7 +1080,7 @@ const playlist = [
     music : 'audio/Ninja Kamui/Vengeance.mp3'
   },
   {
-    img : 'images/anime/Ninja-Kamui/Ninja-Kamui-ED.jpg',
+    img : 'images/anime/Ninja-Kamui/Ninja-Kamui-ED.png',
     name : 'Eye Openers (Ninja Kamui ED)',
     artist : 'Jessica Gelinas · R . O . N · Yuki Kanesaka',
     music : 'audio/Ninja Kamui/Eye Openers.mp3'
