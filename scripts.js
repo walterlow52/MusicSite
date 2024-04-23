@@ -307,6 +307,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Likey.jpg',
+    name : 'Ding Dong',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Ding Dong.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Likey.jpg',
     name : 'Look At Me',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Look at Me.mp3'
@@ -322,6 +328,18 @@ const playlist = [
     name : 'After Moon',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-After Moon.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Yes-Or-Yes.png',
+    name : 'Young and Wild',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Young and Wild.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Yes-Or-Yes.png',
+    name : 'Say You Love Me',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Say You Love Me.mp3'
   },
   {
     img : 'images/kpop/Twice/Eyes-Wide-Open.png',
@@ -403,9 +421,21 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/BDZ.jpg',
+    name : 'L.O.V.E',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Love.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/BDZ.jpg',
     name : 'Say It Again',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Say it again.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Stay By My Side.webp',
+    name : 'Stay By My Side',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Stay By My Side.mp3'
   },
   {
     img : 'images/kpop/Twice/Formula-Of-Love.jpg',
@@ -484,6 +514,12 @@ const playlist = [
     name : 'Pink Lemonade',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Pink Lemonade.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Best Thing.jpg',
+    name : 'The Best Thing I Ever Did',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Best Thing.mp3'
   },
   {
     img : 'images/kpop/Twice/Fake-&-True.jpg',
