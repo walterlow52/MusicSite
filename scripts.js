@@ -432,7 +432,7 @@ const playlist = [
     music : 'audio/Twice/Twice-Say it again.mp3'
   },
   {
-    img : 'images/kpop/Twice/Stay By My Side.webp',
+    img : 'images/kpop/Twice/Stay-By-My-Side.webp',
     name : 'Stay By My Side',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Stay By My Side.mp3'
