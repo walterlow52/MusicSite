@@ -167,7 +167,7 @@ header {
 
 a {
 	color: black;
-  text-decoration: underline lime wavy auto;
+  text-decoration: underline lime double auto;
 }
 
 a:hover {
