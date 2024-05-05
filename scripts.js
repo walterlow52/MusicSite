@@ -145,6 +145,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Story-Begins.jpg',
+    name : 'Do It Again',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Do It Again.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Story-Begins.jpg',
     name : 'Going Crazy',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Going Crazy.mp3'
@@ -246,6 +252,12 @@ const playlist = [
     music : 'audio/Twice/Twice-Sweet Summer Day.mp3'
   },
   {
+    img : 'images/kpop/Twice/Fanfare.png',
+    name : 'Fanfare',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Fanfare.mp3'
+  },
+  {
     img : 'images/kpop/Twice/Better.jpg',
     name : 'Better',
     artist : 'TWICE',
@@ -310,6 +322,12 @@ const playlist = [
     name : 'Ding Dong',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Ding Dong.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Likey.jpg',
+    name : 'FFW',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-FFW.mp3'
   },
   {
     img : 'images/kpop/Twice/Likey.jpg',
@@ -432,6 +450,12 @@ const playlist = [
     music : 'audio/Twice/Twice-Say it again.mp3'
   },
   {
+    img : 'images/kpop/Twice/BDZ.jpg',
+    name : 'Wishing',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Wishing.mp3'
+  },
+  {
     img : 'images/kpop/Twice/Stay-By-My-Side.webp',
     name : 'Stay By My Side',
     artist : 'TWICE',
@@ -492,6 +516,18 @@ const playlist = [
     music : 'audio/Twice/Twice-Rewind.mp3'
   },
   {
+    img : 'images/kpop/Twice/Doughnut.png',
+    name : 'Doughnut',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Doughnut.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Doughnut.png',
+    name : 'Wonderful Day',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Wonderful Day.mp3'
+  },
+  {
     img : 'images/kpop/Twice/Summer-Nights.jpg',
     name : 'Shot thru the Heart',
     artist : 'TWICE',
@@ -502,6 +538,12 @@ const playlist = [
     name : 'Baby Blue Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Baby Blue Love.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/What-Is-Love.webp',
+    name : 'Stuck',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Stuck.mp3'
   },
   {
     img : 'images/kpop/Twice/What-Is-Love.webp',
@@ -574,6 +616,12 @@ const playlist = [
     name : 'What You Waiting For',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-What You Waiting For.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/&TWICE.webp',
+    name : 'Swing',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Swing.mp3'
   },
   {
     img : 'images/kpop/Twice/Celebrate.jpg',
@@ -1390,6 +1438,12 @@ const playlist = [
     name : 'Sketch (My Hero Academia Season 6 ED)',
     artist : 'Kiro Akiyama',
     music : 'audio/My Hero Academia/Sketch.mp3'
+  },
+  {
+    img : 'images/anime/My-Hero-Academia/My-Hero-Academia-S7.jpg',
+    name : 'Tagatame (My Hero Academia Season 7 OP)',
+    artist : 'TK from Ling tosite sigure',
+    music : 'audio/My Hero Academia/Tagatame.mp3'
   },
   {
     img : 'images/anime/Demon-Slayer/Demon-Slayer.jpg',
