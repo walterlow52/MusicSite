@@ -180,6 +180,12 @@ const playlist = [
     music : 'audio/Twice/Twice-1 to 10.mp3'
   },
   {
+    img : 'images/kpop/Twice/TT.jpg',
+    name : 'Pit-A-Pat',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Pit-a-Pat.mp3'
+  },
+  {
     img : 'images/kpop/Twice/Perfect-World.jpg',
     name : 'Perfect World',
     artist : 'TWICE',
@@ -244,6 +250,12 @@ const playlist = [
     name : 'Shadow',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Shadow.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/More-&-More.jpeg',
+    name : 'Don\'t Call Me Again',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Don\'t Call Me Again.mp3'
   },
   {
     img : 'images/kpop/Twice/More-&-More.jpeg',
@@ -325,6 +337,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Likey.jpg',
+    name : 'Love Line',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Love Line.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Likey.jpg',
     name : 'FFW',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-FFW.mp3'
@@ -358,6 +376,12 @@ const playlist = [
     name : 'Say You Love Me',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Say You Love Me.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Yes-Or-Yes.png',
+    name : 'Sunset',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Sunset.mp3'
   },
   {
     img : 'images/kpop/Twice/Eyes-Wide-Open.png',
@@ -529,6 +553,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Summer-Nights.jpg',
+    name : 'Chillax',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Chillax.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Summer-Nights.jpg',
     name : 'Shot thru the Heart',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Shot thru the heart.mp3'
@@ -538,6 +568,12 @@ const playlist = [
     name : 'Baby Blue Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Baby Blue Love.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/What-Is-Love.webp',
+    name : 'Sweet Talker',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Sweet Talker.mp3'
   },
   {
     img : 'images/kpop/Twice/What-Is-Love.webp',
@@ -558,7 +594,7 @@ const playlist = [
     music : 'audio/Twice/Twice-Pink Lemonade.mp3'
   },
   {
-    img : 'images/kpop/Twice/Best Thing.jpg',
+    img : 'images/kpop/Twice/Best-Thing.jpg',
     name : 'The Best Thing I Ever Did',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Best Thing.mp3'
