@@ -1200,6 +1200,12 @@ const playlist = [
     music : 'audio/Aespa/Aespa-JingleBell.mp3'
   },
   {
+    img : 'images/kpop/Aespa/Supernova.jpg',
+    name : 'Supernova',
+    artist : 'Aespa',
+    music : 'audio/Aespa/Aespa-Supernova.mp3'
+  },
+  {
     img : 'images/kpop/Aespa/We-Go.jpg',
     name : 'We Go',
     artist : 'Aespa',
