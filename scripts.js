@@ -1206,6 +1206,12 @@ const playlist = [
     music : 'audio/Aespa/Aespa-Supernova.mp3'
   },
   {
+    img : 'images/kpop/Aespa/Die-Trying.jpg',
+    name : 'Die Trying',
+    artist : 'Aespa',
+    music : 'audio/Aespa/Aespa-Die Trying.mp3'
+  },
+  {
     img : 'images/kpop/Aespa/We-Go.jpg',
     name : 'We Go',
     artist : 'Aespa',
@@ -1954,6 +1960,114 @@ const playlist = [
     name : 'Animal I Have Become',
     artist : 'Three Days Grace',
     music : 'audio/TDG-Animal.mp3'
+  },
+  {
+    img : 'images/TB/Party-Animal.jpg',
+    name : 'Gyal You A Party Animal',
+    artist : 'Charly Black',
+    music : 'audio/TB/Party Animal.mp3'
+  },
+  {
+    img : 'images/TB/Am-I-Wrong.png',
+    name : 'Am I Wrong',
+    artist : 'Nico & Vinz',
+    music : 'audio/TB/Am I Wrong.mp3'
+  },
+  {
+    img : 'images/TB/SUAD.jpg',
+    name : 'Shut Up And Dance',
+    artist : 'WALK THE MOON',
+    music : 'audio/TB/SUAD.mp3'
+  },
+  {
+    img : 'images/TB/Stereo-Hearts.jpg',
+    name : 'Stereo Hearts',
+    artist : 'Gym Class Heroes ft. Adam Levine',
+    music : 'audio/TB/Stereo Hearts.mp3'
+  },
+  {
+    img : 'images/TB/The-Man.jpg',
+    name : 'The Man',
+    artist : 'Aloe Blacc',
+    music : 'audio/TB/The Man.mp3'
+  },
+  {
+    img : 'images/TB/Pompeii.jpg',
+    name : 'Pompeii',
+    artist : 'Bastille',
+    music : 'audio/TB/Pompeii.mp3'
+  },
+  {
+    img : 'images/TB/Capital-Cities.jpg',
+    name : 'Safe & Sound',
+    artist : 'Capital Cities',
+    music : 'audio/TB/Safe and Sound.mp3'
+  },
+  {
+    img : 'images/TB/We-Are-Young.jpg',
+    name : 'We Are Young',
+    artist : 'Fun ft. Janelle Monae',
+    music : 'audio/TB/We Are Young.mp3'
+  },
+  {
+    img : 'images/TB/Tonight.jpg',
+    name : 'Tonight Tonight',
+    artist : 'Hot Chelle Rae',
+    music : 'audio/TB/Tonight.mp3'
+  },
+  {
+    img : 'images/TB/Unforgettable.jpg',
+    name : 'Unforgettable',
+    artist : 'French Montana ft. Swae Lee',
+    music : 'audio/TB/Unforgettable.mp3'
+  },
+  {
+    img : 'images/TB/Replay.png',
+    name : 'Replay',
+    artist : 'Iyaz',
+    music : 'audio/TB/Replay.mp3'
+  },
+  {
+    img : 'images/TB/Strip-that-Down.png',
+    name : 'Strip That Down',
+    artist : 'Liam Payne ft. Quavo',
+    music : 'audio/TB/Strip that Down.mp3'
+  },
+  {
+    img : 'images/TB/Lean-On.png',
+    name : 'Lean On',
+    artist : 'Major Lazer ft. DJ Snake & MO',
+    music : 'audio/TB/Lean On.mp3'
+  },
+  {
+    img : 'images/TB/Ebiza.jpg',
+    name : 'I Took A Pill In Ebiza',
+    artist : 'Mike Posner',
+    music : 'audio/TB/Ebiza.mp3'
+  },
+  {
+    img : 'images/TB/M83.jpeg',
+    name : 'Midnight City',
+    artist : 'M83',
+    music : 'audio/TB/Midnight City.mp3'
+  },
+  {
+    img : 'images/TB/Classic.jpg',
+    name : 'Classic',
+    artist : 'MKTO',
+    music : 'audio/TB/Classic.mp3'
+  },
+  {
+    img : 'images/TB/Locked-Away.png',
+    name : 'Locked Away',
+    artist : 'R. City ft. Adam Levine',
+    music : 'audio/TB/Locked Away.mp3'
+  },
+  {
+    img : 'images/TB/Hall-Of-Fame.jpg',
+    name : 'Hall Of Fame',
+    artist : 'The Script ft. will.i.am',
+    music : 'audio/TB/Hall of Fame.mp3'
   },
   {
     img : 'images/WM-27-OST.jpg',
