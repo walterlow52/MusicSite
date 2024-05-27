@@ -108,6 +108,12 @@ const playlist = [
     music : 'audio/Fetty Wap/Fetty Wap-My Way.mp3'
   },
   {
+    img : 'images/hiphop/Fetty-Wap/Trap-Queen.jpg',
+    name : 'RGF Island',
+    artist : 'Fetty Wap',
+    music : 'audio/Fetty Wap/Fetty Wap-RGF.mp3'
+  },
+  {
     img : 'images/hiphop/Fetty-Wap/Promise.jpg',
     name : 'Promise',
     artist : 'Kid Ink ft. Fetty Wap',
@@ -241,6 +247,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/More-&-More.jpeg',
+    name : 'More & More',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-More and More.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/More-&-More.jpeg',
     name : 'Firework',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Firework.mp3'
@@ -354,6 +366,12 @@ const playlist = [
     music : 'audio/Twice/Twice-Look at Me.mp3'
   },
   {
+    img : 'images/kpop/Twice/Likey.jpg',
+    name : 'Don\'t Give Up',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Don\'t Give Up.mp3'
+  },
+  {
     img : 'images/kpop/Twice/Yes-Or-Yes.png',
     name : 'Yes Or Yes',
     artist : 'TWICE',
@@ -450,6 +468,12 @@ const playlist = [
     music : 'audio/Twice/Twice-Headphones.mp3'
   },
   {
+    img : 'images/kpop/Twice/Cheer-Up.jpg',
+    name : 'Woohoo',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Woohoo.mp3'
+  },
+  {
     img : 'images/kpop/Twice/BDZ.jpg',
     name : 'BDZ',
     artist : 'TWICE',
@@ -480,10 +504,34 @@ const playlist = [
     music : 'audio/Twice/Twice-Wishing.mp3'
   },
   {
+    img : 'images/kpop/Twice/BDZ.jpg',
+    name : 'Be as ONE',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Be as One.mp3'
+  },
+  {
     img : 'images/kpop/Twice/Stay-By-My-Side.webp',
     name : 'Stay By My Side',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Stay By My Side.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/OMT.jpg',
+    name : 'Luv Me',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Luv Me.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Candy-Pop.jpg',
+    name : 'Candy Pop',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Candy Pop.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Brand-New-Girl.jpg',
+    name : 'Brand New Girl',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Brand New Girl.mp3'
   },
   {
     img : 'images/kpop/Twice/Formula-Of-Love.jpg',
@@ -526,6 +574,30 @@ const playlist = [
     name : 'Fall in Love Again (FILA)',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-FILA.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
+    name : 'Moonlight',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Moonlight.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
+    name : 'ICON',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-ICON.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
+    name : 'Candy',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Candy.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
+    name : 'Espresso',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Espresso.mp3'
   },
   {
     img : 'images/kpop/Twice/Formula-Of-Love.jpg',
@@ -589,6 +661,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Wake-Me-Up.webp',
+    name : 'Wake Me Up',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Wake Me Up.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Wake-Me-Up.webp',
     name : 'Pink Lemonade',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Pink Lemonade.mp3'
@@ -598,6 +676,12 @@ const playlist = [
     name : 'The Best Thing I Ever Did',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Best Thing.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Happy.jpg',
+    name : 'Happy Happy',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Happy Happy.mp3'
   },
   {
     img : 'images/kpop/Twice/Fake-&-True.jpg',
@@ -1962,6 +2046,36 @@ const playlist = [
     music : 'audio/TDG-Animal.mp3'
   },
   {
+    img : 'images/TB/Heathens.png',
+    name : 'Heathens',
+    artist : 'Twenty One Pilots',
+    music : 'audio/TB/Heathens.mp3'
+  },
+  {
+    img : 'images/TB/Stressed-Out.jpg',
+    name : 'Stressed Out',
+    artist : 'Twenty One Pilots',
+    music : 'audio/TB/Stressed Out.mp3'
+  },
+  {
+    img : 'images/TB/Pitbull/International-Love.jpg',
+    name : 'International Love',
+    artist : 'Pitbull ft. Chris Brown',
+    music : 'audio/TB/Pitbull/International Love.mp3'
+  },
+  {
+    img : 'images/TB/Pitbull/Rain-Over-Me.jpg',
+    name : 'Rain Over Me',
+    artist : 'Pitbull ft. Marc Anthony',
+    music : 'audio/TB/Pitbull/Rain Over Me.mp3'
+  },
+  {
+    img : 'images/TB/Danza-Kuduro.jpg',
+    name : 'Danza Kuduro',
+    artist : 'Don Omar ft. Lucenzo',
+    music : 'audio/TB/Danza Kuduro.mp3'
+  },
+  {
     img : 'images/TB/Party-Animal.jpg',
     name : 'Gyal You A Party Animal',
     artist : 'Charly Black',
@@ -2068,6 +2182,12 @@ const playlist = [
     name : 'Hall Of Fame',
     artist : 'The Script ft. will.i.am',
     music : 'audio/TB/Hall of Fame.mp3'
+  },
+  {
+    img : 'images/TB/See-You-Again.jpg',
+    name : 'See You Again',
+    artist : 'Wiz Khalifa ft. Charlie Puth',
+    music : 'audio/TB/See You Again.mp3'
   },
   {
     img : 'images/WM-27-OST.jpg',
