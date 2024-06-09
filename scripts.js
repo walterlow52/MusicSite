@@ -1800,6 +1800,24 @@ const playlist = [
     music : 'audio/HXH/Departure.mp3'
   },
   {
+    img : 'images/anime/HXH/HXH-OP.jpg',
+    name : 'Departure (Hunter x Hunter OP)',
+    artist : 'Masatoshi Ono',
+    music : 'audio/HXH/Departure.mp3'
+  },
+  {
+    img : 'images/anime/HXH/HXH-ED2.webp',
+    name : 'Hunting For Your Dream (Hunter x Hunter ED 2)',
+    artist : 'GALNERYUS',
+    music : 'audio/HXH/ED2.mp3'
+  },
+  {
+    img : 'images/anime/Seven-Deadly-Sins/SDS.jpg',
+    name : 'Netsujou no Spectrum (The Seven Deadly Sins Season 1 OP 1)',
+    artist : 'Ikimonogakari',
+    music : 'audio/SDS/Spectrum.mp3'
+  },
+  {
     img : 'images/anime/Seven-Deadly-Sins/Seven-Deadly-Sins-2.webp',
     name : 'Seven Deadly Sins (The Seven Deadly Sins Season 1 OP 2)',
     artist : 'Man With A Mission',
