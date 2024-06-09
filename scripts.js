@@ -2058,6 +2058,36 @@ const playlist = [
     music : 'audio/TB/Stressed Out.mp3'
   },
   {
+    img : 'images/TB/M5/Animals.jpg',
+    name : 'Animals',
+    artist : 'Maroon 5',
+    music : 'audio/TB/M5/Animals.mp3'
+  },
+  {
+    img : 'images/TB/M5/Daylight.png',
+    name : 'Daylight',
+    artist : 'Maroon 5',
+    music : 'audio/TB/M5/Daylight.mp3'
+  },
+  {
+    img : 'images/TB/M5/Love-Somebody.jpg',
+    name : 'Love Somebody',
+    artist : 'Maroon 5',
+    music : 'audio/TB/M5/Love Somebody.mp3'
+  },
+  {
+    img : 'images/TB/M5/Maps.png',
+    name : 'Maps',
+    artist : 'Maroon 5',
+    music : 'audio/TB/M5/Maps.mp3'
+  },
+  {
+    img : 'images/TB/M5/Misery.jpg',
+    name : 'Misery',
+    artist : 'Maroon 5',
+    music : 'audio/TB/M5/Misery.mp3'
+  },
+  {
     img : 'images/TB/Pitbull/International-Love.jpg',
     name : 'International Love',
     artist : 'Pitbull ft. Chris Brown',
