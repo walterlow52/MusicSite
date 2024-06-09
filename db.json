@@ -2053,6 +2053,30 @@
     "music" : "audio/TB/Stressed Out.mp3"
   },
   {
+    "img" : "images/TB/FOB/Centuries.png",
+    "name" : "Centuries",
+    "artist" : "Fall Out Boys",
+    "music" : "audio/TB/FOB/Centuries.mp3"
+  },
+  {
+    "img" : "images/TB/FOB/Immortals.png",
+    "name" : "Immortals",
+    "artist" : "Fall Out Boys",
+    "music" : "audio/TB/FOB/Immortals.mp3"
+  },
+  {
+    "img" : "images/TB/FOB/Light.jpg",
+    "name" : "Light em Up",
+    "artist" : "Fall Out Boys",
+    "music" : "audio/TB/FOB/Light.mp3"
+  },
+  {
+    "img" : "images/TB/FOB/Uma.jpg",
+    "name" : "Uma Therman",
+    "artist" : "Fall Out Boys",
+    "music" : "audio/TB/FOB/Uma.mp3"
+  },
+  {
     "img" : "images/TB/M5/Animals.jpg",
     "name" : "Animals",
     "artist" : "Maroon 5",
