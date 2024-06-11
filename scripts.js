@@ -1797,12 +1797,6 @@ const playlist = [
     img : 'images/anime/HXH/HXH-OP.jpg',
     name : 'Departure (Hunter x Hunter OP)',
     artist : 'Masatoshi Ono',
-    music : 'audio/HXH/Departure.mp3'
-  },
-  {
-    img : 'images/anime/HXH/HXH-OP.jpg',
-    name : 'Departure (Hunter x Hunter OP)',
-    artist : 'Masatoshi Ono',
     music : 'audio/HXH/departure.mp3'
   },
   {
