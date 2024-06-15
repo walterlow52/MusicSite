@@ -2340,6 +2340,36 @@ const playlist = [
     music : 'audio/TB/Ebiza.mp3'
   },
   {
+    img : 'images/TB/High-Hopes.jpg',
+    name : 'High Hopes',
+    artist : 'Panic! At The Disco',
+    music : 'audio/TB/High Hopes.mp3'
+  },
+  {
+    img : 'images/TB/Blurred-Lines.png',
+    name : 'Blurred Lines',
+    artist : 'Robin Thicke ft. T.I. & Pharrell',
+    music : 'audio/TB/Blurred Lines.mp3'
+  },
+  {
+    img : 'images/TB/GYC.jpg',
+    name : 'Glad You Came',
+    artist : 'The Wanted',
+    music : 'audio/TB/GYC.mp3'
+  },
+  {
+    img : 'images/TB/Fire-Burning.jpg',
+    name : 'Fire Burning',
+    artist : 'Sean Kingston',
+    music : 'audio/TB/Fire Burning.mp3'
+  },
+  {
+    img : 'images/TB/Renegades.jpg',
+    name : 'Renegades',
+    artist : 'X Ambassadors',
+    music : 'audio/TB/Renegades.mp3'
+  },
+  {
     img : 'images/TB/M83.jpeg',
     name : 'Midnight City',
     artist : 'M83',
