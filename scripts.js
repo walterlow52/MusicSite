@@ -2304,6 +2304,12 @@ const playlist = [
     music : 'audio/TB/Locked Away.mp3'
   },
   {
+    img : 'images/TB/SBP.png',
+    name : 'Sweet but Psycho',
+    artist : 'Ava Max',
+    music : 'audio/TB/SBP.mp3'
+  },
+  {
     img : 'images/TB/Hall-Of-Fame.jpg',
     name : 'Hall Of Fame',
     artist : 'The Script ft. will.i.am',
