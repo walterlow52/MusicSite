@@ -2304,10 +2304,64 @@ const playlist = [
     music : 'audio/TB/Locked Away.mp3'
   },
   {
+    img : 'images/TB/Beautiful.jpg',
+    name : 'Beautiful',
+    artist : 'Akon ft. Colby O\'Donis & Kardinal Offishall',
+    music : 'audio/TB/Beautiful.mp3'
+  },
+  {
+    img : 'images/TB/Right-Now.jpg',
+    name : 'Right Now (Na Na Na)',
+    artist : 'Akon',
+    music : 'audio/TB/Right Now.mp3'
+  },
+  {
+    img : 'images/TB/Airplanes.jpg',
+    name : 'Airplanes',
+    artist : 'B.o.B ft. Hayley Williams of Paramore',
+    music : 'audio/TB/Airplanes.mp3'
+  },
+  {
+    img : 'images/TB/Nothing.jpg',
+    name : 'Nothin\' On You',
+    artist : 'B.o.B ft. Bruno Mars',
+    music : 'audio/TB/Nothing.mp3'
+  },
+  {
     img : 'images/TB/SBP.png',
     name : 'Sweet but Psycho',
     artist : 'Ava Max',
     music : 'audio/TB/SBP.mp3'
+  },
+  {
+    img : 'images/TB/Fight-Song.jpg',
+    name : 'Fight Song',
+    artist : 'Rachel Platten',
+    music : 'audio/TB/Fight Song.mp3'
+  },
+  {
+    img : 'images/TB/Battlefield.jpg',
+    name : 'Battlefield',
+    artist : 'Jordin Sparks',
+    music : 'audio/TB/Battlefield.mp3'
+  },
+  {
+    img : 'images/TB/Scars.jpg',
+    name : 'Scars To Your Beautiful',
+    artist : 'Alessia Cara',
+    music : 'audio/TB/Scars.mp3'
+  },
+  {
+    img : 'images/TB/Rockabye.png',
+    name : 'Rockabye',
+    artist : 'Clean Bandit ft. Sean Paul & Anne-Marie',
+    music : 'audio/TB/Rockabye.mp3'
+  },
+  {
+    img : 'images/TB/CS.jpg',
+    name : 'You Make Me Feel...',
+    artist : 'Cobra Starship ft. Sabi',
+    music : 'audio/TB/CS.mp3'
   },
   {
     img : 'images/TB/Hall-Of-Fame.jpg',
