@@ -2118,6 +2118,18 @@ const playlist = [
     music : 'audio/TB/Stressed Out.mp3'
   },
   {
+    img : 'images/TB/Cheerleader.jpg',
+    name : 'Cheerleader',
+    artist : 'Omi',
+    music : 'audio/TB/Cheerleader.mp3'
+  },
+  {
+    img : 'images/TB/Hula-Hoop.jpg',
+    name : 'Hula Hoop',
+    artist : 'Omi',
+    music : 'audio/TB/Hula Hoop.mp3'
+  },
+  {
     img : 'images/TB/FOB/Centuries.png',
     name : 'Centuries',
     artist : 'Fall Out Boys',
