@@ -973,6 +973,48 @@
     "music" : "audio/Nayeon/Nayeon-Sunset.mp3"
   },
   {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "ABCD",
+    "artist" : "Nayeon",
+    "music" : "audio/Nayeon/Nayeon-ABCD.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "Butterflies",
+    "artist" : "Nayeon",
+    "music" : "audio/Nayeon/Nayeon-Butterflies.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "Heaven",
+    "artist" : "Nayeon ft. Sam Kim",
+    "music" : "audio/Nayeon/Nayeon-Heaven.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "Magic",
+    "artist" : "Nayeon ft. KISS OF LIFE Julie",
+    "music" : "audio/Nayeon/Nayeon-Magic.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "HalliGalli",
+    "artist" : "Nayeon ft. AKMU Lee Chunhyuk",
+    "music" : "audio/Nayeon/Nayeon-HalliGalli.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "Something",
+    "artist" : "Nayeon",
+    "music" : "audio/Nayeon/Nayeon-Something.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/NA.webp",
+    "name" : "Count It",
+    "artist" : "Nayeon",
+    "music" : "audio/Nayeon/Nayeon-Count It.mp3"
+  },
+  {
     "img" : "images/kpop/Twice/Zone.jpeg",
     "name" : "Killin' Me Good",
     "artist" : "Jihyo",
