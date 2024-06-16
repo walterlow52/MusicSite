@@ -2335,6 +2335,66 @@
     "music" : "audio/TB/Ebiza.mp3"
   },
   {
+    "img" : "images/TB/AA.jpg",
+    "name" : "Best Day Of My Life",
+    "artist" : "American Authors",
+    "music" : "audio/TB/AA.mp3"
+  },
+  {
+    "img" : "images/TB/Your-Number.jpg",
+    "name" : "Your Number",
+    "artist" : "Ayo Jay",
+    "music" : "audio/TB/Your Number.mp3"
+  },
+  {
+    "img" : "images/TB/24k.png",
+    "name" : "24K Magic",
+    "artist" : "Bruno Mars",
+    "music" : "audio/TB/24K Magic.mp3"
+  },
+  {
+    "img" : "images/TB/Feels.png",
+    "name" : "Feels",
+    "artist" : "Calvin Harris ft. Pharrell Williams, Katy Perry, & Big Sean",
+    "music" : "audio/TB/Feels.mp3"
+  },
+  {
+    "img" : "images/TB/Get-Lucky.jpg",
+    "name" : "Get Lucky",
+    "artist" : "Daft Punk ft. Pharrell Williams & Nile Rodgers",
+    "music" : "audio/TB/Get Lucky.mp3"
+  },
+  {
+    "img" : "images/TB/Church.jpg",
+    "name" : "Take Me To Church",
+    "artist" : "Hozier",
+    "music" : "audio/TB/Church.mp3"
+  },
+  {
+    "img" : "images/TB/DTE.jpg",
+    "name" : "Don't Tell 'Em",
+    "artist" : "Jeremiah ft. YG",
+    "music" : "audio/TB/DTE.mp3"
+  },
+  {
+    "img" : "images/TB/DNN.jpg",
+    "name" : "Day 'N' Nite",
+    "artist" : "Kid Cudi",
+    "music" : "audio/TB/DNN.mp3"
+  },
+  {
+    "img" : "images/TB/The-Show.jpg",
+    "name" : "The Show Goes On",
+    "artist" : "Lupe Fiasco",
+    "music" : "audio/TB/The Show.mp3"
+  },
+  {
+    "img" : "images/TB/Rixton.jpg",
+    "name" : "Me And My Broken Heart",
+    "artist" : "Rixton",
+    "music" : "audio/TB/Rixton.mp3"
+  },
+  {
     "img" : "images/TB/High-Hopes.jpg",
     "name" : "High Hopes",
     "artist" : "Panic! At The Disco",
