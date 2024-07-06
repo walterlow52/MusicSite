@@ -1386,6 +1386,18 @@ const playlist = [
     music : 'audio/Aespa/Aespa-Melody.mp3'
   },
   {
+    img : 'images/kpop/Aespa/Hot-Mess.jpg',
+    name : 'Hot Mess',
+    artist : 'Aespa',
+    music : 'audio/Aespa/Aespa-Hot Mess.mp3'
+  },
+  {
+    img : 'images/kpop/Aespa/Hot-Mess.jpg',
+    name : 'Sun and Moon',
+    artist : 'Aespa',
+    music : 'audio/Aespa/Aespa-Sun and Moon.mp3'
+  },
+  {
     img : 'images/kpop/Aespa/Die-Trying.jpg',
     name : 'Die Trying',
     artist : 'Aespa',
@@ -1444,6 +1456,18 @@ const playlist = [
     name : 'Blizzard (English Version) (Dragon Ball Super: Broly OST)',
     artist : 'Daichi Miura',
     music : 'audio/Blizzard.mp3'
+  },
+  {
+    img : 'images/anime/Broly-OST.gif',
+    name : 'Gogeta vs. Broly (Dragon Ball Super: Broly OST)',
+    artist : '',
+    music : 'audio/Broly OST.mp3'
+  },
+  {
+    img : 'images/anime/OPM-OST.jpg',
+    name : 'Seigi Shikkou (One Punch Man OST)',
+    artist : 'Makoto Miyazaki',
+    music : 'audio/OPM OST.mp3'
   },
   {
     img : 'images/anime/Blue-Lock/Blue-Lock-1.webp',
