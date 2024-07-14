@@ -1212,6 +1212,12 @@ const playlist = [
     music : 'audio/MISAMO/Misamo-Bouquet.mp3'
   },
   {
+    img : 'images/kpop/GIDLE/Tomboy.jpg',
+    name : 'Tomboy',
+    artist : '(G)I-DLE',
+    music : 'audio/GIDLE/GIDLE-Tomboy.mp3'
+  },
+  {
     img : 'images/kpop/GIDLE/I-Feel.jpg',
     name : 'Queencard',
     artist : '(G)I-DLE',
@@ -1734,6 +1740,12 @@ const playlist = [
     music : 'audio/AOT/Red Swan.mp3'
   },
   {
+    img : 'images/anime/Attack-On-Titan/AOT-FS.webp',
+    name : 'My War (Attack on Titan Final Season OP 1)',
+    artist : 'Shinsei Kamattechan',
+    music : 'audio/AOT/My War.mp3'
+  },
+  {
     img : 'images/anime/Attack-On-Titan/Attack-On-Titan-Final-Season-2.avif',
     name : 'The Rumbling (Attack on Titan Final Season OP 2)',
     artist : 'SiM',
@@ -1878,6 +1890,12 @@ const playlist = [
     music : 'audio/Necromancy.mp3'
   },
   {
+    img : 'images/anime/Re-Zero-S2.jpg',
+    name : 'Realize (Re:Zero Season 2 OP 1)',
+    artist : 'Konomi Suzuki',
+    music : 'audio/ReZero/Realize.mp3'
+  },
+  {
     img : 'images/anime/Re-Zero-S2-2.jpg',
     name : 'Long Shot (Re:Zero Season 2 OP 2)',
     artist : 'Mayu Maeshima',
@@ -1906,6 +1924,12 @@ const playlist = [
     name : 'the WORLD (Death Note OP 1)',
     artist : 'Nightmare',
     music : 'audio/World.mp3'
+  },
+  {
+    img : 'images/anime/Tokyo-Ghoul.jpg',
+    name : 'unravel (Tokyo Ghoul OP)',
+    artist : 'TK from Ling tosite sigure',
+    music : 'audio/unravel.mp3'
   },
   {
     img : 'images/anime/Fire-Force/Fire-Force.jpg',
@@ -2008,6 +2032,12 @@ const playlist = [
     name : 'Time Left (Chainsaw Man ED 2)',
     artist : 'Zutomayo',
     music : 'audio/Chainsaw Man/Time Left.mp3'
+  },
+  {
+    img : 'images/anime/Chainsaw-Man/Chainsaw-Man-ED12.jpg',
+    name : 'Fight Song (Chainsaw Man ED 12)',
+    artist : 'Eve',
+    music : 'audio/Chainsaw Man/Fight Song (Eve).mp3'
   },
   {
     img : 'images/anime/HXH/HXH-OP.jpg',
@@ -2638,6 +2668,18 @@ const playlist = [
     name : 'See You Again',
     artist : 'Wiz Khalifa ft. Charlie Puth',
     music : 'audio/TB/See You Again.mp3'
+  },
+  {
+    img : 'images/TB/We-Own-It.jpg',
+    name : 'We Own It',
+    artist : '2 Chainz ft. Wiz Khalifa',
+    music : 'audio/TB/We Own It.mp3'
+  },
+  {
+    img : 'images/TB/Fort-Minor.jpg',
+    name : 'Remember The Name',
+    artist : 'Fort Minor ft. Styles of Beyond',
+    music : 'audio/TB/Remember the Name.mp3'
   },
   {
     img : 'images/WM-27-OST.jpg',
