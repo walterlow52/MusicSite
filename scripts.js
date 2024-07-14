@@ -163,6 +163,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/TT.jpg',
+    name : 'TT',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-TT.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/TT.jpg',
     name : 'One In A Million',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-One in a Million.mp3'
@@ -190,6 +196,12 @@ const playlist = [
     name : 'Pit-A-Pat',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Pit-a-Pat.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/TT.jpg',
+    name : 'Next Page',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Next Page.mp3'
   },
   {
     img : 'images/kpop/Twice/Perfect-World.jpg',
@@ -226,6 +238,12 @@ const playlist = [
     name : 'Thank you, Family',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-TY Family.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Perfect-World.jpg',
+    name : 'Good at Love',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Good at Love.mp3'
   },
   {
     img : 'images/kpop/Twice/Kura-Kura.png',
@@ -274,6 +292,18 @@ const playlist = [
     name : 'Sweet Summer Day',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Sweet Summer Day.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/More-&-More.jpeg',
+    name : 'Oxygen',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Oxygen.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/More-&-More.jpeg',
+    name : 'Make Me Go',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Make Me Go.mp3'
   },
   {
     img : 'images/kpop/Twice/Fanfare.png',
@@ -391,6 +421,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Yes-Or-Yes.png',
+    name : 'Lalala',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Lalala.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Yes-Or-Yes.png',
     name : 'Say You Love Me',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Say You Love Me.mp3'
@@ -451,6 +487,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Cheer-Up.jpg',
+    name : 'Cheer Up',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Cheer Up.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Cheer-Up.jpg',
     name : 'Touchdown',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Touchdown.mp3'
@@ -466,6 +508,12 @@ const playlist = [
     name : 'My Headphones On',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Headphones.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Cheer-Up.jpg',
+    name : 'Tuk Tok',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Tuk Tok.mp3'
   },
   {
     img : 'images/kpop/Twice/Cheer-Up.jpg',
@@ -541,6 +589,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Formula-Of-Love.jpg',
+    name : 'Scientist',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Scientist.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Push and Pull',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Push and Pull.mp3'
@@ -607,6 +661,12 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Formula-Of-Love.jpg',
+    name : 'Cruel',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Cruel.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Formula-Of-Love.jpg',
     name : 'Rewind',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Rewind.mp3'
@@ -637,9 +697,45 @@ const playlist = [
   },
   {
     img : 'images/kpop/Twice/Taste-Of-Love.webp',
+    name : 'Alcohol-Free',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Alcohol-Free.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Taste-Of-Love.webp',
     name : 'Baby Blue Love',
     artist : 'TWICE',
     music : 'audio/Twice/Twice-Baby Blue Love.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Taste-Of-Love.webp',
+    name : 'SOS',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-SOS.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Taste-Of-Love.webp',
+    name : 'First Time',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-First Time.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Taste-Of-Love.webp',
+    name : 'Scandal',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Scandal.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/Taste-Of-Love.webp',
+    name : 'Conversation',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-Conversation.mp3'
+  },
+  {
+    img : 'images/kpop/Twice/What-Is-Love.webp',
+    name : 'What Is Love?',
+    artist : 'TWICE',
+    music : 'audio/Twice/Twice-What is Love.mp3'
   },
   {
     img : 'images/kpop/Twice/What-Is-Love.webp',
