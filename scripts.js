@@ -1290,6 +1290,12 @@ const playlist = [
     music : 'audio/GIDLE/GIDLE-I Want That.mp3'
   },
   {
+    img : 'images/kpop/Forever.jpg',
+    name : 'Forever',
+    artist : 'BABYMONSTER',
+    music : 'audio/BABYMONSTER-Forever.mp3'
+  },
+  {
     img : 'images/KDA/KDA.jpg',
     name : 'I\'ll Show You',
     artist : 'KDA ft. TWICE, Bekuh Boom, & Annika Wells',
