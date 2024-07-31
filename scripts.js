@@ -2743,13 +2743,6 @@ const playlist = [
   }
   ];
 
-/*async function playlist_data() {
-  let network = 'https://walterlow52.github.io/MusicSite/db.json';
-  let network_data = `${network}`;
-  const retrieve = await fetch(network_data);
-  const data = await retrieve.json();
-}*/
-
 let now_playing = document.querySelector('.now-playing');
 let track_art = document.querySelector('.track-art');
 let track_name = document.querySelector('.track-name');
@@ -2775,13 +2768,13 @@ function loadTrack(index) {
   clearInterval(updateTime);
   reset();
   
-  current_track.src = data[index].music;
+  current_track.src = playlist[index].music;
   current_track.load();
   
-  track_art.style.backgroundImage = "url(" + data[index].img + ")";
-  track_name.textContent = data[index].name;
-  track_artist.textContent = data[index].artist;    
-  now_playing.textContent = "Bronco's Ultimate Playlist " + (index + 1) + " / " + data.length; 
+  track_art.style.backgroundImage = "url(" + playlist[index].img + ")";
+  track_name.textContent = playlist[index].name;
+  track_artist.textContent = playlist[index].artist;    
+  now_playing.textContent = "Bronco's Ultimate Playlist " + (index + 1) + " / " + playlist.length; 
   
   updateTime = setInterval(setUpdate, 1000);
   current_track.addEventListener('ended', nextTrack);
