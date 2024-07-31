@@ -1,5 +1,4 @@
-{
-    "playlist": [ 
+[
   {
     "img" : "images/SpiderMan/Spider-Man-Into-The-Spiderverse.jpg",
     "name" : "Sunflower",
@@ -2742,5 +2741,4 @@
     "artist" : "Clement Marfo ft. The Frontline",
     "music" : "audio/RR13.mp3"
   }
-  ]
-}
+]
