@@ -1,10 +1,8 @@
 const list = document.querySelector("#Playlist");
-let data;
 
   fetch('./db.json')
     .then(res => res.json())
-    .then(fetchedData => {
-      data = fetchedData;
+    .then(data => {
       console.log(data);
       data.forEach(i => {
         const item = document.createElement('li');
@@ -14,9 +12,6 @@ let data;
 
         song.src = i.music;
         song.controls = true;
-        item.onclick = () => {
-          song.play();
-        }
 
         item.appendChild(song);
         list.appendChild(item);
