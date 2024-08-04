@@ -2448,6 +2448,24 @@
     "music" : "audio/TB/Pitbull/Rain Over Me.mp3"
   },
   {
+    "img" : "images/TB/DJ.jpg",
+    "name" : "DJ Got Us Fallin' In Love",
+    "artist" : "Usher ft. Pitbull",
+    "music" : "audio/TB/Usher/DJ.mp3"
+  },
+  {
+    "img" : "images/TB/OMG.jpg",
+    "name" : "OMG",
+    "artist" : "Usher ft. Will.I.Am",
+    "music" : "audio/TB/Usher/OMG.mp3"
+  },
+  {
+    "img" : "images/TB/Scream.png",
+    "name" : "Scream",
+    "artist" : "Usher",
+    "music" : "audio/TB/Usher/Scream.mp3"
+  },
+  {
     "img" : "images/TB/Danza-Kuduro.jpg",
     "name" : "Danza Kuduro",
     "artist" : "Don Omar ft. Lucenzo",
@@ -2482,6 +2500,12 @@
     "name" : "The Man",
     "artist" : "Aloe Blacc",
     "music" : "audio/TB/The Man.mp3"
+  },
+  {
+    "img" : "images/TB/Happy.jpg",
+    "name" : "Happy",
+    "artist" : "Pharrell Williams",
+    "music" : "audio/TB/Happy.mp3"
   },
   {
     "img" : "images/TB/Pompeii.jpg",
@@ -2530,6 +2554,12 @@
     "name" : "Lean On",
     "artist" : "Major Lazer ft. DJ Snake & MO",
     "music" : "audio/TB/Lean On.mp3"
+  },
+  {
+    "img" : "images/TB/Turn Down For What.jpg",
+    "name" : "Turn Down For What",
+    "artist" : "DJ Snake ft. Lil Jon",
+    "music" : "audio/TB/Turn Down For What.mp3"
   },
   {
     "img" : "images/TB/Ebiza.jpg",
@@ -2646,6 +2676,18 @@
     "music" : "audio/TB/Locked Away.mp3"
   },
   {
+    "img" : "images/TB/Wake Me Up.jpg",
+    "name" : "Wake Me Up",
+    "artist" : "Avicii",
+    "music" : "audio/TB/Wake Me Up.mp3"
+  },
+  {
+    "img" : "images/TB/The Nights.jpg",
+    "name" : "The Nights",
+    "artist" : "Avicii",
+    "music" : "audio/TB/The Nights.mp3"
+  },
+  {
     "img" : "images/TB/Beautiful.jpg",
     "name" : "Beautiful",
     "artist" : "Akon ft. Colby O'Donis & Kardinal Offishall",
@@ -2658,6 +2700,102 @@
     "music" : "audio/TB/Right Now.mp3"
   },
   {
+    "img" : "images/TB/Controlla.jpg",
+    "name" : "Controlla",
+    "artist" : "Tory Lanez",
+    "music" : "audio/TB/Controlla.mp3"
+  },
+  {
+    "img" : "images/TB/LUV.jpg",
+    "name" : "LUV Remix",
+    "artist" : "Tory Lanez ft. Sean Paul",
+    "music" : "audio/TB/LUV.mp3"
+  },
+  {
+    "img" : "images/TB/Jealous.png",
+    "name" : "Jealous",
+    "artist" : "Nick Jonas",
+    "music" : "audio/TB/Jealous.mp3"
+  },
+  {
+    "img" : "images/TB/Chains.png",
+    "name" : "Chains",
+    "artist" : "Nick Jonas",
+    "music" : "audio/TB/Chains.mp3"
+  },
+  {
+    "img" : "images/TB/JT/Feeling.png",
+    "name" : "Can't Stop The Feeling",
+    "artist" : "Justin Timberlake",
+    "music" : "audio/TB/JT/Feeling.mp3"
+  },
+  {
+    "img" : "images/TB/JT/Sexy Back.jpg",
+    "name" : "Sexy Back",
+    "artist" : "Justin Timberlake",
+    "music" : "audio/TB/JT/Sexy Back.mp3"
+  },
+  {
+    "img" : "images/TB/JT/Mirrors.jpg",
+    "name" : "Mirrors",
+    "artist" : "Justin Timberlake",
+    "music" : "audio/TB/JT/Mirrors.mp3"
+  },
+  {
+    "img" : "images/TB/TI.jpg",
+    "name" : "Dead And Gone",
+    "artist" : "T.I. ft. Justin Timberlake",
+    "music" : "audio/TB/Dead And Gone.mp3"
+  },
+  {
+    "img" : "images/TB/TI.jpg",
+    "name" : "Whatever You Like",
+    "artist" : "T.I.",
+    "music" : "audio/TB/Whatever You Like.mp3"
+  },
+  {
+    "img" : "images/TB/Neyo/Miss Independent.png",
+    "name" : "Miss Independent",
+    "artist" : "Ne-Yo",
+    "music" : "audio/TB/Neyo/Miss Independent.mp3"
+  },
+  {
+    "img" : "images/TB/Neyo/So Sick.jpg",
+    "name" : "So Sick",
+    "artist" : "Ne-Yo",
+    "music" : "audio/TB/Neyo/So Sick.mp3"
+  },
+  {
+    "img" : "images/TB/Neyo/Closer.jpg",
+    "name" : "Closer",
+    "artist" : "Ne-Yo",
+    "music" : "audio/TB/Neyo/Closer.mp3"
+  },
+  {
+    "img" : "images/TB/Dynamite.jpg",
+    "name" : "Dynamite",
+    "artist" : "Taio Cruz",
+    "music" : "audio/TB/Dynamite.mp3"
+  },
+  {
+    "img" : "images/TB/Break Your Heart.jpg",
+    "name" : "Break Your Heart",
+    "artist" : "Taio Cruz ft. Ludacris",
+    "music" : "audio/TB/Break Your Heart.mp3"
+  },
+  {
+    "img" : "images/TB/Sexy Chick.jpg",
+    "name" : "Sexy Chick",
+    "artist" : "David Guetta ft. Akon",
+    "music" : "audio/TB/Sexy Chick.mp3"
+  },
+  {
+    "img" : "images/TB/Without You.jpg",
+    "name" : "Without You",
+    "artist" : "David Guetta ft. Usher",
+    "music" : "audio/TB/Without You.mp3"
+  },
+  {
     "img" : "images/TB/Airlpanes.jpg",
     "name" : "Airplanes",
     "artist" : "B.o.B ft. Hayley Williams of Paramore",
@@ -2668,6 +2806,30 @@
     "name" : "Nothin' On You",
     "artist" : "B.o.B ft. Bruno Mars",
     "music" : "audio/TB/Nothing.mp3"
+  },
+  {
+    "img" : "images/TB/Chainsmokers.png",
+    "name" : "Something Just Like This",
+    "artist" : "The Chainsmokers ft. Coldplay",
+    "music" : "audio/TB/SJLT.mp3"
+  },
+  {
+    "img" : "images/TB/Hymn for the Weekends.jpg",
+    "name" : "Hymn For The Weekends",
+    "artist" : "Coldplay",
+    "music" : "audio/TB/Coldplay-HFTW.mp3"
+  },
+  {
+    "img" : "images/TB/A Sky Full Of Stars.jpg",
+    "name" : "A Sky Full of Stars",
+    "artist" : "Coldplay",
+    "music" : "audio/TB/Coldplay-Stars.mp3"
+  },
+  {
+    "img" : "images/TB/Counting Stars.jpg",
+    "name" : "Counting Stars",
+    "artist" : "One Republic",
+    "music" : "audio/TB/Counting Stars.mp3"
   },
   {
     "img" : "images/TB/SBP.png",
@@ -2698,6 +2860,66 @@
     "name" : "Rockabye",
     "artist" : "Clean Bandit ft. Sean Paul & Anne-Marie",
     "music" : "audio/TB/Rockabye.mp3"
+  },
+  {
+    "img" : "images/TB/Despacito.jpg",
+    "name" : "Despacito",
+    "artist" : "Luis Fonsi ft. Daddy Yankee",
+    "music" : "audio/TB/Despacito.mp3"
+  },
+  {
+    "img" : "images/TB/EI/Bailando.jpg",
+    "name" : "Bailando (English Version)",
+    "artist" : "Enrique Iglesias ft. Sean Paul, Descemer Bueno & Gente De Zona",
+    "music" : "audio/TB/EI/Bailando.mp3"
+  },
+  {
+    "img" : "images/TB/EI/I Like It.jpg",
+    "name" : "I Like It",
+    "artist" : "Enrique Iglesias ft. Pitbull",
+    "music" : "audio/TB/EI/I Like It.mp3"
+  },
+  {
+    "img" : "images/TB/EI/Tonight.jpg",
+    "name" : "Tonight (I'm Loving You)",
+    "artist" : "Enrique Iglesias",
+    "music" : "audio/TB/EI/Tonight.mp3"
+  },
+  {
+    "img" : "images/TB/Sean Paul/Temperature.jpg",
+    "name" : "Temperature",
+    "artist" : "Sean Paul",
+    "music" : "audio/TB/Sean Paul/Temperature.mp3"
+  },
+  {
+    "img" : "images/TB/Sean Paul/No Lie.jpg",
+    "name" : "No Lie",
+    "artist" : "Sean Paul ft. Dua Lipa",
+    "music" : "audio/TB/Sean Paul/No Lie.mp3"
+  },
+  {
+    "img" : "images/TB/Sean Paul/Contra la pared.jpg",
+    "name" : "Contra la pared",
+    "artist" : "Sean Paul ft. J Balvin",
+    "music" : "audio/TB/Sean Paul/Contra.mp3"
+  },
+  {
+    "img" : "images/TB/I Gotta Feeling.jpg",
+    "name" : "I Gotta Feeling",
+    "artist" : "The Black Eyed Peas",
+    "music" : "audio/TB/I Gotta Feeling.mp3"
+  },
+  {
+    "img" : "images/TB/Imma Be.jpg",
+    "name" : "Imma Be",
+    "artist" : "The Black Eyed Peas",
+    "music" : "audio/TB/Imma Be.mp3"
+  },
+  {
+    "img" : "images/TB/The Time.jpg",
+    "name" : "The Time",
+    "artist" : "The Black Eyed Peas",
+    "music" : "audio/TB/The Time.mp3"
   },
   {
     "img" : "images/TB/CS.jpg",
