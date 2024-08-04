@@ -53,20 +53,25 @@
 <h1> WIP </h1>
 <ul> <i>
        <li> Include feature that contains a link for each song to transfer to the MusicSite project with the corresponding track as the present song on the playlist using the HTML link bookmark (possibly have to wait for api routes to be implemented before proposed feature can be in use) </li>
+
        <li> Include database features to table in <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> </li>
        <li> Add distinguishing colorset for specific artists in table rows for <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> using <b> React Components </b> </li>
        <li> Improve CSS styling for Heading (h1) in <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> by including separate React objects designed specifically for headings & table </li>
        <li> Fix <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> hover issue </li>
-       <li> Include descriptive summarys for each artist in /audio folder </li>
-       <li> Create song request form (React) while using HTML layout elements in project and CSS border-box & media queries </li>
        <li> Finish onclick event function for <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> to play MP3 file </li>
+       <li> Convert playlist_table.html to playlist_table.js by changing it from HTML to ReactJS </li>
+
+
+       <li> Create song request form (React) while using HTML layout elements in project and CSS border-box & media queries </li>
+       <li> Include descriptive summarys for each artist in /audio folder </li>
+
        <li> Implement React components </li>
        <li> Implement Django </li>
+
        <li> <b> RWD (including fix on track background on mobile) </b> </li>
-       <li> Transfer playlist JSON object from scripts.js into JSON server or separate JS file </li>
-       <li> Convert playlist_table.html to playlist_table.js by changing it from HTML to ReactJS </li>
        <li> Update images & audio files </li>
-       <li> Update designing for index.html </li>
+       <li> Update designing for index.html (include legacy colors) </li>
+       <li> Fix mobile playlist err </li>
 </i> </ul>
 
 <hr>
