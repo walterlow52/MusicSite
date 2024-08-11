@@ -1,4 +1,5 @@
 const list = document.querySelector("#Playlist");
+let i;
 
   fetch('./db.json')
     .then(res => res.json())
@@ -9,7 +10,7 @@ const list = document.querySelector("#Playlist");
         const song = document.createElement('audio');
 
         item.textContent = i.artist + " - " + i.name;
-
+        
         song.src = i.music;
         song.controls = true;
 
