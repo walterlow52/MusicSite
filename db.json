@@ -1,5 +1,17 @@
 [
   {
+    "img" : "images/TITAN.jpg",
+    "name" : "T1TAN",
+    "artist" : "Cash!*",
+    "music" : "audio/TITAN.mp3"
+  },
+  {
+    "img" : "images/deadpool2.jpg",
+    "name" : "Welcome To The Party",
+    "artist" : "Diplo ft. Lil Pump, Juicy J, Famous Dex, & French Montana",
+    "music" : "audio/deadpool2.mp3"
+  },
+  {
     "img" : "images/SpiderMan/Spider-Man-Into-The-Spiderverse.jpg",
     "name" : "Sunflower",
     "artist" : "Post Malone ft. Swae Lee",
@@ -2356,6 +2368,12 @@
     "name" : "Animal I Have Become",
     "artist" : "Three Days Grace",
     "music" : "audio/TDG-Animal.mp3"
+  },
+  {
+    "img" : "images/Evanescence.jpg",
+    "name" : "Bring Me To Life",
+    "artist" : "Evanescence",
+    "music" : "audio/Bring Me To Life.mp3"
   },
   {
     "img" : "images/TB/Heathens.png",
