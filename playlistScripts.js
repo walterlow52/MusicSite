@@ -9,8 +9,13 @@ let i;
         const item = document.createElement('li');
         const song = document.createElement('audio');
 
+        console.log(i);
+
         item.textContent = i.artist + " - " + i.name;
-        
+        item.onclick = () => {
+        document.body.style.backgroundImage = "url(" + i.img + ")";
+        }
+
         song.src = i.music;
         song.controls = true;
 
