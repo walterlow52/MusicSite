@@ -325,6 +325,12 @@
   },
   {
     "img" : "images/kpop/Twice/Story-Begins.jpg",
+    "name" : "Like Ooh-Ahh",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-OohAhh.mp3"
+  }, 
+  {
+    "img" : "images/kpop/Twice/Story-Begins.jpg",
     "name" : "Do It Again",
     "artist" : "TWICE",
     "music" : "audio/Twice/Twice-Do It Again.mp3"
@@ -334,7 +340,25 @@
     "name" : "Going Crazy",
     "artist" : "TWICE",
     "music" : "audio/Twice/Twice-Going Crazy.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Story-Begins.jpg",
+    "name" : "Candy Boy",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Candy Boy.mp3"
   }, 
+  {
+    "img" : "images/kpop/Twice/Story-Begins.jpg",
+    "name" : "Truth",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Truth.mp3"
+  }, 
+  {
+    "img" : "images/kpop/Twice/Story-Begins.jpg",
+    "name" : "Like A Fool",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Like A Fool.mp3"
+  },  
   {
     "img" : "images/kpop/Twice/TT.jpg",
     "name" : "TT",
@@ -498,6 +522,54 @@
     "music" : "audio/Twice/Twice-Scorpion.mp3"
   },
   {
+    "img" : "images/kpop/Twice/Better.jpg",
+    "name" : "Scorpion",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Scorpion.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Better.jpg",
+    "name" : "Scorpion",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Scorpion.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Fancy.jpg",
+    "name" : "Fancy",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Fancy.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Fancy.jpg",
+    "name" : "Stuck In My Head",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Stuck In My Head.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Fancy.jpg",
+    "name" : "Hot",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Hot.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Fancy.jpg",
+    "name" : "Turn It Up",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Turn It Up.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Fancy.jpg",
+    "name" : "Strawberry",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Strawberry.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Fancy.jpg",
+    "name" : "Girls Like Us",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Girls Like Us.mp3"
+  },
+  {
     "img" : "images/kpop/Twice/Feel-Special.png",
     "name" : "Feel Special",
     "artist" : "TWICE",
@@ -652,6 +724,36 @@
     "name" : "Shot Clock",
     "artist" : "TWICE",
     "music" : "audio/Twice/Twice-Shot Clock.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Eyes-Wide-Open.png",
+    "name" : "Depend On You",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Depend On You.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Eyes-Wide-Open.png",
+    "name" : "Bring It Back",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Bring It Back.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Eyes-Wide-Open.png",
+    "name" : "Believer",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Believer.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Eyes-Wide-Open.png",
+    "name" : "Handle It",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Handle It.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Eyes-Wide-Open.png",
+    "name" : "Say Something",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Say Something.mp3"
   },
   {
     "img" : "images/kpop/Twice/Cheer-Up.jpg",
