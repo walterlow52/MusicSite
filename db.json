@@ -3234,6 +3234,180 @@
     "music" : "audio/TB/Remember the Name.mp3"
   },
   {
+    "img" : "images/Florida/Friday.png",
+    "name" : "Friday",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Friday.mp3"
+  },
+  {
+    "img" : "images/Florida/Vacation.jpg",
+    "name" : "Good Girls On Vacation",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Good Girls On Vacation.mp3"
+  },
+  {
+    "img" : "images/Florida/Night.jpg",
+    "name" : "What A Night",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/What A Night.mp3"
+  },
+  {
+    "img" : "images/Florida/Low.jpg",
+    "name" : "Low",
+    "artist" : "Flo Rida ft. T-Pain",
+    "music" : "audio/TB/Florida/Low.mp3"
+  },
+  {
+    "img" : "images/Florida/Sweet Sensation.jpg",
+    "name" : "Sweet Sensation",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Sweet Sensation.mp3"
+  },
+  {
+    "img" : "images/Florida/Dancer.jpg",
+    "name" : "Dancer",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Dancer.mp3"
+  },
+  {
+    "img" : "images/Florida/Zillionaire.png",
+    "name" : "Zillionaire",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Zillionaire.mp3"
+  },
+  {
+    "img" : "images/Florida/Hello Friday.jpeg",
+    "name" : "Hello Friday",
+    "artist" : "Flo Rida ft. Jason Derulo",
+    "music" : "audio/TB/Florida/Hello Friday.mp3"
+  },
+  {
+    "img" : "images/Florida/My House.jpg",
+    "name" : "My House",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/My House.mp3"
+  },
+  {
+    "img" : "images/Florida/GDFR.png",
+    "name" : "GDFR",
+    "artist" : "Flo Rida ft. Sage the Gemini & Lookas",
+    "music" : "audio/TB/Florida/GDFR.mp3"
+  },
+  {
+    "img" : "images/Florida/How I Feel.jpg",
+    "name" : "How I Feel",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/How I Feel.mp3"
+  },
+  {
+    "img" : "images/Florida/Cant Believe It.jpg",
+    "name" : "Can't Believe It",
+    "artist" : "Flo Rida ft. Pitbull",
+    "music" : "audio/TB/Florida/Cant Believe It.mp3"
+  },
+  {
+    "img" : "images/Florida/Ready.jpg",
+    "name" : "Tell Me When You Ready",
+    "artist" : "Flo Rida ft. Future",
+    "music" : "audio/TB/Florida/Tell Me When You Ready.mp3"
+  },
+  {
+    "img" : "images/Florida/Whistle.jpg",
+    "name" : "Whistle",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Whistle.mp3"
+  },
+  {
+    "img" : "images/Florida/Wild Ones.jpg",
+    "name" : "Wild Ones",
+    "artist" : "Flo Rida ft. Sia",
+    "music" : "audio/TB/Florida/Wild Ones.mp3"
+  },
+  {
+    "img" : "images/Florida/Let It Roll.jpg",
+    "name" : "Let It Roll",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Let It Roll.mp3"
+  },
+  {
+    "img" : "images/Florida/Good Feeling.jpg",
+    "name" : "Good Feeling",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Good Feeling.mp3"
+  },
+  {
+    "img" : "images/Florida/Run.jpg",
+    "name" : "Run",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Run.mp3"
+  },
+  {
+    "img" : "images/Florida/I Cry.png",
+    "name" : "I Cry",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/I Cry.mp3"
+  },
+  {
+    "img" : "images/Florida/Louder.jpg",
+    "name" : "Louder",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Louder.mp3"
+  },
+  {
+    "img" : "images/Florida/Come with me.png",
+    "name" : "Come With Me",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Come with Me.mp3"
+  },
+  {
+    "img" : "images/Florida/Who dat girl.jpg",
+    "name" : "Who Dat Girl",
+    "artist" : "Flo Rida ft. Akon",
+    "music" : "audio/TB/Florida/Who dat girl.mp3"
+  },
+  {
+    "img" : "images/Florida/21.jpg",
+    "name" : "21",
+    "artist" : "Flo Rida ft. Laza Morgan",
+    "music" : "audio/TB/Florida/21.mp3"
+  },
+  {
+    "img" : "images/Florida/Club.jpg",
+    "name" : "Club Can't Handle Me",
+    "artist" : "Flo Rida ft. David Guetta",
+    "music" : "audio/TB/Florida/Club Cant Handle Me.mp3"
+  },
+  {
+    "img" : "images/Florida/Right Round.jpg",
+    "name" : "Right Round",
+    "artist" : "Flo Rida ft. Ke$ha",
+    "music" : "audio/TB/Florida/Right Round.mp3"
+  },
+  {
+    "img" : "images/Florida/Sugar.jpg",
+    "name" : "Sugar",
+    "artist" : "Flo Rida ft. Wynter",
+    "music" : "audio/TB/Florida/Sugar.mp3"
+  },
+  {
+    "img" : "images/Florida/Hangover.jpg",
+    "name" : "Ms. Hangover",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Ms. Hangover.mp3"
+  },
+  {
+    "img" : "images/Florida/Money Right.jpg",
+    "name" : "Money Right",
+    "artist" : "Flo Rida ft. Rick Ross & Brisco",
+    "music" : "audio/TB/Florida/Money Right.mp3"
+  },
+  {
+    "img" : "images/Florida/Radio.jpg",
+    "name" : "Radio",
+    "artist" : "Flo Rida",
+    "music" : "audio/TB/Florida/Radio.mp3"
+  },
+  {
     "img" : "images/WM-27-OST.jpg",
     "name" : "Written In The Stars",
     "artist" : "Tinie Tempah ft. Eric Turner",
