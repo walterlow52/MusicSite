@@ -15,6 +15,8 @@ let i;
         item.onclick = () => {
         document.body.style.backgroundImage = "url(" + i.img + ")";
         }
+        item.style.backgroundColor = i.bg;
+        item.style.color = i.txt;
 
         song.src = i.music;
         song.controls = true;
