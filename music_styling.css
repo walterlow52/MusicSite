@@ -179,7 +179,7 @@ li {
 	border: 2px double white;
 	padding: 5px;
 	background-color: black;
-	width: 300px;
+	width: 350px;
 	color: lime;
 	font-family: audiowide;
 	text-align: center;
@@ -197,7 +197,7 @@ details {
 #playlist {
 	background-color: black;
 	opacity: 0.7; 
-	width: 355px;
+	width: 400px;
 	color: lime;
 	resize: both;
 	overflow: auto;
@@ -235,10 +235,3 @@ tr:hover, th:hover, td:hover {
 	font-family: Copperplate;
   font-weight: bold;
 }
-
-	iframe {
-		border: none;
-		float: right;
-		width: 200px;
-		height: 100px;
-	}
