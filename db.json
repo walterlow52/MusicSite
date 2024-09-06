@@ -156,6 +156,72 @@
     "music" : "audio/Pop Smoke/Dior.mp3"
   },
   {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "More Time",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/More Time.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Tell The Vision",
+    "artist" : "Pop Smoke ft. Kanye West & Pusha T",
+    "music" : "audio/Pop Smoke/Tell The Vision.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "30",
+    "artist" : "Pop Smoke ft. Bizzy Banks",
+    "music" : "audio/Pop Smoke/30.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Beat The Speaker",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/Beat The Speaker.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Genius",
+    "artist" : "Pop Smoke ft. Lil Tjay & Swae Lee",
+    "music" : "audio/Pop Smoke/Genius.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Mr. Jones",
+    "artist" : "Pop Smoke ft. Future",
+    "music" : "audio/Pop Smoke/Jones.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "8-Ball",
+    "artist" : "Pop Smoke ft. Kid Cudi",
+    "music" : "audio/Pop Smoke/8Ball.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Back Door",
+    "artist" : "Pop Smoke ft. Quavo & Kodak Black",
+    "music" : "audio/Pop Smoke/Back Door.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Questions",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/Questions.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Money Man",
+    "artist" : "Pop Smoke ft. Killa",
+    "music" : "audio/Pop Smoke/Money Man.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/Faith.png",
+    "name" : "Defiant",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/Defiant.mp3"
+  },
+  {
     "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
     "name" : "For The Night",
     "artist" : "Pop Smoke ft. Lil Baby & DaBaby",
@@ -208,6 +274,48 @@
     "name" : "Hotel Lobby",
     "artist" : "Pop Smoke",
     "music" : "audio/Pop Smoke/Hotel Lobby.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "She Feelin Nice",
+    "artist" : "Pop Smoke ft. Jamie Foxx",
+    "music" : "audio/Pop Smoke/Nice.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "Tsunami",
+    "artist" : "Pop Smoke ft. Davido",
+    "music" : "audio/Pop Smoke/Tsunami.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "Gangstas",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/Gangstas.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "Make It Rain",
+    "artist" : "Pop Smoke ft. Rowdy Rebel",
+    "music" : "audio/Pop Smoke/Make It Rain.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "Tunnel Vision (Outro)",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/Tunnel Vision.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "Backseat",
+    "artist" : "Pop Smoke ft. PnB Rock",
+    "music" : "audio/Pop Smoke/Backseat.mp3"
+  },
+  {
+    "img" : "images/hiphop/Pop-Smoke/FTN.jpg",
+    "name" : "Be Clearr",
+    "artist" : "Pop Smoke",
+    "music" : "audio/Pop Smoke/Be Clearr.mp3"
   },
   {
     "img" : "images/hiphop/Pop-Smoke/Woo.webp",
@@ -852,6 +960,12 @@
     "music" : "audio/Twice/Twice-Brand New Girl.mp3"
   },
   {
+    "img" : "images/kpop/Twice/CRM.png",
+    "name" : "Cry For Me",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Cry For Me.mp3"
+  },
+  {
     "img" : "images/kpop/Twice/Formula-Of-Love.jpg",
     "name" : "The Feels",
     "artist" : "TWICE",
@@ -955,6 +1069,12 @@
   },
   {
     "img" : "images/kpop/Twice/Summer-Nights.jpg",
+    "name" : "Dance The Night Away",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-DTNA.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Summer-Nights.jpg",
     "name" : "Chillax",
     "artist" : "TWICE",
     "music" : "audio/Twice/Twice-Chillax.mp3"
@@ -1002,6 +1122,54 @@
     "music" : "audio/Twice/Twice-Conversation.mp3"
   },
   {
+    "img" : "images/kpop/Twice/Signal.jpg",
+    "name" : "Signal",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Signal.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Signal.jpg",
+    "name" : "Three Times A Day",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Three.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Signal.jpg",
+    "name" : "Only You",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Only You.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Signal.jpg",
+    "name" : "Hold Me Tight",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Hold Me Tight.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Signal.jpg",
+    "name" : "Eye Eye Eyes",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Eyes.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Signal.jpg",
+    "name" : "Someone Like Me",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Someone Like Me.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Merry.jpg",
+    "name" : "Merry and Happy",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Merry and Happy.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Merry.jpg",
+    "name" : "Heart Shaker",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Heart Shaker.mp3"
+  },
+  {
     "img" : "images/kpop/Twice/What-Is-Love.webp",
     "name" : "What Is Love?",
     "artist" : "TWICE",
@@ -1024,6 +1192,18 @@
     "name" : "Dejavu",
     "artist" : "TWICE",
     "music" : "audio/Twice/Twice-Dejavu.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/What-Is-Love.webp",
+    "name" : "Say Yes",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Say Yes.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/What-Is-Love.webp",
+    "name" : "Ho!",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Ho.mp3"
   },
   {
     "img" : "images/kpop/Twice/Wake-Me-Up.webp",
@@ -1528,6 +1708,42 @@
     "name" : "Bouquet",
     "artist" : "MISAMO",
     "music" : "audio/MISAMO/Misamo-Bouquet.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/tzu.webp",
+    "name" : "Run Away",
+    "artist" : "Tzuyu",
+    "music" : "audio/Tzuyu/Tzuyu-Run Away.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/tzu.webp",
+    "name" : "Heartbreak In Heaven",
+    "artist" : "Tzuyu ft. Peniel of BTOB",
+    "music" : "audio/Tzuyu/Tzuyu-Heaven.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/tzu.webp",
+    "name" : "Lazy Baby",
+    "artist" : "Tzuyu ft. pH-1",
+    "music" : "audio/Tzuyu/Tzuyu-Lazy Baby.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/tzu.webp",
+    "name" : "Losing Sleep",
+    "artist" : "Tzuyu",
+    "music" : "audio/Tzuyu/Tzuyu-Losing Sleep.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/tzu.webp",
+    "name" : "One Love",
+    "artist" : "Tzuyu",
+    "music" : "audio/Tzuyu/Tzuyu-One Love.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/tzu.webp",
+    "name" : "Fly",
+    "artist" : "Tzuyu",
+    "music" : "audio/Tzuyu/Tzuyu-Fly.mp3"
   },
   {
     "img" : "images/kpop/GIDLE/Tomboy.jpg",
@@ -3004,6 +3220,18 @@
     "name" : "Chains",
     "artist" : "Nick Jonas",
     "music" : "audio/TB/Chains.mp3"
+  },
+  {
+    "img" : "images/TB/DYR.jpg",
+    "name" : "Do You Remember",
+    "artist" : "Jay Sean",
+    "music" : "audio/TB/DYR.mp3"
+  },
+  {
+    "img" : "images/TB/Down.jpg",
+    "name" : "Down",
+    "artist" : "Jay Sean",
+    "music" : "audio/TB/Down.mp3"
   },
   {
     "img" : "images/TB/JT/Feeling.png",
