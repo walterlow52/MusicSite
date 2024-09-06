@@ -21,9 +21,7 @@
        <li> Implement React components </li>
        <li> Implement Django </li>
 
-       <li> <b> RWD (including fix on track background on mobile) </b> </li>
        <li> Update images & audio files </li>
-       <li> Update designing for index.html (include legacy colors) </li>
        <li> Fix mobile playlist err </li>
 </i> </ul>
 
