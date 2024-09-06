@@ -418,8 +418,8 @@
     "name" : "99 (Mob Psycho 100 OP)",
     "artist" : "Mob Choir",
     "music" : "audio/Mob Psycho 100/99.mp3",
-    "bg" : "white",
-    "txt" : "gold"
+    "bg" : "gold",
+    "txt" : "white"
   },
   {
     "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S2.jpg",
