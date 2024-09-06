@@ -420,7 +420,8 @@
     "music" : "audio/Mob Psycho 100/99.mp3",
     "bg" : "gold",
     "txt" : "white",
-    "deco" : "bold"
+    "deco" : "bold",
+    "shadow" : "2px 2px black"
   },
   {
     "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S2.jpg",

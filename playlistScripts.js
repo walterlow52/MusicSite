@@ -18,6 +18,7 @@ let i;
         item.style.backgroundColor = i.bg;
         item.style.color = i.txt;
         item.style.fontWeight = i.deco;
+        item.style.textShadow = i.shadow;
 
         song.src = i.music;
         song.controls = true;
