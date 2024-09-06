@@ -236,27 +236,9 @@ tr:hover, th:hover, td:hover {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 800px) {		/*tablets*/
-	float: none;
-	width: 100%;
-	height: auto;
-}
-
-@media only screen and (max-width: 600px) {		/*smartphones*/
-	float: none;
-	width: 100%;
-	height: auto;
-
 	iframe {
 		border: none;
 		float: right;
 		width: 200px;
 		height: 100px;
 	}
-}
-
-@media only screen and (max-width: 600px) and (orientation: landscape) {		/*smartphones*/
-	float: none;
-	width: 100%;
-	height: auto;
-}
