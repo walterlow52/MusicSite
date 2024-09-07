@@ -186,8 +186,8 @@ li {
 }
 
 li:hover {
-	background-color: cyan;
 	color: white;
+  text-decoration: underline;
 }
 
 details {
