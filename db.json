@@ -522,6 +522,12 @@
     "music" : "audio/Twice/Twice-Next Page.mp3"
   }, 
   {
+    "img" : "images/kpop/Twice/Knock-Knock.jpg",
+    "name" : "Knock Knock",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Knock Knock.mp3"
+  }, 
+  {
     "img" : "images/kpop/Twice/Perfect-World.jpg",
     "name" : "Perfect World",
     "artist" : "TWICE",
@@ -2678,6 +2684,18 @@
     "shadow" : "2px 2px black"
   },
   {
+    "img" : "images/anime/Attack-On-Titan/Attack-On-Titan-OP1.jpg",
+    "name" : "Feuerroter Pfeil und Bogen (Attack on Titan Season 1 OP 1)",
+    "artist" : "Linked Horizon",
+    "music" : "audio/AOT/AOT-OP1.mp3"
+  },
+  {
+    "img" : "images/anime/Attack-On-Titan/Attack-On-Titan-OP3.jpg",
+    "name" : "Shinzou wo Sasageyo (Attack on Titan Season 2 OP 1)",
+    "artist" : "Linked Horizon",
+    "music" : "audio/AOT/AOT-OP3.mp3"
+  },
+  {
     "img" : "images/anime/Attack-On-Titan/Attack-On-Titan-S3.jpg",
     "name" : "Red Swan (Attack on Titan Season 3 OP 1)",
     "artist" : "YOSHIKI ft. HYDE",
@@ -2698,6 +2716,12 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/anime/Attack-On-Titan/AOT-Final-Special.jpg",
+    "name" : "Under The Tree (Attack on Titan Final Special OST)",
+    "artist" : "SiM",
+    "music" : "audio/AOT/Under The Tree.mp3"
   },
   {
     "img" : "images/anime/My-Hero-Academia/My-Hero-Academia-OST.jpg",
@@ -2910,6 +2934,12 @@
     "name" : "Contradiction (The God of High School OP)",
     "artist" : "KSUKE ft. Tyler Carter",
     "music" : "audio/Contradiction.mp3"
+  },
+  {
+    "img" : "images/anime/Hell's-Paradise.jpg",
+    "name" : "Work (Hell's Paradise OP)",
+    "artist" : "Millennium",
+    "music" : "audio/WORK.mp3"
   },
   {
     "img" : "images/anime/FMAB/Fullmetal-Alchemist-Brotherhood.jpg",
@@ -3208,6 +3238,12 @@
     "name" : "Number One (Bleach OST)",
     "artist" : "Shiro Sagisu ft. Hazel Fernandes",
     "music" : "audio/Bleach/Bleach1.mp3"
+  },
+  {
+    "img" : "images/anime/Bleach/Bleach-OST.jpg",
+    "name" : "Fade To Black (Bleach Fade To Black OST)",
+    "artist" : "Shiro Sagisu",
+    "music" : "audio/Bleach/Fade To BlackB13a.mp3"
   },
   {
     "img" : "images/anime/Bleach/Bleach-1.jpg",
@@ -4216,6 +4252,12 @@
     "name" : "Metalingus",
     "artist" : "Edge",
     "music" : "audio/wwe/Edge.mp3"
+  },
+  {
+    "img" : "images/wwe/JD.jpg",
+    "name" : "The Other Side",
+    "artist" : "The Judgment Day",
+    "music" : "audio/wwe/JD.mp3"
   },
   {
     "img" : "images/wwe/HHH.webp",
