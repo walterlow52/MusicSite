@@ -12,6 +12,12 @@
     "music" : "audio/deadpool2.mp3"
   },
   {
+    "img" : "images/deadpool3.jpg",
+    "name" : "Like A Prayer",
+    "artist" : "Madonna",
+    "music" : "audio/Like A Prayer.mp3"
+  },
+  {
     "img" : "images/SpiderMan/Spider-Man-Into-The-Spiderverse.jpg",
     "name" : "Sunflower",
     "artist" : "Post Malone ft. Swae Lee",
@@ -528,6 +534,12 @@
     "music" : "audio/Twice/Twice-Knock Knock.mp3"
   }, 
   {
+    "img" : "images/kpop/Twice/Knock-Knock.jpg",
+    "name" : "Ice Cream",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Ice Cream.mp3"
+  }, 
+  {
     "img" : "images/kpop/Twice/Perfect-World.jpg",
     "name" : "Perfect World",
     "artist" : "TWICE",
@@ -764,6 +776,12 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },  
+  {
+    "img" : "images/kpop/Twice/Feel-Special.png",
+    "name" : "21:29",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-2129.mp3"
   },
   {
     "img" : "images/kpop/Twice/Likey.jpg",
@@ -814,6 +832,42 @@
     "name" : "Don't Give Up",
     "artist" : "TWICE",
     "music" : "audio/Twice/Twice-Don't Give Up.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Likey.jpg",
+    "name" : "Turtle",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Turtle.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Likey.jpg",
+    "name" : "Missing U",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Missing u.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Likey.jpg",
+    "name" : "Wow",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Wow.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Likey.jpg",
+    "name" : "24/7",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-247.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Likey.jpg",
+    "name" : "Rollin'",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Rollin.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Likey.jpg",
+    "name" : "Good Night",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Good Night.mp3"
   },
   {
     "img" : "images/kpop/Twice/Yes-Or-Yes.png",
@@ -2084,6 +2138,12 @@
     "music" : "audio/BABYMONSTER-Forever.mp3"
   },
   {
+    "img" : "images/kpop/Cupid.png",
+    "name" : "Cupid",
+    "artist" : "Fifty Fifty",
+    "music" : "audio/Cupid.mp3"
+  },
+  {
     "img" : "images/KDA/KDA.jpg",
     "name" : "I'll Show You",
     "artist" : "KDA ft. TWICE, Bekuh Boom, & Annika Wells",
@@ -2448,16 +2508,22 @@
     "shadow" : "2px 2px black"
   },
   {
-    "img" : "images/anime/DBS-Broly.jpg",
-    "name" : "Blizzard (English Version) (Dragon Ball Super: Broly OST)",
-    "artist" : "Daichi Miura",
-    "music" : "audio/Blizzard.mp3"
+    "img" : "images/anime/DBZ/Battle-Of-Gods.png",
+    "name" : "Hero -Kibou no Uta- (Dragon Ball Super: Battle Of Gods)",
+    "artist" : "Flow",
+    "music" : "audio/DBZ/Hero.mp3"
   },
   {
-    "img" : "images/anime/Broly-OST.gif",
+    "img" : "images/anime/DBZ/DBS-Broly.jpg",
+    "name" : "Blizzard (English Version) (Dragon Ball Super: Broly OST)",
+    "artist" : "Daichi Miura",
+    "music" : "audio/DBZ/Blizzard.mp3"
+  },
+  {
+    "img" : "images/anime/DBZ/Broly-OST.gif",
     "name" : "Gogeta vs. Broly (Dragon Ball Super: Broly OST)",
     "artist" : "",
-    "music" : "audio/Broly OST.mp3"
+    "music" : "audio/DBZ/Broly OST.mp3"
   },
   {
     "img" : "images/anime/OPM-OST.jpg",
@@ -2878,6 +2944,30 @@
     "shadow" : "2px 2px black"
   },
   {
+    "img" : "images/anime/R1.jpg",
+    "name" : "Colors (Code Geass: Lelouch of the Rebellion)",
+    "artist" : "Flow",
+    "music" : "audio/Colors.mp3"
+  },
+  {
+    "img" : "images/anime/R2.jpg",
+    "name" : "O2 (Code Geass: Lelouch of the Rebellion R2)",
+    "artist" : "Orange Range",
+    "music" : "audio/O2.mp3"
+  },
+  {
+    "img" : "images/anime/Noragami.jpe",
+    "name" : "Goya wa Machiawase (Noragami OP)",
+    "artist" : "Hello Sleepwalkers",
+    "music" : "audio/Noragami.mp3"
+  },
+  {
+    "img" : "images/anime/Noragami-2.jpg",
+    "name" : "Kyouran Hey Kids!!! (Noragami Arigato OP)",
+    "artist" : "The Oral Cigarettes",
+    "music" : "audio/Noragami2.mp3"
+  },
+  {
     "img" : "images/anime/Digimon.jpg",
     "name" : "Brave Heart (Digimon)",
     "artist" : "Animelmack",
@@ -2934,6 +3024,12 @@
     "name" : "Contradiction (The God of High School OP)",
     "artist" : "KSUKE ft. Tyler Carter",
     "music" : "audio/Contradiction.mp3"
+  },
+  {
+    "img" : "images/anime/WIN.jpg",
+    "name" : "WIN (The God of High School ED)",
+    "artist" : "CIX",
+    "music" : "audio/WIN.mp3"
   },
   {
     "img" : "images/anime/Hells-Paradise.jpg",
@@ -3750,6 +3846,12 @@
     "music" : "audio/TB/Midnight City.mp3"
   },
   {
+    "img" : "images/TB/Rude.jpg",
+    "name" : "Rude",
+    "artist" : "Magic!",
+    "music" : "audio/TB/Rude.mp3"
+  },
+  {
     "img" : "images/TB/Classic.jpg",
     "name" : "Classic",
     "artist" : "MKTO",
@@ -3768,10 +3870,28 @@
     "music" : "audio/TB/Wake Me Up.mp3"
   },
   {
-    "img" : "images/TB/The-Nights.png",
-    "name" : "The Nights",
+    "img" : "images/TB/Wake-Me-Up.png",
+    "name" : "Wake Me Up",
     "artist" : "Avicii",
-    "music" : "audio/TB/The Nights.mp3"
+    "music" : "audio/TB/Wake Me Up.mp3"
+  },
+  {
+    "img" : "images/TB/Marshmello/Friends.jpg",
+    "name" : "Friends",
+    "artist" : "Marshmello ft. Anne-Marie",
+    "music" : "audio/TB/Marshmello/Friends.mp3"
+  },
+  {
+    "img" : "images/TB//Marshmello/Happier.jpg",
+    "name" : "Happier",
+    "artist" : "Marshmello ft. Bastille",
+    "music" : "audio/TB/Marshmello/Happier.mp3"
+  },
+  {
+    "img" : "images/TB/Marshmello/Leave.jpg",
+    "name" : "Leave Before You Love Me",
+    "artist" : "Marshmello ft. Jonas Brothers",
+    "music" : "audio/TB/Marshmello/Leave.mp3"
   },
   {
     "img" : "images/TB/Beautiful.jpg",
