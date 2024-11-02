@@ -2206,16 +2206,16 @@
     "music" : "audio/Itzy/Itzy-Ringo.mp3"
   },
   {
-    "img" : "images/kpop/Itzy/Friend.jpg",
-    "name" : "Imaginary Friend (English Version)",
-    "artist" : "Itzy",
-    "music" : "audio/Itzy/Itzy-Imaginary Friend.mp3"
-  },
-  {
     "img" : "images/kpop/Itzy/Born-To-Be.jpeg",
     "name" : "Born To Be",
     "artist" : "Itzy",
     "music" : "audio/Itzy/Itzy-Born to Be.mp3"
+  },
+  {
+    "img" : "images/kpop/Itzy/Friend.jpeg",
+    "name" : "Imaginary Friend (English Version)",
+    "artist" : "Itzy",
+    "music" : "audio/Itzy/Itzy-Imaginary Friend.mp3"
   },
   {
     "img" : "images/kpop/Aespa/Welcome-To-My-World.png",
@@ -2486,25 +2486,25 @@
     "music" : "audio/Aespa/Aespa-We Go (Eng).mp3"
   },
   {
-    "img" : "images/kpop/Aespa/Solos.jpg",
+    "img" : "images/kpop/Aespa/Solos.jpeg",
     "name" : "UP (Karina Solo)",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-UP.mp3"
   },
   {
-    "img" : "images/kpop/Aespa/Solos.jpg",
+    "img" : "images/kpop/Aespa/Solos.jpeg",
     "name" : "Dopamine (Giselle Solo)",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-Dopamine.mp3"
   },
   {
-    "img" : "images/kpop/Aespa/Solos.jpg",
+    "img" : "images/kpop/Aespa/Solos.jpeg",
     "name" : "Spark (Winter Solo)",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-Spark.mp3"
   },
   {
-    "img" : "images/kpop/Aespa/Solos.jpg",
+    "img" : "images/kpop/Aespa/Solos.jpeg",
     "name" : "Bored! (Ningning Solo)",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-Bored.mp3"
