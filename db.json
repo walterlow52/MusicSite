@@ -2206,6 +2206,12 @@
     "music" : "audio/Itzy/Itzy-Ringo.mp3"
   },
   {
+    "img" : "images/kpop/Itzy/Friend.jpg",
+    "name" : "Imaginary Friend (English Version)",
+    "artist" : "Itzy",
+    "music" : "audio/Itzy/Itzy-Imaginary Friend.mp3"
+  },
+  {
     "img" : "images/kpop/Itzy/Born-To-Be.jpeg",
     "name" : "Born To Be",
     "artist" : "Itzy",
@@ -2432,10 +2438,76 @@
     "music" : "audio/Aespa/Aespa-Sun and Moon.mp3"
   },
   {
+    "img" : "images/kpop/Aespa/Whiplash.jpg",
+    "name" : "Whiplash",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Whiplash.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Whiplash.jpg",
+    "name" : "Kill It",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Kill It.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Whiplash.jpg",
+    "name" : "Flights, Not Feelings",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Flights, Not Feelings.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Whiplash.jpg",
+    "name" : "Pink Hoodie",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Pink Hoodie.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Whiplash.jpg",
+    "name" : "Flowers",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Flowers.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Whiplash.jpg",
+    "name" : "Just Another Girl",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Just Another Girl.mp3"
+  },
+  {
     "img" : "images/kpop/Aespa/We-Go.jpg",
     "name" : "We Go",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-We Go.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/We-Go-2.jpg",
+    "name" : "We Go (English Version)",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-We Go (Eng).mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Solos.jpg",
+    "name" : "UP (Karina Solo)",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-UP.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Solos.jpg",
+    "name" : "Dopamine (Giselle Solo)",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Dopamine.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Solos.jpg",
+    "name" : "Spark (Winter Solo)",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Spark.mp3"
+  },
+  {
+    "img" : "images/kpop/Aespa/Solos.jpg",
+    "name" : "Bored! (Ningning Solo)",
+    "artist" : "Aespa",
+    "music" : "audio/Aespa/Aespa-Bored.mp3"
   },
   {
     "img" : "images/kpop/Ring.jpg",
@@ -2862,6 +2934,12 @@
     "name" : "Tagatame (My Hero Academia Season 7 OP)",
     "artist" : "TK from Ling tosite sigure",
     "music" : "audio/My Hero Academia/Tagatame.mp3"
+  },
+  {
+    "img" : "images/anime/My-Hero-Academia/My-Hero-Academia-S7-2.jpg",
+    "name" : "Curtain Call (My Hero Academia Season 7 OP 2)",
+    "artist" : "Yuuri",
+    "music" : "audio/My Hero Academia/Curtain Call.mp3"
   },
   {
     "img" : "images/anime/Demon-Slayer/Demon-Slayer.jpg",
