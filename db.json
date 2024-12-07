@@ -1858,6 +1858,42 @@
     "music" : "audio/Twice/Twice-Echoes of heart.mp3"
   },
   {
+    "img" : "images/kpop/Twice/Strategy.jpg",
+    "name" : "Strategy",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Strategy.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Strategy.jpg",
+    "name" : "Kiss My Troubles Away",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Kiss My Troubles Away.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Strategy.jpg",
+    "name" : "Like It Like It",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Like It Like It.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Strategy.jpg",
+    "name" : "Sweetest Obsession",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Sweetest Obsession.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Strategy.jpg",
+    "name" : "Keeper",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Keeper.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Strategy.jpg",
+    "name" : "Magical",
+    "artist" : "TWICE",
+    "music" : "audio/Twice/Twice-Magical.mp3"
+  },
+  {
     "img" : "images/kpop/Twice/Monsters-Cover.jpg",
     "name" : "Monsters (Katie Sky)",
     "artist" : "Twice Cover by DAHYUN",
@@ -2202,6 +2238,12 @@
     "name" : "Cupid",
     "artist" : "Fifty Fifty",
     "music" : "audio/Cupid.mp3"
+  },
+  {
+    "img" : "images/APT.jpg",
+    "name" : "APT",
+    "artist" : "ROSE ft. Bruno Mars",
+    "music" : "audio/APT.mp3"
   },
   {
     "img" : "images/KDA/KDA.jpg",
@@ -4704,6 +4746,12 @@
     "music" : "audio/wwe/JU.mp3"
   },
   {
+    "img" : "images/wwe/LA.jpg",
+    "name" : "Welcome to LA",
+    "artist" : "LA Knight",
+    "music" : "audio/wwe/LA.mp3"
+  },
+  {
     "img" : "images/wwe/CA.jpg",
     "name" : "Reborn",
     "artist" : "Curtis Axel",
@@ -4756,5 +4804,17 @@
     "name" : "Right Here, Right Now",
     "artist" : "Tyson Kidd",
     "music" : "audio/wwe/TK.mp3"
+  },
+  {
+    "img" : "images/wwe/LM.jpg",
+    "name" : "Liv Gone Mad",
+    "artist" : "Liv Morgan",
+    "music" : "audio/wwe/LM.mp3"
+  },
+  {
+    "img" : "images/wwe/RR.jpg",
+    "name" : "Demon In Your Dreams",
+    "artist" : "Rhea Ripley",
+    "music" : "audio/wwe/RR.mp3"
   }
 ]
