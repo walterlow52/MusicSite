@@ -3798,6 +3798,144 @@
     "music" : "audio/TB/M5/Misery.mp3"
   },
   {
+    "img" : "images/TB/Pitbull/Give-Me-Everything.jpg",
+    "name" : "Give Me Everything",
+    "artist" : "Pitbull ft. Ne-Yo, Afrojack, & Nayer",
+    "music" : "audio/TB/Pitbull/Give Me Everything.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Timber.png",
+    "name" : "Timber",
+    "artist" : "Pitbull ft. Ke$ha",
+    "music" : "audio/TB/Pitbull/Timber.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Calle-Ocho.jpg",
+    "name" : "I Know You Want Me (Calle Ocho)",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Calle Ocho.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Dont-Stop-The-Party.jpg",
+    "name" : "Don't Stop The Party",
+    "artist" : "Pitbull ft. TJR",
+    "music" : "audio/TB/Pitbull/Don't Stop The Party.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Dont-Stop-The-Party.jpg",
+    "name" : "Don't Stop The Party",
+    "artist" : "Pitbull ft. TJR",
+    "music" : "audio/TB/Pitbull/Don't Stop The Party.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Hotel-Room-Service.png",
+    "name" : "Hotel Room Service",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Hotel Room Service.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Time-Of-Our-Lives.png",
+    "name" : "Time Of Our Lives",
+    "artist" : "Pitbull ft. Ne-Yo",
+    "music" : "audio/TB/Pitbull/Time of Our Lives.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Hey-Baby.jpg",
+    "name" : "Hey Baby (Drop It To The Floor)",
+    "artist" : "Pitbull ft. T-Pain",
+    "music" : "audio/TB/Pitbull/Hey Baby.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Fireball.png",
+    "name" : "Fireball",
+    "artist" : "Pitbull ft. John Ryan",
+    "music" : "audio/TB/Pitbull/Fireball.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Hey-Ma.jpg",
+    "name" : "Hey Ma",
+    "artist" : "Pitbull ft. J Balvin & Camila Cabello",
+    "music" : "audio/TB/Pitbull/Hey Ma.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Greenlight.jpg",
+    "name" : "Greenlight",
+    "artist" : "Pitbull ft. Flo Rida & Lunchmoney Lewis",
+    "music" : "audio/TB/Pitbull/Greenlight.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Freedom.jpg",
+    "name" : "Freedom",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Freedom.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Fun.jpg",
+    "name" : "Fun",
+    "artist" : "Pitbull ft. Chris Brown",
+    "music" : "audio/TB/Pitbull/Fun.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Exotic.jpg",
+    "name" : "Exotic",
+    "artist" : "Pitbull ft. Priyanka Chopra",
+    "music" : "audio/TB/Pitbull/Exotic.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Wild-Wild-Love.jpg",
+    "name" : "Wild Wild Love",
+    "artist" : "Pitbull ft. G.R.L.",
+    "music" : "audio/TB/Pitbull/Wild Wild Love.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/We-Are-One.jpg",
+    "name" : "We Are One (Ole Ola)",
+    "artist" : "Pitbull ft. Jennifer Lopez & Claudia Leitte",
+    "music" : "audio/TB/Pitbull/Wild Wild Love.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/We-Are-One.jpg",
+    "name" : "We Are One (Ole Ola)",
+    "artist" : "Pitbull ft. Jennifer Lopez & Claudia Leitte",
+    "music" : "audio/TB/Pitbull/Wild Wild Love.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/The-Anthem.jpg",
+    "name" : "The Anthem",
+    "artist" : "Pitbull ft. Lil Jon",
+    "music" : "audio/TB/Pitbull/The Anthem.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Culo.jpg",
+    "name" : "Culo",
+    "artist" : "Pitbull ft. Lil Jon",
+    "music" : "audio/TB/Pitbull/Culo.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Bon-Bon.jpg",
+    "name" : "Bon Bon",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Bon Bon.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Guantanamera.jpg",
+    "name" : "Guantanamera (She's Hot)",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Guantanamera.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Alright.jpg",
+    "name" : "Alright",
+    "artist" : "Pitbull ft. Machel Montano",
+    "music" : "audio/TB/Pitbull/Alright.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Game-On.jpg",
+    "name" : "Game On (Extended)",
+    "artist" : "Pitbull ft. TKZee & Dario G",
+    "music" : "audio/TB/Pitbull/Game On.mp3"
+  },
+  {
     "img" : "images/TB/Pitbull/International-Love.jpg",
     "name" : "International Love",
     "artist" : "Pitbull ft. Chris Brown",
@@ -3808,6 +3946,774 @@
     "name" : "Rain Over Me",
     "artist" : "Pitbull ft. Marc Anthony",
     "music" : "audio/TB/Pitbull/Rain Over Me.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Now-Or-Never.jpg",
+    "name" : "Now Or Never",
+    "artist" : "Pitbull ft. Bon Jovi",
+    "music" : "audio/TB/Pitbull/Now Or Never.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Mr-Moondial.jpg",
+    "name" : "Mr. Moondial",
+    "artist" : "Pitbull ft. Quevedo",
+    "music" : "audio/TB/Pitbull/Mr Moondial.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/BB3.jpg",
+    "name" : "Bhool Bhulaiyaa 3",
+    "artist" : "Pitbull ft. Kartik A, Diljit Dosanih, Neeraj Shridhar, Tanishk Bagchi, Pritam, & Dhrrav Yogi",
+    "music" : "audio/TB/Pitbull/BB3.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/OMG.jpg",
+    "name" : "OMG Remix",
+    "artist" : "Pitbull ft. Jose Iglesias (Candelita) & Silvestre Dangond",
+    "music" : "audio/TB/Pitbull/OMG.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Moon.jpg",
+    "name" : "2 The Moon",
+    "artist" : "Pitbull ft. Ne-Yo, Afrojack, & DJ Buddha",
+    "music" : "audio/TB/Pitbull/Moon.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Tonight.jpg",
+    "name" : "Tonight (D.I.Y.A)",
+    "artist" : "Pitbull ft. Jax Jones, Jason Derulo, & Joel Corry",
+    "music" : "audio/TB/Pitbull/Tonight.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/There-It-Is.jpg",
+    "name" : "There It Is",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/There It Is.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Good-Life.jpg",
+    "name" : "Good Life",
+    "artist" : "Pitbull ft. Nile Rodgers & Vikina",
+    "music" : "audio/TB/Pitbull/Good Life.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Tequila.jpg",
+    "name" : "Tequila",
+    "artist" : "Pitbull ft. Vikina",
+    "music" : "audio/TB/Pitbull/Tequila.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Thank-God.jpg",
+    "name" : "Thank God & Jimmy Buffet",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Thank God.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Pasame.jpg",
+    "name" : "Pasame La Botella",
+    "artist" : "Pitbull ft. IAmChino, Deorro, & Mariah Angeliq",
+    "music" : "audio/TB/Pitbull/Pasame.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Suave.jpg",
+    "name" : "Suave (Kiss Me)",
+    "artist" : "Pitbull ft. Nayer & Mohombi",
+    "music" : "audio/TB/Pitbull/Suave.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Lets-Take-A-Shot.jpg",
+    "name" : "Let's Take A Shot",
+    "artist" : "Pitbull ft. Vikina",
+    "music" : "audio/TB/Pitbull/Lets Take A Shot.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Pata.jpg",
+    "name" : "Pata Sucia",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Pata.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Cafe.jpg",
+    "name" : "Cafe con Leche",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Cafe.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/IT3.jpg",
+    "name" : "It Takes 3",
+    "artist" : "Pitbull ft. Vikina",
+    "music" : "audio/TB/Pitbull/IT3.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Bandolero.jpg",
+    "name" : "Bandolero",
+    "artist" : "Pitbull ft. Gipsy Kings",
+    "music" : "audio/TB/Pitbull/Bandolero.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/CSUN.jpg",
+    "name" : "Can't Stop Us Now",
+    "artist" : "Pitbull ft. Zac Brown",
+    "music" : "audio/TB/Pitbull/CSUN.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Right-Or-Wrong.jpg",
+    "name" : "Right Or Wrong (Hypnosis)",
+    "artist" : "Pitbull ft. AYYBO & ero808",
+    "music" : "audio/TB/Pitbull/Right Or Wrong.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Bandida.jpg",
+    "name" : "Bandida",
+    "artist" : "Pitbull ft. IAmChino & Yandel",
+    "music" : "audio/TB/Pitbull/Bandida.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Mamasota.jpg",
+    "name" : "Mamasota",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Mamasota.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Discoteca.jpg",
+    "name" : "Discoteca",
+    "artist" : "Pitbull ft. IAmChino",
+    "music" : "audio/TB/Pitbull/Discoteca.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/I-Feel-Good.jpg",
+    "name" : "I Feel Good",
+    "artist" : "Pitbull ft. Anthony Watts & DJWS",
+    "music" : "audio/TB/Pitbull/I Feel Good.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Ten-Cuidado.jpg",
+    "name" : "Ten Cuidado",
+    "artist" : "Pitbull ft. Farruko, IAmChino, El Alfa, & Omar Courtz",
+    "music" : "audio/TB/Pitbull/Ten Cuidado.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/TQB.jpg",
+    "name" : "Te Quiero Baby",
+    "artist" : "Pitbull ft. Chesca & Frankie Valli",
+    "music" : "audio/TB/Pitbull/TQB.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Win.jpg",
+    "name" : "I Believe That We Will Win (World Anthem)",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Win.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Suda.jpg",
+    "name" : "Suda",
+    "artist" : "Pitbull ft. Melanie Pfirrman & IAmChino",
+    "music" : "audio/TB/Pitbull/Suda.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Further-Up.jpg",
+    "name" : "Further Up (Na, Na, Na, Na, Na)",
+    "artist" : "Pitbull ft. Static and Ben El",
+    "music" : "audio/TB/Pitbull/Further Up.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/NLT.png",
+    "name" : "No Lo Trates",
+    "artist" : "Pitbull ft. Natti Natasha & Daddy Yankee",
+    "music" : "audio/TB/Pitbull/NLT.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/3TT.jpg",
+    "name" : "3 To Tango",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/3TT.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Moviendolo.jpg",
+    "name" : "Moviendolo",
+    "artist" : "Pitbull ft. Wisin & Yandel",
+    "music" : "audio/TB/Pitbull/Moviendolo.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HMD.jpg",
+    "name" : "Happy Mama Day",
+    "artist" : "Pitbull ft. Chacal & Sky Monroe",
+    "music" : "audio/TB/Pitbull/HMD.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/CDM.jpg",
+    "name" : "Cinco De Mayo",
+    "artist" : "Pitbull ft. Lil Jon & Chesca",
+    "music" : "audio/TB/Pitbull/CDM.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/MQC.jpg",
+    "name" : "Me Quedare Contigo",
+    "artist" : "Pitbull ft. Ne-Yo, Lenier, & El Micha",
+    "music" : "audio/TB/Pitbull/MQC.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/TMA.jpg",
+    "name" : "Tell Me Again",
+    "artist" : "Pitbull ft. Prince Royce & Ludacris",
+    "music" : "audio/TB/Pitbull/TMA.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/NSLN.jpg",
+    "name" : "No Se Lleva Nada",
+    "artist" : "Pitbull ft. El Micha",
+    "music" : "audio/TB/Pitbull/NSLN.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Cantare.jpg",
+    "name" : "Cantare",
+    "artist" : "Pitbull ft. Lenier",
+    "music" : "audio/TB/Pitbull/Cantare.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Imaginate.jpg",
+    "name" : "Imaginate",
+    "artist" : "Pitbull ft. Tito El Bambino & El Alfa",
+    "music" : "audio/TB/Pitbull/Imaginate.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/YAYO.jpg",
+    "name" : "YAYO",
+    "artist" : "Pitbull ft. Papayo & Ky-Mani Marley",
+    "music" : "audio/TB/Pitbull/YAYO.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/LRB.jpg",
+    "name" : "La Reina de Blanco",
+    "artist" : "Pitbull ft. Chesca, Giorgio Moroder, & Raney Shockne",
+    "music" : "audio/TB/Pitbull/LRB.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Body.jpg",
+    "name" : "Body On My",
+    "artist" : "Pitbull ft. Loud Luxury, brando, & Nicky Jam",
+    "music" : "audio/TB/Pitbull/Body.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Free.jpg",
+    "name" : "Free Free Free",
+    "artist" : "Pitbull ft. Theron Theron",
+    "music" : "audio/TB/Pitbull/Free.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/MTM.jpg",
+    "name" : "Move To Miami",
+    "artist" : "Pitbull ft. Enrique Iglesias",
+    "music" : "audio/TB/Pitbull/MTM.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/SDPP.jpg",
+    "name" : "Scooby Doo Pa Pa",
+    "artist" : "Pitbull ft. DJ Kass",
+    "music" : "audio/TB/Pitbull/SDPP.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Por-Favor.png",
+    "name" : "Por Favor",
+    "artist" : "Pitbull ft. Fifth Harmony",
+    "music" : "audio/TB/Pitbull/Por Favor.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/We-Are-Strong.jpg",
+    "name" : "We Are Strong",
+    "artist" : "Pitbull ft. Kiesza",
+    "music" : "audio/TB/Pitbull/We Are Strong.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Messin.jpg",
+    "name" : "Messin' Around",
+    "artist" : "Pitbull ft. Enrique Iglesias",
+    "music" : "audio/TB/Pitbull/Messin.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Dedicated.jpg",
+    "name" : "Dedicated",
+    "artist" : "Pitbull ft. R.Kelly & Austin Mahone",
+    "music" : "audio/TB/Pitbull/Dedicated.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Superstar.jpg",
+    "name" : "Superstar",
+    "artist" : "Pitbull ft. Becky G",
+    "music" : "audio/TB/Pitbull/Superstar.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Bad-Man.jpg",
+    "name" : "Bad Man",
+    "artist" : "Pitbull ft. Robin Thicke, Joe Perry, & Travis Barker",
+    "music" : "audio/TB/Pitbull/Bad Man.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/FreeK.jpg",
+    "name" : "Free.K",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/FreeK.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Piensas.jpg",
+    "name" : "Piensas (Dile La Verdad)",
+    "artist" : "Pitbull ft. Gente De Zona",
+    "music" : "audio/TB/Pitbull/Piensas.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Yo-Quiero.jpg",
+    "name" : "Yo Quiero (Si Tu Te Enamoras)",
+    "artist" : "Pitbull ft. Gente De Zona",
+    "music" : "audio/TB/Pitbull/Yo Quiero.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Party.jpg",
+    "name" : "El Party",
+    "artist" : "Pitbull ft. Micha",
+    "music" : "audio/TB/Pitbull/Party.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Mami-Mami.jpg",
+    "name" : "Mami Mami",
+    "artist" : "Pitbull ft. Fuego",
+    "music" : "audio/TB/Pitbull/Mami Mami.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Baddest.jpg",
+    "name" : "Baddest Girl In Town",
+    "artist" : "Pitbull ft. Mohombi & Wisin",
+    "music" : "audio/TB/Pitbull/Baddest.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HR.jpg",
+    "name" : "Haciendo Ruido",
+    "artist" : "Pitbull ft. Ricky Martin",
+    "music" : "audio/TB/Pitbull/HR.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HSB.jpg",
+    "name" : "Hoy Se Bebe",
+    "artist" : "Pitbull ft. Farruko",
+    "music" : "audio/TB/Pitbull/HSB.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/NPM.jpg",
+    "name" : "No Puedo Mas",
+    "artist" : "Pitbull ft. Yandel",
+    "music" : "audio/TB/Pitbull/NPM.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Leke.jpg",
+    "name" : "Ah Leke",
+    "artist" : "Pitbull ft. Sean Paul",
+    "music" : "audio/TB/Pitbull/Leke.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Celebrate.jpg",
+    "name" : "Celebrate",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Celebrate.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/DYC.png",
+    "name" : "Drive You Crazy",
+    "artist" : "Pitbull ft. Jason Derulo & Juicy J",
+    "music" : "audio/TB/Pitbull/DYC.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/NNT.jpg",
+    "name" : "Noche No Termina",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/NNT.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Back-In-Time.jpg",
+    "name" : "Back In Time",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Back In Time.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HWMA.jpg",
+    "name" : "Hope We Meet Again",
+    "artist" : "Pitbull ft. Chris Brown",
+    "music" : "audio/TB/Pitbull/HWMA.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HSF.jpg",
+    "name" : "Have Some Fun",
+    "artist" : "Pitbull ft. The Wanted & Afrojack",
+    "music" : "audio/TB/Pitbull/HSF.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Last-Night.png",
+    "name" : "Last Night",
+    "artist" : "Pitbull ft. Afrojack & Havana Brown",
+    "music" : "audio/TB/Pitbull/Last Night.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/EP.jpg",
+    "name" : "Echa Pa'lla (Manos Pa'rriba)",
+    "artist" : "Pitbull ft. Papayo",
+    "music" : "audio/TB/Pitbull/EP.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/EF.jpg",
+    "name" : "Everybody Fucks",
+    "artist" : "Pitbull ft. Akon & David Rush",
+    "music" : "audio/TB/Pitbull/EF.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Get-Started.jpg",
+    "name" : "Get It Started",
+    "artist" : "Pitbull ft. Shakira",
+    "music" : "audio/TB/Pitbull/Get Started.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/1159.jpg",
+    "name" : "11:59",
+    "artist" : "Pitbull ft. Vein",
+    "music" : "audio/TB/Pitbull/1159.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Dammit.jpg",
+    "name" : "Dammit Man (Remix)",
+    "artist" : "Pitbull ft. Lil Flip",
+    "music" : "audio/TB/Pitbull/Dammit.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Bojangles.jpg",
+    "name" : "Bojangles (Remix)",
+    "artist" : "Pitbull ft. Lil Jon & Ying Yang Twins",
+    "music" : "audio/TB/Pitbull/Bojangles.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/CSM.jpg",
+    "name" : "Come See Me",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/CSM.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Fuego.jpg",
+    "name" : "Fuego",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Fuego.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Toma.jpg",
+    "name" : "Toma",
+    "artist" : "Pitbull ft. Lil Jon",
+    "music" : "audio/TB/Pitbull/Toma.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Lemonhead.jpg",
+    "name" : "Lemonhead Delight",
+    "artist" : "Pitbull ft. Vedo-No Shake & Bang",
+    "music" : "audio/TB/Pitbull/Lemonhead.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Guilty.jpg",
+    "name" : "Guilty By Association",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Guilty.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/That-High.jpg",
+    "name" : "That High",
+    "artist" : "Pitbull ft. Kelly Rowland",
+    "music" : "audio/TB/Pitbull/That High.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/DoIt.jpg",
+    "name" : "Do It",
+    "artist" : "Pitbull ft. Mayer Hawthorne",
+    "music" : "audio/TB/Pitbull/Do It.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/California.jpg",
+    "name" : "Sun In California",
+    "artist" : "Pitbull ft. Mohombi & PLAYB4CK",
+    "music" : "audio/TB/Pitbull/California.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/All-The-Things.jpg",
+    "name" : "All The Things",
+    "artist" : "Pitbull ft. Inna",
+    "music" : "audio/TB/Pitbull/All The Things.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Pause.jpg",
+    "name" : "Pause",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Pause.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Castle.jpg",
+    "name" : "Castle Made Of Sand",
+    "artist" : "Pitbull ft. Kelly Rowland & Jamie Drastik",
+    "music" : "audio/TB/Pitbull/Castle.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/TML.jpg",
+    "name" : "Took My Love",
+    "artist" : "Pitbull ft. Red Foo, Vein, & David Rush",
+    "music" : "audio/TB/Pitbull/TML.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/WDWG.jpg",
+    "name" : "Where Do We Go",
+    "artist" : "Pitbull ft. Jamie Foxx",
+    "music" : "audio/TB/Pitbull/WDWG.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Right-Now.jpg",
+    "name" : "Mr. Right Now",
+    "artist" : "Pitbull ft. Akon & DJ Frank E",
+    "music" : "audio/TB/Pitbull/Right Now.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Oye.jpg",
+    "name" : "Oye Baby",
+    "artist" : "Pitbull ft. Nicola Fasano",
+    "music" : "audio/TB/Pitbull/Oye.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/MKG.jpg",
+    "name" : "My Kinda Girl",
+    "artist" : "Pitbull ft. Nelly",
+    "music" : "audio/TB/Pitbull/MKG.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/DMB.jpg",
+    "name" : "Dem Miami Boyz",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/DMB.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/EN.jpg",
+    "name" : "Esta Noche",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/EN.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/TC.jpg",
+    "name" : "Tu Cuerpo",
+    "artist" : "Pitbull ft. Jencarlos Canela",
+    "music" : "audio/TB/Pitbull/TC.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Vida.jpg",
+    "name" : "Vida 23",
+    "artist" : "Pitbull ft. Nayer",
+    "music" : "audio/TB/Pitbull/Vida.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Amorosa.jpg",
+    "name" : "Amorosa",
+    "artist" : "Pitbull ft. Papayo & MC Marcinho",
+    "music" : "audio/TB/Pitbull/Amorosa.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Orgullo.jpg",
+    "name" : "Orgullo",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Orgullo.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Blanco.jpg",
+    "name" : "Blanco",
+    "artist" : "Pitbull ft. Pharrell Williams",
+    "music" : "audio/TB/Pitbull/Blanco.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Triumph.jpg",
+    "name" : "Triumph",
+    "artist" : "Pitbull ft. Avery Storm",
+    "music" : "audio/TB/Pitbull/Triumph.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/SID.jpg",
+    "name" : "Shut It Down",
+    "artist" : "Pitbull ft. Akon",
+    "music" : "audio/TB/Pitbull/SID.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/FOS.jpg",
+    "name" : "Full Of Shit",
+    "artist" : "Pitbull ft. Nayer & Bass III Euro",
+    "music" : "audio/TB/Pitbull/FOS.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/CSMN.jpg",
+    "name" : "Can't Stop Me Now",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/CSMN.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Juice-Box.jpg",
+    "name" : "Juice Box",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Juice Box.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/COTW.jpg",
+    "name" : "Call Of The Wild",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/COTW.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Krazy.jpg",
+    "name" : "Krazy",
+    "artist" : "Pitbull ft. Lil Jon",
+    "music" : "audio/TB/Pitbull/Krazy.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/ATW.jpg",
+    "name" : "Across The World",
+    "artist" : "Pitbull ft. B.O.B.",
+    "music" : "audio/TB/Pitbull/ATW.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/DLG.jpg",
+    "name" : "Daddy's Little Girl",
+    "artist" : "Pitbull ft. Slim",
+    "music" : "audio/TB/Pitbull/DLG.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Dukey.jpg",
+    "name" : "Dukey Love",
+    "artist" : "Pitbull ft. Trick Daddy & Fabo of D4L",
+    "music" : "audio/TB/Pitbull/Dukey.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/IDSE.jpg",
+    "name" : "I Don't See Em",
+    "artist" : "Pitbull ft. Cubo & AIM",
+    "music" : "audio/TB/Pitbull/IDSE.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/IDSE.jpg",
+    "name" : "Midnight",
+    "artist" : "Pitbull ft. Casely",
+    "music" : "audio/TB/Pitbull/Midnight.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Candyman.jpg",
+    "name" : "Candyman",
+    "artist" : "Pitbull ft. Twista",
+    "music" : "audio/TB/Pitbull/Candyman.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Sticky.jpg",
+    "name" : "Sticky Icky",
+    "artist" : "Pitbull ft. Jim Jones",
+    "music" : "audio/TB/Pitbull/Sticky.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/My-Life.jpg",
+    "name" : "My Life",
+    "artist" : "Pitbull ft. Jason Derulo",
+    "music" : "audio/TB/Pitbull/My Life.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HTC.jpg",
+    "name" : "Here They Can",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/HTC.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/RIR.jpg",
+    "name" : "Ridin It Raw",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/RIR.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Miami-Shit.jpg",
+    "name" : "Miami Shit",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Miami Shit.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Chico.jpg",
+    "name" : "Ay Chico (Lengua Afuera)",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Chico.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Rock-Bottom.png",
+    "name" : "Rock Bottom",
+    "artist" : "Pitbull ft. Bun B & Cubo",
+    "music" : "audio/TB/Pitbull/Rock Bottom.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HYG.jpg",
+    "name" : "Hey You Girl",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/HYG.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Voodoo.jpg",
+    "name" : "Voodoo",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Voodoo.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Dime.jpg",
+    "name" : "Dime",
+    "artist" : "Pitbull ft. Ken-Y",
+    "music" : "audio/TB/Pitbull/Dime.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Rah.jpg",
+    "name" : "Rah Rah",
+    "artist" : "Pitbull ft. Elephant Man & Daddy Yankee",
+    "music" : "audio/TB/Pitbull/Rah.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Hotter.jpg",
+    "name" : "She's Hotter",
+    "artist" : "Pitbull ft. T.O.K.",
+    "music" : "audio/TB/Pitbull/Hotter.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Hotter.jpg",
+    "name" : "Might Be The Police",
+    "artist" : "Pitbull ft. Brisco",
+    "music" : "audio/TB/Pitbull/Police.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Freaky.jpg",
+    "name" : "She's Freaky",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Freaky.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Back-Up.jpg",
+    "name" : "Back Up",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Back Up.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Melting.jpg",
+    "name" : "Melting Pot",
+    "artist" : "Pitbull ft. Trick Daddy",
+    "music" : "audio/TB/Pitbull/Melting.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/Hustlers.jpg",
+    "name" : "Hustlers Withdrawal",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/Hustlers.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/HUAW.jpg",
+    "name" : "Hurry Up and Wait",
+    "artist" : "Pitbull",
+    "music" : "audio/TB/Pitbull/HUAW.mp3"
+  },
+  {
+    "img" : "images/TB/Pitbull/CuloMM.jpg",
+    "name" : "Culo (Miami Mix)",
+    "artist" : "Pitbull ft. Mr. Vegas & Lil Jon",
+    "music" : "audio/TB/Pitbull/CuloMM.mp3"
   },
   {
     "img" : "images/TB/Usher/DJ.jpg",
