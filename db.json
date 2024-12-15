@@ -102,6 +102,84 @@
     "music" : "audio/Astronaut in the Ocean.mp3"
   },
   {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Modern Slavery",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Modern Slavery.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Black & Chinese",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Black and Chinese.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Eye 2 Eye",
+    "artist" : "Huncho Jack ft. Travis Scott, Quavo, & Takeoff",
+    "music" : "audio/Huncho/Eye 2 Eye.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Motorcycle Patches",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Motorcycle Patches.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Huncho Jack",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Huncho Jack.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Saint",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Saint.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Go",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Go.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Dubai Shit",
+    "artist" : "Huncho Jack ft. Travis Scott, Quavo, & Offset",
+    "music" : "audio/Huncho/Dubai Shit.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Saint Laurent Mask",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Saint Laurent Mask.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Moon Rock",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Moon Rock.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "How U Feel",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/How U Feel.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Where U From",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Where U From.mp3"
+  },
+  {
+    "img" : "images/hiphop/Huncho.jpg",
+    "name" : "Best Man",
+    "artist" : "Huncho Jack ft. Travis Scott & Quavo",
+    "music" : "audio/Huncho/Best Man.mp3"
+  },
+  {
     "img" : "images/hiphop/Fetty-Wap/Trap-Queen.jpg",
     "name" : "Trap Queen",
     "artist" : "Fetty Wap",
@@ -2240,7 +2318,7 @@
     "music" : "audio/GIDLE/GIDLE-Hear Me.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/Relay.png",
+    "img" : "images/kpop/GIDLE/Relay.webp",
     "name" : "Relay",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Relay.mp3"
@@ -2306,31 +2384,31 @@
     "music" : "audio/GIDLE/GIDLE-Put It Straight (Nightmare).mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "img" : "images/kpop/GIDLE/I-Trust.png",
     "name" : "Oh my god",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-OMG.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "img" : "images/kpop/GIDLE/I-Trust.png",
     "name" : "Oh my god (English Version)",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-OMG (eng).mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "img" : "images/kpop/GIDLE/I-Trust.png",
     "name" : "Luv U",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Luv U.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "img" : "images/kpop/GIDLE/I-Trust.png",
     "name" : "Maybe",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Maybe.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "img" : "images/kpop/GIDLE/I-Trust.png",
     "name" : "Lion",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Lion.mp3"
@@ -2600,25 +2678,25 @@
     "music" : "audio/GIDLE/GIDLE-Abracadabra.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "img" : "images/kpop/GIDLE/I-Sway.jpeg",
     "name" : "Klaxon",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Klaxon.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "img" : "images/kpop/GIDLE/I-Sway.jpeg",
     "name" : "Last Forever",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Last Forever.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "img" : "images/kpop/GIDLE/I-Sway.jpeg",
     "name" : "Bloom",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Bloom.mp3"
   },
   {
-    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "img" : "images/kpop/GIDLE/I-Sway.jpeg",
     "name" : "Neverland",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Neverland.mp3"
