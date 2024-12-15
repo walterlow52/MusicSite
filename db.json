@@ -2198,10 +2198,286 @@
     "music" : "audio/Tzuyu/Tzuyu-Fly.mp3"
   },
   {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "LATATA",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Latata.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "LATATA (English Version)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Latata (eng).mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "$$$",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-$$$.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "Maze",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Maze.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "Don't Text Me",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Don't Text Me.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "What's In Your House",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-What's In Your House.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Am.jpg",
+    "name" : "Hear Me",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Hear Me.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Relay.png",
+    "name" : "Relay",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Relay.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Made.jpg",
+    "name" : "Senorita",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Senorita.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Made.jpg",
+    "name" : "What's Your Name",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-What's Your Name.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Made.jpg",
+    "name" : "Put It Straight",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Put It Straight.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Made.jpg",
+    "name" : "Give Me Your",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Give Me Your.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Made.jpg",
+    "name" : "Blow Your Mind",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Blow Your Mind.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Help-Me.jpg",
+    "name" : "Help Me (Her Private Life OST Pt. 1)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Help Me.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/UhOh.png",
+    "name" : "Uh-Oh",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-UhOh.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Win.jpg",
+    "name" : "Light My Fire",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Light My Fire.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Win.jpg",
+    "name" : "For You",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-For You.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Put-It-Straight.jpg",
+    "name" : "Put It Straight (Nightmare Version)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Put It Straight (Nightmare).mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "name" : "Oh my god",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-OMG.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "name" : "Oh my god (English Version)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-OMG (eng).mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "name" : "Luv U",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Luv U.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "name" : "Maybe",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Maybe.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Trust.jpg",
+    "name" : "Lion",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Lion.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Trend.png",
+    "name" : "i'M THE TREND",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-I'm The Trend.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Dumdi.jpg",
+    "name" : "Dumdi Dumdi",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Dumdi.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "HANN (Alone In Winter)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Hann.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "Hwaa",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Hwaa.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "Hwaa (English Version)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Hwaa (eng).mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "Moon",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Moon.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "Where Is Love",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Where Is Love.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "Lost",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Lost.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Burn.jpg",
+    "name" : "Dahlia",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Dahlia.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Last-Dance.jpg",
+    "name" : "Last Dance",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Last Dance.mp3"
+  },
+  {
     "img" : "images/kpop/GIDLE/Tomboy.jpg",
     "name" : "Tomboy",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-Tomboy.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "Never Stop Me",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Never Stop Me.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "Villain Dies",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Villain Dies.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "Already",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Already.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "Polaroid",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Polaroid.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "Escape",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Escape.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "Liar",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Liar.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Tomboy.jpg",
+    "name" : "My Bag",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-My Bag.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Love.webp",
+    "name" : "Nxde",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Nxde.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Love.webp",
+    "name" : "Love",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Love.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Love.webp",
+    "name" : "Change",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Change.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Love.webp",
+    "name" : "Reset",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Reset.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Love.webp",
+    "name" : "Sculpture",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Sculpture.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Love.webp",
+    "name" : "Dark (X File)",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Dark.mp3"
   },
   {
     "img" : "images/kpop/GIDLE/I-Feel.jpg",
@@ -2216,6 +2492,30 @@
     "music" : "audio/GIDLE/GIDLE-Allergy.mp3"
   },
   {
+    "img" : "images/kpop/GIDLE/I-Feel.jpg",
+    "name" : "Lucid",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Lucid.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Feel.jpg",
+    "name" : "All Night",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-All Night.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Feel.jpg",
+    "name" : "Paradise",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Paradise.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Feel.jpg",
+    "name" : "Peter Pan",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Peter Pan.mp3"
+  },
+  {
     "img" : "images/kpop/GIDLE/I-Do.jpg",
     "name" : "I Do",
     "artist" : "(G)I-DLE",
@@ -2226,6 +2526,102 @@
     "name" : "I Want That",
     "artist" : "(G)I-DLE",
     "music" : "audio/GIDLE/GIDLE-I Want That.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Want-That.png",
+    "name" : "Eyes Roll",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Eyes Roll.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Want-That.png",
+    "name" : "Flip It",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Flip It.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Want-That.png",
+    "name" : "Tall Trees",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Tall Trees.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Wife.webp",
+    "name" : "Wife",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Wife.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "Super Lady",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Super Lady.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "Revenge",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Revenge.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "Doll",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Doll.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "Vision",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Vision.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "7Days",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-7Days.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "Fate",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Fate.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/SuperLady.jpg",
+    "name" : "Rollie",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Rollie.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/Abracadabra.jpg",
+    "name" : "Abracadabra",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Abracadabra.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "name" : "Klaxon",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Klaxon.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "name" : "Last Forever",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Last Forever.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "name" : "Bloom",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Bloom.mp3"
+  },
+  {
+    "img" : "images/kpop/GIDLE/I-Sway.jpg",
+    "name" : "Neverland",
+    "artist" : "(G)I-DLE",
+    "music" : "audio/GIDLE/GIDLE-Neverland.mp3"
   },
   {
     "img" : "images/kpop/Forever.jpg",
@@ -2597,6 +2993,12 @@
   },
   {
     "img" : "images/kpop/Itzy/Born-To-Be.jpeg",
+    "name" : "Escalator",
+    "artist" : "Itzy",
+    "music" : "audio/Itzy/Itzy-Escalator.mp3"
+  },
+  {
+    "img" : "images/kpop/Itzy/Born-To-Be.jpeg",
     "name" : "Crown On My Head (Yeji Solo)",
     "artist" : "Itzy",
     "music" : "audio/Itzy/Itzy-Yeji.mp3"
@@ -2618,12 +3020,6 @@
     "name" : "Mine (Chaeryeong Solo)",
     "artist" : "Itzy",
     "music" : "audio/Itzy/Itzy-Chaeryeong.mp3"
-  },
-  {
-    "img" : "images/kpop/Itzy/Born-To-Be.jpeg",
-    "name" : "Escalator",
-    "artist" : "Itzy",
-    "music" : "audio/Itzy/Itzy-Escalator.mp3"
   },
   {
     "img" : "images/kpop/Itzy/Born-To-Be.jpeg",
@@ -5737,15 +6133,69 @@
   },
   {
     "img" : "images/WM-27-OST.jpg",
-    "name" : "Written In The Stars",
+    "name" : "Written In The Stars (WWE WrestleMania 27 OST)",
     "artist" : "Tinie Tempah ft. Eric Turner",
     "music" : "audio/WM27.mp3"
   },
   {
+    "img" : "images/Invincible.jpg",
+    "name" : "Invincible (WWE WrestleMania 28 OST)",
+    "artist" : "Machine Gun Kelly ft. Ester Dean",
+    "music" : "audio/Invincible.mp3"
+  },
+  {
+    "img" : "images/SS2012.jpg",
+    "name" : "Don't Give Up (WWE SummerSlam 2012 OST)",
+    "artist" : "Kevin Rudolf",
+    "music" : "audio/SS2012.mp3"
+  },
+  {
     "img" : "images/RR-2013-OST.jpg",
-    "name" : "Champion",
+    "name" : "Champion (WWE Royal Rumble 2013 OST)",
     "artist" : "Clement Marfo ft. The Frontline",
     "music" : "audio/RR13.mp3"
+  },
+  {
+    "img" : "images/Raw1.jpg",
+    "name" : "Burn It To The Ground (WWE Raw Opening 2009-2012)",
+    "artist" : "Nickelback",
+    "music" : "audio/Raw1.mp3"
+  },
+  {
+    "img" : "images/Raw2.jpg",
+    "name" : "The Night (WWE Raw Opening 2012-2016)",
+    "artist" : "CFO$",
+    "music" : "audio/Raw2.mp3"
+  },
+  {
+    "img" : "images/Raw3.jpg",
+    "name" : "The Night (Remix)",
+    "artist" : "CFO$",
+    "music" : "audio/Raw3.mp3"
+  },
+  {
+    "img" : "images/Raw4.jpg",
+    "name" : "Enemies (WWE Raw Opening 2016)",
+    "artist" : "Shinedown",
+    "music" : "audio/Raw4.mp3"
+  },
+  {
+    "img" : "images/SD1.jpg",
+    "name" : "Born 2 Run (WWE Smackdown Opening 2012)",
+    "artist" : "7Lions",
+    "music" : "audio/SD1.mp3"
+  },
+  {
+    "img" : "images/SD2.jpg",
+    "name" : "This Life (WWE Smackdown Opening 2014)",
+    "artist" : "CFO$ ft. Dylan Owen",
+    "music" : "audio/SD2.mp3"
+  },
+  {
+    "img" : "images/SD3.jpg",
+    "name" : "Black and Blue (WWE Smackdown Opening 2015)",
+    "artist" : "CFO$",
+    "music" : "audio/SD3.mp3"
   },
   {
     "img" : "images/wwe/JC.jpg",
