@@ -3019,7 +3019,7 @@
     "img" : "images/kpop/Itzy/KMD.jpg",
     "name" : "None Of My Business",
     "artist" : "Itzy",
-    "music" : "audio/Itzy/Itzy-None Of My Business.mp3"
+    "music" : "audio/Itzy/Itzy-None of My Business.mp3"
   },
   {
     "img" : "images/kpop/Itzy/KMD.jpg",
@@ -4032,6 +4032,66 @@
     "name" : "unravel (Tokyo Ghoul OP)",
     "artist" : "TK from Ling tosite sigure",
     "music" : "audio/unravel.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO1.jpg",
+    "name" : "Crossing Field (Sword Art Online OP 1)",
+    "artist" : "LiSA",
+    "music" : "audio/Sword Art Online/Crossing Field.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO3.jpg",
+    "name" : "Ignite (Sword Art Online OP 3)",
+    "artist" : "Eir Aoi",
+    "music" : "audio/Sword Art Online/Ignite.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO4.jpg",
+    "name" : "Courage (Sword Art Online OP 4)",
+    "artist" : "Haruka Tomatsu",
+    "music" : "audio/Sword Art Online/Courage.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO5.jpg",
+    "name" : "Ryuusei (Sword Art Online II: Gun Gale Online OP)",
+    "artist" : "Eir Aoi",
+    "music" : "audio/Sword Art Online/Ryuusei.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO6.jpg",
+    "name" : "Catch The Moment (Sword Art Online The Movie: Ordinal Scale OST)",
+    "artist" : "LiSA",
+    "music" : "audio/Sword Art Online/Catch The Moment.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO7.jpg",
+    "name" : "Adamas (Sword Art Online: Alicization OP)",
+    "artist" : "LiSA",
+    "music" : "audio/Sword Art Online/Adamas.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO8.jpg",
+    "name" : "Selfrontier (Sword Art Online: Alicization Rising Steel OP)",
+    "artist" : "ASCA",
+    "music" : "audio/Sword Art Online/Selfrontier.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO9.jpg",
+    "name" : "Resolution (Sword Art Online: Alicization War of Underworld OP)",
+    "artist" : "Haruka Tomatsu",
+    "music" : "audio/Sword Art Online/Resolution.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO10.png",
+    "name" : "Anima (Sword Art Online: Alicization War of Underworld OP 2)",
+    "artist" : "ReoNa",
+    "music" : "audio/Sword Art Online/Anima.mp3"
+  },
+  {
+    "img" : "images/anime/Sword-Art-Online/SAO11.avif",
+    "name" : "VITA (Sword Art Online: Last Recollection OST)",
+    "artist" : "ReoNa",
+    "music" : "audio/Sword Art Online/Vita.mp3"
   },
   {
     "img" : "images/anime/Fire-Force/Fire-Force.jpg",
