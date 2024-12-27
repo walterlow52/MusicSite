@@ -102,6 +102,66 @@
     "music" : "audio/Astronaut in the Ocean.mp3"
   },
   {
+    "img" : "images/hiphop/Zaquay/Ango.jpg",
+    "name" : "She",
+    "artist" : "ZaQuay ft. Ango & Lil Rich",
+    "music" : "audio/Zaquay/She.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Ango.jpg",
+    "name" : "I Just Wanna Cry",
+    "artist" : "ZaQuay ft. Ango",
+    "music" : "audio/Zaquay/Cry.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Get-Down.jpg",
+    "name" : "get down",
+    "artist" : "ZaQuay",
+    "music" : "audio/Zaquay/Get Down.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Crocker.jpg",
+    "name" : "Mr. Crocker",
+    "artist" : "ZaQuay ft. sirrslime",
+    "music" : "audio/Zaquay/Crocker.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Heard.jpg",
+    "name" : "what u heard",
+    "artist" : "ZaQuay",
+    "music" : "audio/Zaquay/Heard.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Break.jpg",
+    "name" : "break",
+    "artist" : "ZaQuay",
+    "music" : "audio/Zaquay/Break.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Munchkin.jpg",
+    "name" : "Munchkin",
+    "artist" : "ZaQuay ft. 3hhh",
+    "music" : "audio/Zaquay/Munchkin.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Miss.jpg",
+    "name" : "i never miss",
+    "artist" : "ZaQuay",
+    "music" : "audio/Zaquay/Miss.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Girls.jpg",
+    "name" : "pretty girls like you",
+    "artist" : "ZaQuay",
+    "music" : "audio/Zaquay/Girls.mp3"
+  },
+  {
+    "img" : "images/hiphop/Zaquay/Recycle.jpg",
+    "name" : "recycle",
+    "artist" : "ZaQuay ft. Cybando & Tuxedo Mask",
+    "music" : "audio/Zaquay/Recycle.mp3"
+  },
+  {
     "img" : "images/hiphop/Huncho.jpg",
     "name" : "Modern Slavery",
     "artist" : "Huncho Jack ft. Travis Scott & Quavo",
