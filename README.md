@@ -16,7 +16,7 @@
 <hr>
 <h6> Click here to view the Music Site -  <a href = "https://walterlow52.github.io/MusicSite/index.html"> https://walterlow52.github.io/MusicSite/index.html </a> </h6>
 <h6> Click here to view the Music Site - Playlist - <a href = "https://walterlow52.github.io/MusicSite/playlist.html"> https://walterlow52.github.io/MusicSite/playlist.html </a></h6>
-<h6> Click here to view the Music Site - Playlist Table - <a href = "https://walterlow52.github.io/MusicSite/playlist_table.html"> https://walterlow52.github.io/MusicSite/playlist_table.html </a> </h6> <hr>
+<hr>
 
 
 <p> -- <b> Created by Walter Low -- </b> <h6> <a href = "mailto:walterlow52@gmail.com" title = "Feel free to email me!"> (<i> walterlow52@gmail.com </i>) </a> </h6> </p> 
