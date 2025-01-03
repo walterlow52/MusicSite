@@ -3130,6 +3130,132 @@
     "shadow" : "2px 2px black"
   },
   {
+    "img" : "images/kpop/LE SSERAFIM/Fearless.webp",
+    "name" : "Fearless",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Fearless.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Fearless.webp",
+    "name" : "Blue Flame",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Blue Flame.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Fearless.webp",
+    "name" : "The Great Mermaid",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/The Great Mermaid.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Antifragile.jpg",
+    "name" : "Antifragile",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Antifragile.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Antifragile.jpg",
+    "name" : "Impurities",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Impurities.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Antifragile.jpg",
+    "name" : "No Celestial",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/No Celestial.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Antifragile.jpg",
+    "name" : "Good Parts (when the quality is bad but i am)",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Good Parts.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Choices.jpg",
+    "name" : "Choices",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Choices.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Unforgiven.jpg",
+    "name" : "Unforgiven",
+    "artist" : "LE SSERAFIM ft. Nile Rodgers",
+    "music" : "audio/LE SSERAFIM/Unforgiven.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Unforgiven.jpg",
+    "name" : "No-Return (Into The Unknown)",
+    "artist" : "LE SSERAFIM ft. Nile Rodgers",
+    "music" : "audio/LE SSERAFIM/No-Return.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Unforgiven.jpg",
+    "name" : "Fearnot (Between You, Me, And The Lamppost)",
+    "artist" : "LE SSERAFIM ft. Nile Rodgers",
+    "music" : "audio/LE SSERAFIM/Fearnot.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Unforgiven.jpg",
+    "name" : "Flash Forward",
+    "artist" : "LE SSERAFIM ft. Nile Rodgers",
+    "music" : "audio/LE SSERAFIM/Flash Forward.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Unforgiven.jpg",
+    "name" : "Fire In The Belly",
+    "artist" : "LE SSERAFIM ft. Nile Rodgers",
+    "music" : "audio/LE SSERAFIM/Fire.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Imase.webp",
+    "name" : "Dresscode (Prod. imase)",
+    "artist" : "LE SSERAFIM ft. Nile Rodgers",
+    "music" : "audio/LE SSERAFIM/Dresscode.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/PN.jpg",
+    "name" : "Perfect Night",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Perfect Night.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Smart.jpg",
+    "name" : "Smart",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Smart.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Crazy.jpg",
+    "name" : "Crazy",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Crazy.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Crazy.jpg",
+    "name" : "Pierrot",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Pierrot.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Crazy.jpg",
+    "name" : "1-800-hot-n-fun",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/1-800.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/Crazy.jpg",
+    "name" : "Crazier",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Crazier.mp3"
+  },
+  {
+    "img" : "images/kpop/LE SSERAFIM/SS.jpg",
+    "name" : "Star Signs",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Star Signs.mp3"
+  },
+  {
     "img" : "images/kpop/Itzy/Dalla.jpg",
     "name" : "Dalla Dalla",
     "artist" : "Itzy",
@@ -4150,6 +4276,12 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/anime/Attack-On-Titan/Reiner.jpg",
+    "name" : "Vogel im käfig (Attack on Titan Reiner & Bertholdt OST)",
+    "artist" : "Hiroyuki Sawano ft. YOUSEEBIGGIRLT_T",
+    "music" : "audio/AOT/Reiner.mp3"
   },
   {
     "img" : "images/anime/Attack-On-Titan/AOT-Final-Special.jpg",
