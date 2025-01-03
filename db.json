@@ -4816,6 +4816,12 @@
     "music" : "audio/Naruto/Hero ComeBack.mp3"
   },
   {
+    "img" : "images/anime/Naruto/Naruto-Shippuden-3.jpg",
+    "name" : "Blue Birds (Naruto Shippuden OP 3)",
+    "artist" : "Hotarunohikari",
+    "music" : "audio/Naruto/Blue Birds.mp3"
+  },
+  {
     "img" : "images/anime/Naruto/Naruto-Shippuden-4.gif",
     "name" : "Closer (Naruto Shippuden OP 4)",
     "artist" : "Joe Inoue",
@@ -4824,6 +4830,12 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/anime/Naruto/Naruto-Shippuden-5.jpg",
+    "name" : "Hotarunohikari (Naruto Shippuden OP 5)",
+    "artist" : "Ikimonogakari",
+    "music" : "audio/Naruto/Hotarunohikari.mp3"
   },
   {
     "img" : "images/anime/Naruto/Naruto-Shippuden-6.jpg",
@@ -4840,6 +4852,12 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/anime/Naruto/Naruto-Shippuden-9.jpg",
+    "name" : "Lovers (Naruto Shippuden OP 9)",
+    "artist" : "Seven Oops",
+    "music" : "audio/Naruto/Lovers.mp3"
   },
   {
     "img" : "images/anime/Naruto/Naruto-Shippuden-12.png",
@@ -4878,10 +4896,46 @@
     "shadow" : "2px 2px black"
   },
   {
+    "img" : "images/anime/Naruto/Boruto/Boruto-1.jpg",
+    "name" : "Baton Road (Boruto: Naruto Next Generations OP 1)",
+    "artist" : "Kana-Boon",
+    "music" : "audio/Naruto/Boruto/Baton Road.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Boruto/Boruto-2.jpg",
+    "name" : "Over (Boruto: Naruto Next Generations OP 2)",
+    "artist" : "Little Glee Monster",
+    "music" : "audio/Naruto/Boruto/Over.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Boruto/Boruto-3.jpg",
+    "name" : "It's All In The Game (Boruto: Naruto Next Generations OP 3)",
+    "artist" : "Qyoto",
+    "music" : "audio/Naruto/Boruto/Game.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Boruto/Boruto-4.jpg",
+    "name" : "Lonely Go! (Boruto: Naruto Next Generations OP 4)",
+    "artist" : "Brian The Sun",
+    "music" : "audio/Naruto/Boruto/Lonely Go.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Boruto/Boruto-5.jpg",
+    "name" : "Golden Time (Boruto: Naruto Next Generations OP 5)",
+    "artist" : "Fujifabric",
+    "music" : "audio/Naruto/Boruto/Golden Time.mp3"
+  },
+  {
     "img" : "images/anime/Naruto/Boruto/Boruto-8.jpg",
     "name" : "Baku (Boruto: Naruto Next Generations OP 8)",
     "artist" : "Ikimonogakari",
     "music" : "audio/Naruto/Boruto/Baku.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Boruto/Boruto-9.jpg",
+    "name" : "Gamushara (Boruto: Naruto Next Generations OP 9)",
+    "artist" : "CHiCO with HoneyWorks",
+    "music" : "audio/Naruto/Boruto/Gamushara.mp3"
   },
   {
     "img" : "images/anime/Naruto/Boruto/Boruto-10.jpg",
