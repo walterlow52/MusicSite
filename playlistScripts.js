@@ -12,17 +12,19 @@ let i;
 
         item.textContent = i.artist + " - " + i.name;
         item.onclick = () => {
-        document.body.style.backgroundImage = "url(" + i.img + ")";
+          document.body.style.backgroundImage = "url(" + i.img + ")";
+          song.src = i.music;
+          song.controls = true;
         }
         item.style.backgroundColor = i.bg;
         item.style.color = i.txt;
         item.style.fontWeight = i.deco;
         item.style.textShadow = i.shadow;
 
-        song.onclick = () => {
+        /*song.onclick = () => {
           song.src = i.music;
           song.controls = true;
-        }
+        }*/
 
         item.appendChild(song);
         list.appendChild(item);
