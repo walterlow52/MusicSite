@@ -13,8 +13,6 @@
        <li> Fix <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> hover issue </li>
        <li> Finish onclick event function for <a href = "https://github.com/walterlow52/MusicSite/blob/main/playlist_table.html"> playlist_table.html </a> to play MP3 file </li>
        <li> Convert playlist_table.html to playlist_table.js by changing it from HTML to ReactJS </li>
-       <li> Update playlist.html so all webmediaplayers don't load in on startup </li>
-
 
        <li> Create song request form (React) while using HTML layout elements in project and CSS border-box & media queries </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
@@ -23,7 +21,6 @@
        <li> Implement Django </li>
 
        <li> Update images & audio files </li>
-       <li> Fix mobile playlist err </li>
 </i> </ul>
 
 <hr>
