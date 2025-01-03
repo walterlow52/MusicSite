@@ -20,9 +20,9 @@ let i;
         item.style.textShadow = i.shadow;
 
         song.onclick = () => {
+          song.src = i.music;
           song.controls = true;
         }
-        song.src = i.music;
 
         item.appendChild(song);
         list.appendChild(item);
