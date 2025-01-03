@@ -7,6 +7,7 @@ let i;
       console.log(data);
       data.forEach(i => {
         const item = document.createElement('li');
+        const song = document.createElement('audio');
         console.log(i);
 
         item.textContent = i.artist + " - " + i.name;
@@ -19,7 +20,6 @@ let i;
         item.style.textShadow = i.shadow;
 
         song.onclick = () => {
-          const song = document.createElement('audio');
           song.src = i.music;
           song.controls = true;
         }
