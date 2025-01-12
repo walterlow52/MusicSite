@@ -4932,6 +4932,12 @@
     "shadow" : "2px 2px black"
   },
   {
+    "img" : "images/anime/Naruto/Naruto-The-Last.png",
+    "name" : "Hoshi No Utsuwa (Naruto Shippuden: The Last OST)",
+    "artist" : "Sukima Switch",
+    "music" : "audio/Naruto/The Last.mp3"
+  },
+  {
     "img" : "images/anime/Naruto/Boruto/Boruto-1.jpg",
     "name" : "Baton Road (Boruto: Naruto Next Generations OP 1)",
     "artist" : "Kana-Boon",
