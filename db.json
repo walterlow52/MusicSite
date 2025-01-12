@@ -3226,25 +3226,25 @@
     "music" : "audio/LE SSERAFIM/Smart.mp3"
   },
   {
-    "img" : "images/kpop/LE-SSERAFIM/Crazy.jpg",
+    "img" : "images/kpop/LE-SSERAFIM/Crazy.png",
     "name" : "Crazy",
     "artist" : "LE SSERAFIM",
     "music" : "audio/LE SSERAFIM/Crazy.mp3"
   },
   {
-    "img" : "images/kpop/LE-SSERAFIM/Crazy.jpg",
+    "img" : "images/kpop/LE-SSERAFIM/Crazy.png",
     "name" : "Pierrot",
     "artist" : "LE SSERAFIM",
     "music" : "audio/LE SSERAFIM/Pierrot.mp3"
   },
   {
-    "img" : "images/kpop/LE-SSERAFIM/Crazy.jpg",
+    "img" : "images/kpop/LE-SSERAFIM/Crazy.png",
     "name" : "1-800-hot-n-fun",
     "artist" : "LE SSERAFIM",
     "music" : "audio/LE SSERAFIM/1-800.mp3"
   },
   {
-    "img" : "images/kpop/LE-SSERAFIM/Crazy.jpg",
+    "img" : "images/kpop/LE-SSERAFIM/Crazy.png",
     "name" : "Crazier",
     "artist" : "LE SSERAFIM",
     "music" : "audio/LE SSERAFIM/Crazier.mp3"
@@ -4186,6 +4186,24 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/anime/Black-Clover/Black-Clover-4.jpg",
+    "name" : "Guess Who Is Back (Black Clover OP 4)",
+    "artist" : "Kumi Koda",
+    "music" : "audio/Black Clover/Back.mp3"
+  },
+  {
+    "img" : "images/anime/Black-Clover/Black-Clover-5.jpg",
+    "name" : "Gamushara (Black Clover OP 5)",
+    "artist" : "Miyuna",
+    "music" : "audio/Black Clover/Gamushara.mp3"
+  },
+  {
+    "img" : "images/anime/Black-Clover/Black-Clover-7.jpg",
+    "name" : "JUSTadICE (Black Clover OP 7)",
+    "artist" : "Seiko Oomori",
+    "music" : "audio/Black Clover/justadice.mp3"
   },
   {
     "img" : "images/anime/Black-Clover/Black-Clover-10.jpg",
