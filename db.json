@@ -4828,6 +4828,24 @@
     "music" : "audio/SDS/Howling.mp3"
   },
   {
+    "img" : "images/anime/Naruto/Naruto2.jpg",
+    "name" : "Haruka Kanata (Naruto OP 2)",
+    "artist" : "Asian Kung-Fu Generation",
+    "music" : "audio/Naruto/Haruka Kanata.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Naruto4.jpg",
+    "name" : "GO! (Naruto OP 4)",
+    "artist" : "Flow",
+    "music" : "audio/Naruto/Go.mp3"
+  },
+  {
+    "img" : "images/anime/Naruto/Naruto9.jpg",
+    "name" : "Yura Yura (Naruto OP 9)",
+    "artist" : "Hearts Grow",
+    "music" : "audio/Naruto/Yura.mp3"
+  },
+  {
     "img" : "images/anime/Naruto/Naruto-Shippuden.jpg",
     "name" : "Hero's Come Back (Naruto Shippuden OP 1)",
     "artist" : "nobodyknows+",
