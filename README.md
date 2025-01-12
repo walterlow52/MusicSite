@@ -6,10 +6,7 @@
 <h1> WIP </h1>
 <ul> <i>
        <li> Include feature that contains a link for each song to transfer to the MusicSite project with the corresponding track as the present song on the playlist using the HTML link bookmark (possibly have to wait for api routes to be implemented before proposed feature can be in use) </li>
-       <li> Create song request form (React) while using HTML layout elements in project and CSS border-box & media queries </li>
        <li> Include descriptive summarys for each artist in /audio folder </li>
-       <li> Implement React components </li>
-       <li> Implement Django </li>
        <li> Update images & audio files </li>
 </i> </ul>
 
