@@ -8,23 +8,21 @@ let i;
       data.forEach(i => {
         const item = document.createElement('li');
         const song = document.createElement('audio');
+        // const frame = document.createElement('iframe');
         console.log(i);
 
         item.textContent = i.artist + " - " + i.name;
+        // frame.name = 
         item.onclick = () => {
           document.body.style.backgroundImage = "url(" + i.img + ")";
           song.src = i.music;
           song.controls = true;
+          // frame.src = i.mv;
         }
         item.style.backgroundColor = i.bg;
         item.style.color = i.txt;
         item.style.fontWeight = i.deco;
         item.style.textShadow = i.shadow;
-
-        /*song.onclick = () => {
-          song.src = i.music;
-          song.controls = true;
-        }*/
 
         item.appendChild(song);
         list.appendChild(item);
