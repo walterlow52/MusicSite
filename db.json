@@ -887,6 +887,7 @@
     "artist" : "Stonebwoy ft. Davido",
     "music" : "audio/Activate.mp3"
   },
+
   {
     "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S1.jpg",
     "name" : "99 (Mob Psycho 100 OP)",
@@ -3129,6 +3130,162 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/kpop/KOF/KOF.webp",
+    "name" : "Shhh",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Shhh.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/KOF.webp",
+    "name" : "Bye My Neverland",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Neverland.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/KOF.webp",
+    "name" : "Sugarcoat (NATTY Solo)",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Natty.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/KOF.webp",
+    "name" : "Countdown (BELLE Solo)",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Belle.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/KOF.webp",
+    "name" : "Kitty Cat (JULIE Solo)",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Julie.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/KOF.webp",
+    "name" : "Play Love Games (HANEUL Solo)",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Haneul.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/XX.png",
+    "name" : "Bad News (English Version)",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Bad News.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/XX.png",
+    "name" : "Nobody Knows",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Nobody Knows.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/XX.png",
+    "name" : "My 808",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/808.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/XX.png",
+    "name" : "TTG",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/TTG.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/XX.png",
+    "name" : "Gentleman",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Gentleman.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/XX.png",
+    "name" : "Says It",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Says It.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Midas-Touch.jpg",
+    "name" : "Midas Touch",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Midas Touch.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Midas-Touch.jpg",
+    "name" : "Nothing",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Nothing.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Songstealer.jpg",
+    "name" : "Sixth Sense",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Sixth Sense.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Sticky.jpg",
+    "name" : "Sticky",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Sticky.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Sticky.jpg",
+    "name" : "Te Quiero",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Te Quiero.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Superpower.webp",
+    "name" : "Superpower",
+    "artist" : "Kiss Of Life ft. Mark Tuan",
+    "music" : "audio/KOF/Superpower.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Maestro.webp",
+    "name" : "Maestro Of My Heart (Prod. Czaer)",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Maestro.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.webp",
+    "name" : "Get Loud",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Get Loud.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.webp",
+    "name" : "R.E.M.",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/REM.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.webp",
+    "name" : "Chemistry",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Chemistry.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.jpg",
+    "name" : "Igloo",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Igloo.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.jpg",
+    "name" : "Too Many Alex",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Too Many Alex.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.jpg",
+    "name" : "Back To Me",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/Back To Me.mp3"
+  },
+  {
+    "img" : "images/kpop/KOF/Lose-Yourself.jpg",
+    "name" : "No One But Us",
+    "artist" : "Kiss Of Life",
+    "music" : "audio/KOF/No One But Us.mp3"
   },
   {
     "img" : "images/kpop/LE-SSERAFIM/Fearless.webp",
