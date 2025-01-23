@@ -536,7 +536,7 @@
   {
     "img" : "images/hiphop/Mustard/WLL.jpg",
     "name" : "Whole Lotta Lovin",
-    "artist" : "Mustard ft. ravis Scott",
+    "artist" : "Mustard ft. Travis Scott",
     "music" : "audio/Mustard/WLL.mp3"
   },
   {
@@ -892,6 +892,450 @@
     "name" : "Activate",
     "artist" : "Stonebwoy ft. Davido",
     "music" : "audio/Activate.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/The-Man.jpg",
+    "name" : "The Man",
+    "artist" : "NAV",
+    "music" : "audio/NAV/The Man.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/NOY.webp",
+    "name" : "Nothing On You",
+    "artist" : "NAV",
+    "music" : "audio/NAV/NOY.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/FIL.jpg",
+    "name" : "Fell In Love",
+    "artist" : "NAV",
+    "music" : "audio/NAV/FIL.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/NAV.jpg",
+    "name" : "Good For It",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Good For It.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/NAV.jpg",
+    "name" : "Lonely",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Lonely.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/NAV.jpg",
+    "name" : "Up",
+    "artist" : "NAV x Metro Boomin",
+    "music" : "audio/NAV/Up.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/NAV.jpg",
+    "name" : "Some Way",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Some Way.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Perfect-Timing.jpg",
+    "name" : "Hit",
+    "artist" : "NAV ft. Metro Boomin",
+    "music" : "audio/NAV/Hit.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Perfect-Timing.jpg",
+    "name" : "Bring It Back",
+    "artist" : "NAV ft. Metro Boomin",
+    "music" : "audio/NAV/Bring It Back.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Perfect-Timing.jpg",
+    "name" : "Call Me",
+    "artist" : "NAV ft. Metro Boomin",
+    "music" : "audio/NAV/Call Me.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Wanted-You.jpg",
+    "name" : "Wanted You",
+    "artist" : "NAV ft. Lil Uzi Vert",
+    "music" : "audio/NAV/Wanted You.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Reckless",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Reckless.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Freshman List",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Freshman List.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Hold Your Hand",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Hold Your Hand.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Faith",
+    "artist" : "NAV ft. Quavo",
+    "music" : "audio/NAV/Faith.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Champion",
+    "artist" : "NAV ft. Travis Scott",
+    "music" : "audio/NAV/Champion.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Just Happened",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Just Happened.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "With Me",
+    "artist" : "NAV",
+    "music" : "audio/NAV/With Me.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Reckless.jpg",
+    "name" : "Eat",
+    "artist" : "NAV ft. Gunna",
+    "music" : "audio/NAV/Eat.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Know-Me.jpg",
+    "name" : "Know Me",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Know Me.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Price On My Head",
+    "artist" : "NAV ft. The Weeknd",
+    "music" : "audio/NAV/POMH.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Hold Your Breath",
+    "artist" : "NAV ft. Gunna",
+    "music" : "audio/NAV/Hold Your Breath.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Dior Runners",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Dior Runners.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Stuck With Me",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Stuck With Me.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Habits",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Habits.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Go To Hell",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Go To Hell.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "8 to 4",
+    "artist" : "NAV",
+    "music" : "audio/NAV/8.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Bad-Habits.jpg",
+    "name" : "Athlete",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Athlete.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Turks.png",
+    "name" : "Turks",
+    "artist" : "NAV ft. Gunna & Travis Scott",
+    "music" : "audio/NAV/Turks.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Good Intentions",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Good Intentions.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "My Business",
+    "artist" : "NAV ft. Future",
+    "music" : "audio/NAV/My Business.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Brown Boy",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Brown Boy.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Saint Laurenttt",
+    "artist" : "NAV",
+    "music" : "audio/NAV/SL.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Run It Up",
+    "artist" : "NAV ft. Pop Smoke",
+    "music" : "audio/NAV/Run It Up.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Spend It",
+    "artist" : "NAV ft. Young Thug",
+    "music" : "audio/NAV/Spend It.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Recap",
+    "artist" : "NAV ft. Don Toliver",
+    "music" : "audio/NAV/Recap.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Did You Wrong",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Did You Wrong.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "No Ice",
+    "artist" : "NAV ft. Lil Durk",
+    "music" : "audio/NAV/No Ice.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Good-Intentions.png",
+    "name" : "Proud Of Me?",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Proud Of Me.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "I'm Up",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Im Up.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Relax",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Relax.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Chirp",
+    "artist" : "NAV ft. Quavo",
+    "music" : "audio/NAV/Chirp.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Sprite Clean",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Sprite Clean.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Free Santana",
+    "artist" : "NAV ft. Lil Duke",
+    "music" : "audio/NAV/Santana.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "No Time",
+    "artist" : "NAV",
+    "music" : "audio/NAV/No Time.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Pine Sol",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Pine Sol.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Two Face",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Two Face.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/GI2.jpg",
+    "name" : "Extra",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Extra.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Friends & Family",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Friends.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Young Wheezy",
+    "artist" : "NAV ft. Gunna",
+    "music" : "audio/NAV/Young Wheezy.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Nasty",
+    "artist" : "NAV ft. Young Thug",
+    "music" : "audio/NAV/Nasty.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Repercussions",
+    "artist" : "NAV ft. Young Thug",
+    "music" : "audio/NAV/Repercussions.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Vetement Socks",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Vetement Socks.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Don't Need Friends",
+    "artist" : "NAV ft. Lil Baby",
+    "music" : "audio/NAV/DNF.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Make It Right Back",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Make It Right Back.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Trains",
+    "artist" : "NAV ft. Lil Keed",
+    "music" : "audio/NAV/Trains.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Modest",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Modest.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Turn & Twist",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Turn.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Tsunami.png",
+    "name" : "Pickney",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Pickney.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/JO.jpg",
+    "name" : "Jesse Owens",
+    "artist" : "NAV ft. Rowdy Rebel",
+    "music" : "audio/NAV/JO.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Never-Sleep.jpg",
+    "name" : "Never Sleep",
+    "artist" : "NAV ft. Travis Scott & Lil Baby",
+    "music" : "audio/NAV/Never Sleep.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Dead Shot",
+    "artist" : "NAV ft. Lil Uzi Vert",
+    "music" : "audio/NAV/Dead Shot.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Last Of The Mohicans",
+    "artist" : "NAV",
+    "music" : "audio/NAV/LOTM.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "One Time",
+    "artist" : "NAV ft. Future & Don Toliver",
+    "music" : "audio/NAV/One Time.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Demons In My Cup",
+    "artist" : "NAV",
+    "music" : "audio/NAV/DIMC.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Playa",
+    "artist" : "NAV ft. Gunna",
+    "music" : "audio/NAV/Playa.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Weirdo",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Weirdo.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Interstellar",
+    "artist" : "NAV ft. Lil Uzi Vert",
+    "music" : "audio/NAV/Interstellar.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Lost Me",
+    "artist" : "NAV ft. RealestK",
+    "music" : "audio/NAV/Lost Me.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Reset",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Reset.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Mismatch",
+    "artist" : "NAV ft. BabyFace Ray",
+    "music" : "audio/NAV/Mismatch.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Destiny",
+    "artist" : "NAV",
+    "music" : "audio/NAV/Destiny.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/DPBA.png",
+    "name" : "Lemonade",
+    "artist" : "NAV ft. Internet Money, Don Toliver, & Gunna",
+    "music" : "audio/NAV/Lemonade.mp3"
+  },
+  {
+    "img" : "images/hiphop/NAV/Fenty.jpg",
+    "name" : "Fenty",
+    "artist" : "NAV ft. French Montana & DJ Drama",
+    "music" : "audio/NAV/Fenty.mp3"
   },
   {
     "img" : "images/Weeknd/HOB.jpg",
@@ -3941,7 +4385,7 @@
     "music" : "audio/LE SSERAFIM/Good Parts.mp3"
   },
   {
-    "img" : "images/kpop/LE-SSERAFIM/Choices.jpg",
+    "img" : "images/kpop/LE-SSERAFIM/Choices.webp",
     "name" : "Choices",
     "artist" : "LE SSERAFIM",
     "music" : "audio/LE SSERAFIM/Choices.mp3"
@@ -5921,6 +6365,12 @@
     "txt" : "white",
     "deco" : "bold",
     "shadow" : "2px 2px black"
+  },
+  {
+    "img" : "images/FHUOR.jpg",
+    "name" : "Five Hearts Under One Roof OST",
+    "artist" : "",
+    "music" : "audio/FHOUR.mp3"
   },
   {
     "img" : "images/COD/Call-Of-Duty-Black-Ops-2.jpg",
@@ -8003,6 +8453,12 @@
     "name" : "Right Here, Right Now",
     "artist" : "Tyson Kidd",
     "music" : "audio/wwe/TK.mp3"
+  },
+  {
+    "img" : "images/wwe/Iyo.jpg",
+    "name" : "Tokyo Shock",
+    "artist" : "Iyo Sky",
+    "music" : "audio/wwe/IS.mp3"
   },
   {
     "img" : "images/wwe/LM.jpg",
