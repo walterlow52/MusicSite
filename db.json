@@ -1,5 +1,11 @@
 [
   {
+    "img" : "images/Burn.jpg",
+    "name" : "Burn",
+    "artist" : "ENMY",
+    "music" : "audio/Burn.mp3"
+  },
+  {
     "img" : "images/TITAN.jpg",
     "name" : "T1TAN",
     "artist" : "Cash!*",
@@ -1942,6 +1948,84 @@
     "name" : "Timeless",
     "artist" : "The Weeknd ft. Playboi Carti",
     "music" : "audio/Weeknd/Timeless.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Wake Me Up",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Wake Me Up.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Cry For Me",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Cry For Me.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Open Hearts",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Open Hearts.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Enjoy The Show",
+    "artist" : "The Weeknd ft. Future",
+    "music" : "audio/Weeknd/Enjoy The Show.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Given Up On Me",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Given Up.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Niagara Falls",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Niagara Falls.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Take Me Back To LA",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/LA2.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Give Me Mercy",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Give Me Mercy.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Drive",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Drive.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "The Abyss",
+    "artist" : "The Weeknd ft. Lana Del Rey",
+    "music" : "audio/Weeknd/The Abyss.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Red Terror",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/Red Terror.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Without A Warning",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/WAW.mp3"
+  },
+  {
+    "img" : "images/Weeknd/HUT.jpg",
+    "name" : "Hurry Up Tomorrow",
+    "artist" : "The Weeknd",
+    "music" : "audio/Weeknd/HUT.mp3"
   },
   {
     "img" : "images/anime/Mob-Psycho-100/Mob-Psycho-100-S1.jpg",
