@@ -1,9 +1,123 @@
 [
   {
-    "img" : "images/Burn.jpg",
+    "img" : "images/ENMY/Burn.jpg",
     "name" : "Burn",
     "artist" : "ENMY",
-    "music" : "audio/Burn.mp3"
+    "music" : "audio/ENMY/Burn.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "The Ledge",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/The Ledge.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Our Demise",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Our Demise.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Fake",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Fake.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Survive",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Survive.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Broken Man",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Broken Man.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Waiting On You",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Waiting On You.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Silver Bullet",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Silver Bullet.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "Hourglass",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Hourglass.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "On The Edge",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/On The Edge.mp3"
+  },
+  {
+    "img" : "images/ENMY/ENMY.jpg",
+    "name" : "The Cure",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/The Cure.mp3"
+  },
+  {
+    "img" : "images/ENMY/Demon-Eyes.jpg",
+    "name" : "Demon Eyes",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Demon Eyes.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "DAMN",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Damn.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Deceiver",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Deceiver.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Never Healing",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Never Healing.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Clarity",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Clarity.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Never Enough",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Never Enough.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Lost",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Lost.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Breaking Down",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Breaking Down.mp3"
+  },
+  {
+    "img" : "images/ENMY/Breaking-Down.jpg",
+    "name" : "Novocaine",
+    "artist" : "ENMY",
+    "music" : "audio/ENMY/Novocaine.mp3"
   },
   {
     "img" : "images/TITAN.jpg",
@@ -3502,16 +3616,88 @@
     "music" : "audio/Twice/Twice-Magical.mp3"
   },
   {
+    "img" : "images/kpop/Twice/STM-Cover.jpg",
+    "name" : "Santa Tell Me (Ariana Grande)",
+    "artist" : "Twice Cover by NAYEON",
+    "music" : "audio/Twice Covers/Twice Cover by Nayeon-Santa Tell Me (Ariana Grande).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Switch-To-Me-Cover.jpg",
+    "name" : "Switch To Me",
+    "artist" : "Twice Cover by DAHYUN & CHAEYOUNG",
+    "music" : "audio/Twice Covers/Twice Cover by Dahyun & Chaeyoung-Switch To Me.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Crown-Cover.jpg",
+    "name" : "Crown (Camila Cabello & Grey)",
+    "artist" : "Twice Cover by JIHYO",
+    "music" : "audio/Twice Covers/Twice Cover by Jihyo-Crown (Camila Cabello & Grey).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Me-Cover.jpg",
+    "name" : "ME! (Taylor Swift)",
+    "artist" : "Twice Cover by TZUYU ft. Bang Chan of Stray Kids",
+    "music" : "audio/Twice Covers/Twice Cover by Tzuyu-Me (Taylor Swift).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Off-My-Face-Cover.jpg",
+    "name" : "Off My Face (Justin Bieber)",
+    "artist" : "Twice Cover by CHAEYOUNG",
+    "music" : "audio/Twice Covers/Twice Cover by Chaeyoung-Off My Face (Justin Bieber).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Momo-Made-Cover.jpg",
+    "name" : "Momo-made Cover",
+    "artist" : "Twice Cover by MOMO",
+    "music" : "audio/Twice Covers/Twice Cover by Momo.mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Snowman-Cover.jpg",
+    "name" : "Snowman (Sia)",
+    "artist" : "Twice Cover by MINA",
+    "music" : "audio/Twice Covers/Twice Cover by Mina-Snowman (Sia).mp3"
+  },
+  {
     "img" : "images/kpop/Twice/Monsters-Cover.jpg",
     "name" : "Monsters (Katie Sky)",
     "artist" : "Twice Cover by DAHYUN",
     "music" : "audio/Twice Covers/Twice Cover by Dahyun-Monsters (Katie Sky).mp3"
   },
   {
+    "img" : "images/kpop/Twice/25-Cover.jpg",
+    "name" : "25 (BOL4)",
+    "artist" : "Twice Cover by DAHYUN",
+    "music" : "audio/Twice Covers/Twice Cover by Dahyun-25 (BOL4).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/CWY-Cover.jpg",
+    "name" : "Christmas Without You (Ava Max)",
+    "artist" : "Twice Cover by TZUYU",
+    "music" : "audio/Twice Covers/Twice Cover by Tzuyu-Christmas Without You (Ava Max).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Mood-Indigo-Cover.jpg",
+    "name" : "Mood Indigo (CHEEZE)",
+    "artist" : "Twice Cover by SANA",
+    "music" : "audio/Twice Covers/Twice Cover by Sana-Mood Indigo (CHEEZE).mp3"
+  },
+  {
     "img" : "images/kpop/Twice/Good-Mood-Cover.jpg",
     "name" : "Good Mood (Adam Levine)",
     "artist" : "Twice Cover by DAHYUN",
     "music" : "audio/Twice Covers/Twice Cover by Dahyun-Good Mood (Adam Levine).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Weatherman-Cover.jpg",
+    "name" : "Weatherman (Eddie Benjamin)",
+    "artist" : "Twice Cover by CHAEYOUNG",
+    "music" : "audio/Twice Covers/Twice Cover by Chaeyoung-Weatherman (Eddie Benjamin).mp3"
+  },
+  {
+    "img" : "images/kpop/Twice/Zero-Cover.jpg",
+    "name" : "Zero (Yerin Baek)",
+    "artist" : "Twice Cover by TZUYU",
+    "music" : "audio/Twice Covers/Twice Cover by Tzuyu-Zero (Yerin Baek).mp3"
   },
   {
     "img" : "images/kpop/Twice/Im-Nayeon.jpg",
