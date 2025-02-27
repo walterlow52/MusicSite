@@ -4271,6 +4271,84 @@
     "shadow" : "2px 2px black"
   },
   {
+    "img" : "images/kpop/NMIXX/Kiss.jpg",
+    "name" : "Kiss",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Kiss.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/FGC.jpg",
+    "name" : "Funky Glitter Christmas",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/FGC.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Sonar.jpg",
+    "name" : "Sonar (Breaker)",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Sonar.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Dash.jpg",
+    "name" : "Dash",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Dash.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Dash.jpg",
+    "name" : "Run For Roses",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Run For Roses.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Dash.jpg",
+    "name" : "Boom",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Boom.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Dash.jpg",
+    "name" : "XOXO",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/XOXO.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Dash.jpg",
+    "name" : "Break The Wall",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Break The Wall.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/See That.jpg",
+    "name" : "See That",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/See That.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/See That.jpg",
+    "name" : "Red Light Sign, But We Go",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Red Light.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/See That.jpg",
+    "name" : "Beat Beat",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Beat Beat.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/See That.jpg",
+    "name" : "Moving On",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Moving On.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/See That.jpg",
+    "name" : "Love Is Lonely",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Love Is Lonely.mp3"
+  },
+  {
     "img" : "images/kpop/KOF/KOF.webp",
     "name" : "Shhh",
     "artist" : "Kiss Of Life",
