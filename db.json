@@ -8605,6 +8605,12 @@
     "music" : "audio/wwe/Brock.mp3"
   },
   {
+    "img" : "images/wwe/CR.jpg",
+    "name" : "Kingdom",
+    "artist" : "Cody Rhodes",
+    "music" : "audio/wwe/CR.mp3"
+  },
+  {
     "img" : "images/wwe/DBZ.jpg",
     "name" : "We're Coming Down",
     "artist" : "The Dudley Boyz",
@@ -8713,6 +8719,12 @@
     "music" : "audio/wwe/FB.mp3"
   },
   {
+    "img" : "images/wwe/FB.jpg",
+    "name" : "I Am Danger",
+    "artist" : "Finn Balor",
+    "music" : "audio/wwe/FB2.mp3"
+  },
+  {
     "img" : "images/wwe/SJ.jpg",
     "name" : "Destroyer",
     "artist" : "Samoa Joe",
@@ -8737,16 +8749,40 @@
     "music" : "audio/wwe/DM.mp3"
   },
   {
+    "img" : "images/wwe/DP.jpg",
+    "name" : "Infamy",
+    "artist" : "Damian Priest",
+    "music" : "audio/wwe/DP.mp3"
+  },
+  {
+    "img" : "images/wwe/DP.jpg",
+    "name" : "Rise For The Night",
+    "artist" : "Damian Priest",
+    "music" : "audio/wwe/DP2.mp3"
+  },
+  {
     "img" : "images/wwe/SS.jpg",
     "name" : "Taking It All",
     "artist" : "Solo Sikoa",
     "music" : "audio/wwe/SS.mp3"
   },
   {
+    "img" : "images/wwe/JF.jpg",
+    "name" : "Samoan Destroyer",
+    "artist" : "Jacob Fatu",
+    "music" : "audio/wwe/JF.mp3"
+  },
+  {
     "img" : "images/wwe/JU.jpg",
     "name" : "Main Event Ish",
     "artist" : "Jey Uso",
     "music" : "audio/wwe/JU.mp3"
+  },
+  {
+    "img" : "images/wwe/JUso.jpg",
+    "name" : "Born A King",
+    "artist" : "Jimmy Uso",
+    "music" : "audio/wwe/JUso.mp3"
   },
   {
     "img" : "images/wwe/LA.jpg",
@@ -8807,6 +8843,30 @@
     "name" : "Right Here, Right Now",
     "artist" : "Tyson Kidd",
     "music" : "audio/wwe/TK.mp3"
+  },
+  {
+    "img" : "images/wwe/TSP.jpg",
+    "name" : "Bring The Swag",
+    "artist" : "The Street Profits",
+    "music" : "audio/wwe/TSP.mp3"
+  },
+  {
+    "img" : "images/wwe/BL.jpg",
+    "name" : "Celtic Invasion",
+    "artist" : "Becky Lynch",
+    "music" : "audio/wwe/BL.mp3"
+  },
+  {
+    "img" : "images/wwe/Asuka.png",
+    "name" : "The Future",
+    "artist" : "Asuka",
+    "music" : "audio/wwe/Asuka.mp3"
+  },
+  {
+    "img" : "images/wwe/Asuka.png",
+    "name" : "You Can't Hide",
+    "artist" : "Asuka",
+    "music" : "audio/wwe/Asuka2.mp3"
   },
   {
     "img" : "images/wwe/Iyo.jpg",
