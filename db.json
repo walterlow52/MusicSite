@@ -8825,5 +8825,305 @@
     "name" : "Demon In Your Dreams",
     "artist" : "Rhea Ripley",
     "music" : "audio/wwe/RR.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Red Velvet",
+    "artist" : "Jutes ft. Ari Abdul",
+    "music" : "audio/Josh/Red Velvet.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Throwback",
+    "artist" : "Darci",
+    "music" : "audio/Josh/Throwback.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Panic!",
+    "artist" : "HARRY WAS HERE",
+    "music" : "audio/Josh/Panic.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Synergy",
+    "artist" : "SWIM",
+    "music" : "audio/Josh/Synergy.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "RICOCHET",
+    "artist" : "Chase Atlantic",
+    "music" : "audio/Josh/Ricochet.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Obsessed",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Obsessed.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Swerve",
+    "artist" : "Darci ft. KayCyy",
+    "music" : "audio/Josh/Swerve.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Shame On Me",
+    "artist" : "Catch Your Breath",
+    "music" : "audio/Josh/SOM.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "IF I HAD YOU...",
+    "artist" : "Chris Grey",
+    "music" : "audio/Josh/Had You.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Wicked Game",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Wicked Game.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "INSIDE",
+    "artist" : "WesGhost",
+    "music" : "audio/Josh/Inside.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Late Night Confessions",
+    "artist" : "Reed Wonder ft. Aurora Olivas",
+    "music" : "audio/Josh/LNC.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "High Grade",
+    "artist" : "Darci",
+    "music" : "audio/Josh/High Grade.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "WHERE'D U GO",
+    "artist" : "Sani Knight",
+    "music" : "audio/Josh/WUG.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Sex & Palo Santo",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Sex.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "DEMON TIME",
+    "artist" : "Chase Atlantic",
+    "music" : "audio/Josh/Demon Time.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Starting Over",
+    "artist" : "Nevertel",
+    "music" : "audio/Josh/Starting Over.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Vertigo",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Vertigo.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "For The High",
+    "artist" : "octbfrst ft. Cheyanne",
+    "music" : "audio/Josh/FTH.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Stellarvision",
+    "artist" : "Xenia",
+    "music" : "audio/Josh/Stellarvision.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Paradise",
+    "artist" : "Henry Morris",
+    "music" : "audio/Josh/Paradise.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Sleepyhead",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Sleepyhead.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "MESS ME UP",
+    "artist" : "Chase Atlantic ft. Xavier Mayne",
+    "music" : "audio/Josh/MMU.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Give",
+    "artist" : "Sleep Token",
+    "music" : "audio/Josh/Give.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Eyes Open",
+    "artist" : "Xenia",
+    "music" : "audio/Josh/Eyes Open.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "All Night Long",
+    "artist" : "Sani Knight",
+    "music" : "audio/Josh/ANL.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Senses",
+    "artist" : "Jute",
+    "music" : "audio/Josh/Senses.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "YOU",
+    "artist" : "Chase Atlantic",
+    "music" : "audio/Josh/You.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Rain",
+    "artist" : "Sleep Token",
+    "music" : "audio/Josh/Rain.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Born To Lose",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/BTL.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Dark Sunshine",
+    "artist" : "Sani Knight ft. Yona",
+    "music" : "audio/Josh/Dark Sunshine.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Take All My Love",
+    "artist" : "Reed Wonder ft. Aurora Olivas",
+    "music" : "audio/Josh/Take All My Love.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Bodybag",
+    "artist" : "Wind Walkers",
+    "music" : "audio/Josh/Bodybag.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "DISCONNECTED",
+    "artist" : "Chase Atlantic",
+    "music" : "audio/Josh/Disconnected.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Fuck Me Like You Hate Me",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Hate Me.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Good In Goodbye",
+    "artist" : "Catch Your Breath",
+    "music" : "audio/Josh/Goodbye.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "We Own The Night",
+    "artist" : "Black Atlass",
+    "music" : "audio/Josh/WOTN.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Alive Again",
+    "artist" : "Reed Wonder ft. Aurora Olivas",
+    "music" : "audio/Josh/Alive Again.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Feeling the Gods",
+    "artist" : "Wind Walkers",
+    "music" : "audio/Josh/FTG.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Theraflu",
+    "artist" : "Jutes",
+    "music" : "audio/Josh/Theraflu.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "AMY",
+    "artist" : "Chase Atlantic",
+    "music" : "audio/Josh/Amy.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Y.S.K.W.",
+    "artist" : "Catch Your Breath",
+    "music" : "audio/Josh/YSKW.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "7 Stops Until Sunrise",
+    "artist" : "Vice Monroe",
+    "music" : "audio/Josh/7Stops.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "When I Dream Of You",
+    "artist" : "Reed Wonder ft. Aurora Olivas",
+    "music" : "audio/Josh/Dream.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "TILL LOVE TURNS TO TRAGEDY",
+    "artist" : "Dutch Melrose",
+    "music" : "audio/Josh/LoveTragedy.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "MATCH MADE IN HELL",
+    "artist" : "Dutch Melrose ft. benny mayne",
+    "music" : "audio/Josh/MMIH.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "SPINE",
+    "artist" : "WesGhost",
+    "music" : "audio/Josh/Spine.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "The Apparition",
+    "artist" : "Sleep Token",
+    "music" : "audio/Josh/Apparition.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Even If It Kills Me",
+    "artist" : "Papa Roach",
+    "music" : "audio/Josh/Kills Me.mp3"
+  },
+  {
+    "img" : "images/JoshBG.png",
+    "name" : "Eye Of The Hurricane",
+    "artist" : "Fight The Fade",
+    "music" : "audio/Josh/EOH.mp3"
   }
 ]
