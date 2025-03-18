@@ -4583,34 +4583,70 @@
     "music" : "audio/NMIXX/Break The Wall.mp3"
   },
   {
-    "img" : "images/kpop/NMIXX/See That.jpg",
+    "img" : "images/kpop/NMIXX/See-That.jpg",
     "name" : "See That",
     "artist" : "NMIXX",
     "music" : "audio/NMIXX/See That.mp3"
   },
   {
-    "img" : "images/kpop/NMIXX/See That.jpg",
+    "img" : "images/kpop/NMIXX/See-That.jpg",
     "name" : "Red Light Sign, But We Go",
     "artist" : "NMIXX",
     "music" : "audio/NMIXX/Red Light.mp3"
   },
   {
-    "img" : "images/kpop/NMIXX/See That.jpg",
+    "img" : "images/kpop/NMIXX/See-That.jpg",
     "name" : "Beat Beat",
     "artist" : "NMIXX",
     "music" : "audio/NMIXX/Beat Beat.mp3"
   },
   {
-    "img" : "images/kpop/NMIXX/See That.jpg",
+    "img" : "images/kpop/NMIXX/See-That.jpg",
     "name" : "Moving On",
     "artist" : "NMIXX",
     "music" : "audio/NMIXX/Moving On.mp3"
   },
   {
-    "img" : "images/kpop/NMIXX/See That.jpg",
+    "img" : "images/kpop/NMIXX/See-That.jpg",
     "name" : "Love Is Lonely",
     "artist" : "NMIXX",
     "music" : "audio/NMIXX/Love Is Lonely.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Forward.webp",
+    "name" : "High Horse",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/High Horse.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Forward.webp",
+    "name" : "Know About Me",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/KAM.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Forward.webp",
+    "name" : "Slingshot",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Slingshot.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Forward.webp",
+    "name" : "Golden Recipe",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Golden Recipe.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Forward.webp",
+    "name" : "Papillon",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Papillon.mp3"
+  },
+  {
+    "img" : "images/kpop/NMIXX/Forward.webp",
+    "name" : "Ocean",
+    "artist" : "NMIXX",
+    "music" : "audio/NMIXX/Ocean.mp3"
   },
   {
     "img" : "images/kpop/KOF/KOF.webp",
@@ -5869,6 +5905,156 @@
     "name" : "Bored! (Ningning Solo)",
     "artist" : "Aespa",
     "music" : "audio/Aespa/Aespa-Bored.mp3"
+  },
+  {
+    "img" : "images/JoYuri/ML.jpg",
+    "name" : "My Love",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/ML.mp3"
+  },
+  {
+    "img" : "images/JoYuri/AM.jpg",
+    "name" : "Autumn Memories",
+    "artist" : "Jo Yuri ft. Lee Seok Hoon",
+    "music" : "audio/JoYuri/AM.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Glassy.jpg",
+    "name" : "Glassy",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Glassy.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Glassy.jpg",
+    "name" : "Express Moon",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Express Moon.mp3"
+  },
+  {
+    "img" : "images/JoYuri/RA.webp",
+    "name" : "Round and Around",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/RA.mp3"
+  },
+  {
+    "img" : "images/JoYuri/RA.webp",
+    "name" : "Love Shhh!",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Love.mp3"
+  },
+  {
+    "img" : "images/JoYuri/RA.webp",
+    "name" : "Rolla Skates",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Rolla Skates.mp3"
+  },
+  {
+    "img" : "images/JoYuri/RA.webp",
+    "name" : "This Time",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/This Time.mp3"
+  },
+  {
+    "img" : "images/JoYuri/RA.webp",
+    "name" : "Opening",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Opening.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Maybe.jpg",
+    "name" : "Maybe",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Maybe.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Heart.jpg",
+    "name" : "Can You Feel My Heart?",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Heart.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Loveable.jpg",
+    "name" : "Loveable",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Loveable.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Loveable.jpg",
+    "name" : "Blank",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Blank.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Loveable.jpg",
+    "name" : "Favorite Part",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Favorite Part.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Run.jpg",
+    "name" : "Run",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Run.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Drink.jpg",
+    "name" : "Drink It, Girls!",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Drink.mp3"
+  },
+  {
+    "img" : "images/JoYuri/YC.jpg",
+    "name" : "Yellow Circle",
+    "artist" : "Jo Yuri ft. Chae SooBin",
+    "music" : "audio/JoYuri/YC.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Down.jpg",
+    "name" : "Down (Juicy Juicy)",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Down.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Taxi.jpg",
+    "name" : "Taxi",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Taxi.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Taxi.jpg",
+    "name" : "Bitter Taste",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Bitter Taste.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Taxi.jpg",
+    "name" : "Hang On",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Hang On.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Taxi.jpg",
+    "name" : "Bruise",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Bruise.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Luv.png",
+    "name" : "Luv Luv Luv",
+    "artist" : "Jo Yuri ft. Sung Han Bin",
+    "music" : "audio/JoYuri/Luv.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Alcohol.webp",
+    "name" : "Alcohol is",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Alcohol.mp3"
+  },
+  {
+    "img" : "images/JoYuri/Highlight.jpg",
+    "name" : "My Highlight",
+    "artist" : "Jo Yuri",
+    "music" : "audio/JoYuri/Highlight.mp3"
   },
   {
     "img" : "images/GS.jpg",
