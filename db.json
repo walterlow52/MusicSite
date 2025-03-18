@@ -4913,6 +4913,264 @@
     "music" : "audio/LE SSERAFIM/Ash.mp3"
   },
   {
+    "img" : "images/kpop/Ive/Eleven.jpg",
+    "name" : "Eleven",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Eleven.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Eleven.jpg",
+    "name" : "Take It",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Take It.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/LD.jpg",
+    "name" : "Love Dive",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Love Dive.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/LD.jpg",
+    "name" : "Royal",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Royal.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/AL.png",
+    "name" : "After Like",
+    "artist" : "Ive",
+    "music" : "audio/Ive/After Like.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/AL.png",
+    "name" : "My Satisfaction",
+    "artist" : "Ive",
+    "music" : "audio/Ive/My Satisfaction.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/QOH.webp",
+    "name" : "Queen OF Hearts",
+    "artist" : "Ive",
+    "music" : "audio/Ive/QOH.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Blue Blood",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Blue Blood.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "I Am",
+    "artist" : "Ive",
+    "music" : "audio/Ive/I Am.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Kitsch",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Kitsch.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Lips",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Lips.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Heroine",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Heroine.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Mine",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Mine.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Hypnosis",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Hypnosis.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Not Your Girl",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Not Your Girl.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Next Page",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Next Page.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Cherish",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Cherish.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/BB.jpg",
+    "name" : "Shine With Me",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Shine With Me.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Wave.png",
+    "name" : "Wave",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Wave.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Wave.png",
+    "name" : "Classic",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Classic.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Want.jpg",
+    "name" : "I Want",
+    "artist" : "Ive",
+    "music" : "audio/Ive/I Want.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Mine.png",
+    "name" : "Off The Record",
+    "artist" : "Ive",
+    "music" : "audio/Ive/OTR.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Mine.png",
+    "name" : "Baddie",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Baddie.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Mine.png",
+    "name" : "Holy Moly",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Holy Moly.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Mine.png",
+    "name" : "OTT",
+    "artist" : "Ive",
+    "music" : "audio/Ive/OTT.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Mine.png",
+    "name" : "Payback",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Payback.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Mine.png",
+    "name" : "Either Way",
+    "artist" : "Ive",
+    "music" : "audio/Ive/EW.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Will.jpg",
+    "name" : "Will",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Will.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Switch.png",
+    "name" : "Heya",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Heya.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Switch.png",
+    "name" : "Accendio",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Accendio.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Switch.png",
+    "name" : "Blue Heart",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Blue Heart.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Switch.png",
+    "name" : "Ice Queen",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Ice Queen.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Switch.png",
+    "name" : "Wow",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Wow.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Switch.png",
+    "name" : "Reset",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Reset.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/SF.jpg",
+    "name" : "Summer Festa",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Summer Festa.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Crush.jpg",
+    "name" : "Crush",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Crush.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/SL.jpg",
+    "name" : "Supernova Love",
+    "artist" : "Ive ft. David Guetta",
+    "music" : "audio/Ive/SL.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Empathy.jpg",
+    "name" : "Rebel Heart",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Rebel Heart.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Empathy.jpg",
+    "name" : "Flu",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Flu.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Empathy.jpg",
+    "name" : "You Wanna Cry",
+    "artist" : "Ive",
+    "music" : "audio/Ive/You Wanna Cry.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Empathy.jpg",
+    "name" : "Thank U",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Thank U.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Empathy.jpg",
+    "name" : "Attitude",
+    "artist" : "Ive",
+    "music" : "audio/Ive/Attitude.mp3"
+  },
+  {
+    "img" : "images/kpop/Ive/Empathy.jpg",
+    "name" : "TKO",
+    "artist" : "Ive",
+    "music" : "audio/Ive/TKO.mp3"
+  },
+  {
     "img" : "images/kpop/Itzy/Dalla.jpg",
     "name" : "Dalla Dalla",
     "artist" : "Itzy",
