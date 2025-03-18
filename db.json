@@ -4419,6 +4419,84 @@
     "music" : "audio/GIDLE/GIDLE-Neverland.mp3"
   },
   {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Her",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Her.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Blind Eyes Red",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/BER.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Drive U Crazy",
+    "artist" : "MINNIE ft. Yuqi of (G)I-DLE",
+    "music" : "audio/Minnie/Drive U.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Cherry Sky",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Cherry Sky.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Valentine's Dream",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Valentine.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "It's Okay",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Okay.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Obsession",
+    "artist" : "MINNIE ft. TEN of WayV",
+    "music" : "audio/Minnie/Obsession.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Dream.jpg",
+    "name" : "Like A Dream (Lovely Runner OST Part 3)",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Dream.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Her.jpg",
+    "name" : "Timing",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Timing.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/PYM.jpg",
+    "name" : "Pink Your Moment",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/PYM.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/ITN.jpg",
+    "name" : "In The Novel",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/ITN.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/In-Love.jpg",
+    "name" : "We Already Fell In Love",
+    "artist" : "MINNIE ft. Miyeon of (G)I-DLE",
+    "music" : "audio/Minnie/Love.mp3"
+  },
+  {
+    "img" : "images/kpop/Minnie/Getaway.jpg",
+    "name" : "Getaway",
+    "artist" : "MINNIE",
+    "music" : "audio/Minnie/Getaway.mp3"
+  },
+  {
     "img" : "images/kpop/Forever.jpg",
     "name" : "Forever",
     "artist" : "BABYMONSTER",
@@ -4817,6 +4895,24 @@
     "music" : "audio/LE SSERAFIM/Star Signs.mp3"
   },
   {
+    "img" : "images/kpop/LE-SSERAFIM/Hot.jpg",
+    "name" : "Hot",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Hot.mp3"
+  },
+  {
+    "img" : "images/kpop/LE-SSERAFIM/Hot.jpg",
+    "name" : "Come Over",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Come Over.mp3"
+  },
+  {
+    "img" : "images/kpop/LE-SSERAFIM/Hot.jpg",
+    "name" : "Ash",
+    "artist" : "LE SSERAFIM",
+    "music" : "audio/LE SSERAFIM/Ash.mp3"
+  },
+  {
     "img" : "images/kpop/Itzy/Dalla.jpg",
     "name" : "Dalla Dalla",
     "artist" : "Itzy",
@@ -5187,6 +5283,42 @@
     "name" : "Imaginary Friend (English Version)",
     "artist" : "Itzy",
     "music" : "audio/Itzy/Itzy-Imaginary Friend.mp3"
+  },
+  {
+    "img" : "images/kpop/Yeji/Air.jpg",
+    "name" : "Air",
+    "artist" : "Yeji",
+    "music" : "audio/Yeji/Air.mp3"
+  },
+  {
+    "img" : "images/kpop/Yeji/Air.jpg",
+    "name" : "Air (English Version)",
+    "artist" : "Yeji",
+    "music" : "audio/Yeji/Air (Eng).mp3"
+  },
+  {
+    "img" : "images/kpop/Yeji/Air.jpg",
+    "name" : "Invasion",
+    "artist" : "Yeji",
+    "music" : "audio/Yeji/Invasion.mp3"
+  },
+  {
+    "img" : "images/kpop/Yeji/Air.jpg",
+    "name" : "Can't Slow Me, No",
+    "artist" : "Yeji",
+    "music" : "audio/Yeji/CSMN.mp3"
+  },
+  {
+    "img" : "images/kpop/Yeji/Air.jpg",
+    "name" : "258",
+    "artist" : "Yeji",
+    "music" : "audio/Yeji/258.mp3"
+  },
+  {
+    "img" : "images/kpop/Yeji/Answer.jpg",
+    "name" : "Answer (Love Scout OST)",
+    "artist" : "Yeji",
+    "music" : "audio/Yeji/Answer.mp3"
   },
   {
     "img" : "images/kpop/Aespa/Welcome-To-My-World.png",
