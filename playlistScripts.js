@@ -4,13 +4,11 @@ let i;
   fetch('./db.json')
     .then(res => res.json())
     .then(data => {
-      console.log(data);
       data.forEach(i => {
         const item = document.createElement('li');
         const song = document.createElement('audio');
         // const frame = document.createElement('iframe');
-        console.log(i);
-
+        
         item.textContent = i.artist + " - " + i.name;
         // frame.name = 
         item.onclick = () => {
