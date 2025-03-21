@@ -1,42 +1,49 @@
 <!DOCTYPE html>             
-<html lang = "en-US">
+<html lang="en-US">
 <head>    
-    <meta charset = "UTF-8">	
-    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">	
-    <meta name = "viewport" content = "width=device-width, initial-scale = 1.0">
-	<base href = "https://walterlow52.github.io/MusicSite/playlist.html">
-    <title> My Music Source - Playlist </title>
-    <link rel = "stylesheet" href = "music_styling.css">	
-    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
-    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js">  </script>
-	<script src = "playlistScripts.js" defer = "true"> </script>
-    <link rel = "icon" href = "https://png.pngtree.com/thumb_back/fh260/background/20200520/pngtree-lightning-creative-texture-hand-painted-water-and-fire-background-image_335938.jpg">
+<meta charset="UTF-8">	
+<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://walterlow52.github.io/MusicSite/playlist.html">
+<title>My Music Source - Playlist</title>
+<link rel="stylesheet" href="music_styling.css">	
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script src="playlistScripts.js" defer="true"></script>
+<link rel="icon" href="https://png.pngtree.com/thumb_back/fh260/background/20200520/pngtree-lightning-creative-texture-hand-painted-water-and-fire-background-image_335938.jpg">
 </head>
 <body>
-	<!-- MusicSite - Playlist -- static HTML free mode playlist project website -->
-	<!-- <iframe name = "music_frame" allowfullscreen> </iframe> -->
-	<div id = "playlist">
-	<a href = "index.html" target = "_blank" title = "View the MP3 Music Site">
-		<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgZiil_QY5-0URZt_QETPiVKtOkoh_af66g&s" alt = "Click here to view the MP3 site"> </img> 
-	</a>
-	<h1 id = "top" width = "5vw"> Bronco's Ultimate Playlist </h1>
-    <b> <p style = "text-align: center;"> <i> <mark style = "background-color: lime;"> Welcome to the playlist! Here is where you will find all the songs on the MP3 music site.</mark></i></p></b>
+<!-- MusicSite - Playlist -- static HTML free mode playlist project website -->
+<!-- <iframe name="music_frame" allowfullscreen> </iframe> -->
+<div id="playlist">
+<a href="index.html"target="_blank"title="View the MP3 Music Site"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgZiil_QY5-0URZt_QETPiVKtOkoh_af66g&s"alt="Click here to view the MP3 site"></img></a>
+<h1 id="top" width="5vw">Bronco's Ultimate Playlist</h1>
+<b><p style="text-align:center;"><i><mark style="background-color:lime;">Welcome to the playlist! Here is where you will find all the songs on the MP3 music site.</mark></i></p></b>
 <details>
-	<summary style = "font-family: lucida console;"> <small> <mark style = "background-color: lime;"> Click for the playlist </mark> </small> </summary>
-		<ol id = "Playlist"></ol>
-        <footer>
-            <address>
-                <cite>
-                    Created by Walter Low <br>
-                    <a href = "mailto:walterlow52@gmail.com" target = "_blank" title = "Send a email to me!" style = "color: lime"> walterlow52@gmail.com </a>
-                </cite>
-            </address>
-        </footer>
-</details>
-</div>
-</body>
-</html>
+<summary style="font-family:lucida console;"><small><mark style="background-color:lime;">Click for the playlist</mark></small></summary>
+<ol id="Playlist"></ol>
+<footer><address><cite>
+Created by Walter Low <br>
+<a href="mailto:walterlow52@gmail.com"target="_blank"title="Send a email to me!"style="color:lime">walterlow52@gmail.com</a>
+</cite></address></footer></details></div></body></html><script>
+const list=document.querySelector("#Playlist");
+let i;
+fetch('./db.json')
+.then(res=>res.json())
+.then(data=>{
+data.forEach(i => {
+const item=document.createElement('li');
+const song=document.createElement('audio');
+item.textContent=i.artist+" - "+ i.name;
+item.onclick=()=>{document.body.style.backgroundImage="url("+i.img+")";song.src=i.music;song.controls=true;}
+item.style.backgroundColor=i.bg;
+item.style.color=i.txt;
+item.style.fontWeight=i.deco;
+item.style.textShadow=i.shadow;
+item.appendChild(song);
+list.appendChild(item);});})
+</script>

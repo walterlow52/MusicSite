@@ -1,59 +1,58 @@
 <!DOCTYPE html>    
-<html lang = "en-US"> 
-  <head>
-    <meta charset = "UTF-8">	
-    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">	
-    <meta name = "viewport" content = "width=device-width, initial-scale = 1.0"> 
-    <meta name = "keywords" content = "MusicSite">
-    <meta name = "description" content = "Bronco's Ultimate Music Playlist">
-    <meta name = "author" content = "Walter Low">
-    <base href = "https://walterlow52.github.io/MusicSite/index.html">
-    <title> My Music Source </title>
-    <link rel = "stylesheet" href = "music_styling.css">
-    <script src = "scripts.js" defer = "true"> </script>
-    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel = "icon" type = "image/x-icon" href = "https://st.depositphotos.com/1000123/4290/i/950/depositphotos_42906467-stock-photo-electric-lighting-effect.jpg">
-    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-    <noscript> Error: Invalid Javascript browser support </noscript>
-  </head>
-  <body>
-	  <!-- MusicSite -- HTML/CSS/JS MP3 track template project streaming website -->
-<header>
-	<address> <a href = "playlist.html" target = "_blank"> Click here to see the entire playlist </a> </address>
-</header>
-    <div class = "player">	
-      <div class = "wrapper">	
-        <div class = "details"> 
-          <div class = "now-playing" style = "text-align: center;"> NOW PLAYING </div>	
-          <div class = "track-art"> </div>	
-          <div class = "track-name"> TRACK NAME </div>	
-          <div class = "track-artist"> TRACK ARTIST </div>	
-        </div>
-        <div class = "slider-container">
-      	  <div class = "current-time"> </div>
-          <input type = "range" min = "1" max = "100" value = "0" class = "seek_slider" onchange = "seekTo()">
-        </div>
-        <div class = "buttons">
-          <div class = "random-track" onclick = "randomTrack()"> 
-          <i class = "fas fa-random fa-1x" title = "Shuffle"> <p class = "toggle" style = "font-size: 7px; text-align: center; background-color: black; color: cyan;"> Shuffle </p> </i> 
-        </div>
-          <div class = "prev-track" onclick = "prevTrack()"> 
-            <i class = "fa fa-step-backward fa-2x" title = "Previous Track"> </i> 
-          </div>
-          <div class = "playpause-track" onclick = "playpauseTrack()">
-            <i class = "fa fa-play-circle fa-5x"> </i>
-          </div>
-          <div class = "next-track" onclick = "nextTrack()">
-            <i class = "fa fa-step-forward fa-2x" title = "Next Track"> </i> 
-          </div>
-          <div class = "repeat-track" onclick = "repeatTrack()"> 
-            <i class = "fa fa-repeat fa-2x" title = "Repeat"> </i> 
-          </div>
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+<html lang="en-US"> 
+<head>
+<meta charset="UTF-8">	
+<meta http-equiv="X-UA-Compatible"content="IE=edge">	
+<meta name="viewport"content="width=device-width, initial-scale=1.0"> 
+<meta name="keywords"content="MusicSite">
+<meta name="description"content="Bronco's Ultimate Music Playlist">
+<meta name="author"content="Walter Low">
+<base href="https://walterlow52.github.io/MusicSite/index.html">
+<title>My Music Source</title>
+<link rel="stylesheet"href="music_styling.css">
+<script src="scripts.js"defer="true"> </script>
+<link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+<link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="icon"type="image/x-icon"href="https://st.depositphotos.com/1000123/4290/i/950/depositphotos_42906467-stock-photo-electric-lighting-effect.jpg">
+<script src="https://unpkg.com/react@18/umd/react.development.js"crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<noscript>Error: Invalid Javascript browser support</noscript>
+</head>
+<body><!-- MusicSite -- HTML/CSS/JS MP3 track template project streaming website --><header><address><a href="playlist.html"target="_blank">Click here to see the entire playlist</a></address></header>
+<div class="player"><div class="wrapper"><div class="details"> 
+<div class="now-playing" style="text-align: center;">NOW PLAYING</div><div class="track-art"></div><div class="track-name">TRACK NAME</div><div class="track-artist">TRACK ARTIST</div></div>
+<div class="slider-container"><div class="current-time"></div><input type="range"min="1"max="100"value="0"class="seek_slider"onchange="seekTo()"></div>
+<div class="buttons"><div class="random-track"onclick="randomTrack()"><i class="fas fa-random fa-1x"title="Shuffle"><p class="toggle"style="font-size:7px;text-align:center;background-color:black;color:cyan;">Shuffle</p></i></div>
+<div class="prev-track"onclick="prevTrack()"><i class="fa fa-step-backward fa-2x"title="Previous Track"></i></div><div class="playpause-track"onclick="playpauseTrack()"><i class="fa fa-play-circle fa-5x"> </i></div>
+<div class="next-track"onclick="nextTrack()"><i class="fa fa-step-forward fa-2x"title="Next Track"></i></div>
+<div class="repeat-track"onclick="repeatTrack()"><i class="fa fa-repeat fa-2x"title="Repeat"></i></div></div></div></div></body></html><script>
+let now_playing=document.querySelector('.now-playing');let track_art=document.querySelector('.track-art');let track_name=document.querySelector('.track-name');let track_artist=document.querySelector('.track-artist');let seek_slider=document.querySelector('.seek_slider');let current_time=document.querySelector('.current-time');let icon=document.querySelector('.fa-random');let current_track=document.createElement('audio');let shuffle=document.querySelector('.toggle');let previous_button=document.querySelector('.prev-track');let playpause_button=document.querySelector('.playpause-track');let next_button=document.querySelector('.next-track');let index=0;let playing=false;let random=false;let updateTime;let data;
+fetch('./db.json')
+.then((res)=>res.json())
+.then((fetchedData)=>{
+data=fetchedData;
+loadTrack(data,index);})
+function loadTrack(data, index){
+clearInterval(updateTime);
+reset();
+track_art.style.backgroundImage="url("+data[index].img+")";
+track_name.textContent=data[index].name;
+track_artist.textContent=data[index].artist;    
+now_playing.textContent="Bronco's Ultimate Playlist"+(index + 1)+" / "+ data.length; 
+current_track.src=data[index].music;
+current_track.load();
+updateTime=setInterval(setUpdate,1000);
+current_track.addEventListener('ended',nextTrack);}
+function reset(){current_time.textContent="00.00";seek_slider.value=0;}
+function randomTrack(){random?pauseRandom():playRandom();}
+function playRandom(){random=true;shuffle.innerHTML='ON'}
+function pauseRandom(){random=false;shuffle.innerHTML='OFF'}
+function repeatTrack(){loadTrack(data, index);playTrack();}
+function pauseTrack(){current_track.pause();playing=false;track_art.classList.remove('rotate');playpause_button.innerHTML='<i class="fa fa-play-circle fa-5x"></i>';}
+function playTrack(){current_track.play();playing=true;track_art.classList.add('rotate');playpause_button.innerHTML='<i class="fa fa-pause-circle fa-5x"></i>';}
+function playpauseTrack(){playing?pauseTrack():playTrack();}
+function prevTrack(){if(index>0){index -= 1;}else{index=data.length-1;}loadTrack(data,index);playTrack();}
+function nextTrack(){if(index<data.length-1 && random===false){index+=1;}else if(index<data.length-1 && random===true){let random_index=Number.parseInt(Math.random()*data.length);index=random_index;}else{index=0;}loadTrack(data,index);playTrack();}
+function seekTo(){let seekto=current_track.duration*(seek_slider.value/100);current_track.currentTime=seekto;}
+function setUpdate(){let seekPosition=0;if(!isNaN(current_track.duration)){seekPosition=current_track.currentTime*(100/current_track.duration);seek_slider.value=seekPosition;let currentMinutes=Math.floor(current_track.currentTime/60);let currentSeconds=Math.floor(current_track.currentTime-currentMinutes*60);if(currentSeconds<10){currentSeconds="0"+currentSeconds;}if(currentMinutes<10){currentMinutes="0"+currentMinutes;}current_time.textContent=currentMinutes+":"+currentSeconds;}}</script>
