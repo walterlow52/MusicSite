@@ -39,7 +39,7 @@ reset();
 track_art.style.backgroundImage="url("+data[index].img+")";
 track_name.textContent=data[index].name;
 track_artist.textContent=data[index].artist;    
-now_playing.textContent="Bronco's Ultimate Playlist"+(index + 1)+" / "+ data.length; 
+now_playing.textContent="Bronco's Ultimate Playlist"+ (index + 1)+" / "+ data.length; 
 current_track.src=data[index].music;
 current_track.load();
 updateTime=setInterval(setUpdate,1000);
