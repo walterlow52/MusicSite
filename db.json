@@ -1,4 +1,4 @@
-[{"img":"images/ENMY/Burn.jpg","name":"Burn","artist":"ENMY","music":"https://music-player-site-bucket.s3.amazonaws.com/audio/ENMY/Burn.mp3"},
+[{"img":"images/ENMY/Burn.jpg","name":"Burn","artist":"ENMY","music":"https://music-player-site-bucket.s3.us-east-2.amazonaws.com/audio/ENMY/Burn.mp3"},
 {"img":"images/ENMY/ENMY.jpg","name":"The Ledge","artist":"ENMY","music":""},
 {"img":"images/ENMY/ENMY.jpg","name":"Our Demise","artist":"ENMY","music":""},
 {"img":"images/ENMY/ENMY.jpg","name":"Fake","artist":"ENMY","music":""},
