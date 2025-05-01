@@ -24,7 +24,7 @@ img{float:right;width:150px;height:150px;border-radius:50%;}
 header{background-color:lime;width:100%;color:white;text-align:center;}
 a{color:black;text-decoration:underline lime double auto;}
 a:hover{background-color:black;color:lime;}
-li{border:2px double white;padding:5px;background-color:black;width:300px;color:lime;font-family:audiowide;text-align:center;margin-left:50px;}
+li{border:2px double white;padding:5px;background-color:black;width:300px;color:lime;font-family:audiowide;text-align:center;margin-left:20px;}
 li:hover{color:white;text-decoration:underline;}
 details{cursor:pointer;}
 #playlist{background-color:black;opacity:0.7;width:400px;color:lime;resize:both;overflow:auto;}
