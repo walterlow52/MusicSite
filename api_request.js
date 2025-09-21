@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 const accessToken = 'BQAecZoWbPaEcQw5FtCACR6TJ5QdYhzuy5h4NN8d8_lM9wpPqK422CEZ_GsLTo9HGWjKkgUBhgk98cd9DwCxgy51Xp_ai-TmKPu-2qHRND4JGBVAueRj5hjCCK06SOMljrceEYecVQ0';  
 
 // Define the query (e.g., a song name or artist)
-const query = 'The Color Violet';
+const query = 'Just For Tonight Rocco';
 
 // Spotify's search endpoint for tracks
 const url = `https://api.spotify.com/v1/search?q=${encodeURIComponent(query)}&type=track&limit=1`;
