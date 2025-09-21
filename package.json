@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/walterlow52/MusicSite/issues"
   },
-  "homepage": "https://github.com/walterlow52/MusicSite#readme"
+  "homepage": "https://github.com/walterlow52/MusicSite#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
