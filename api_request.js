@@ -1,10 +1,10 @@
 import fetch from 'node-fetch';
 
-// Replace with the access token you received
-const accessToken = 'BQAecZoWbPaEcQw5FtCACR6TJ5QdYhzuy5h4NN8d8_lM9wpPqK422CEZ_GsLTo9HGWjKkgUBhgk98cd9DwCxgy51Xp_ai-TmKPu-2qHRND4JGBVAueRj5hjCCK06SOMljrceEYecVQ0';  
+// Replace with the access token you received (console err may pop up if token expires; go to api_fetch and run it for a new token)
+const accessToken = 'BQAhPPFc3TJj_JukBrIplf5vn1VAHl11SfTY1owGRALdAOQPrNBDf5jzVXYqpvcszUH4pmVeOuoELqX_ATxsX2u-uHxMY-a-JpWyyleLGp9Xd8GPDB7gM0HgjIGevBb_16CetnOv7gQ';  
 
 // Define the query (e.g., a song name or artist)
-const query = 'Just For Tonight Rocco';
+const query = 'it takes two fiji blue';
 
 // Spotify's search endpoint for tracks
 const url = `https://api.spotify.com/v1/search?q=${encodeURIComponent(query)}&type=track&limit=1`;
@@ -28,3 +28,7 @@ fetch(url, {
     }
   })
   .catch(error => console.error('Error fetching track:', error));
+
+
+// {"img":"","name":"","artist":"","music":""},
+
