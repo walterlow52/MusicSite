@@ -1,10 +1,10 @@
 import fetch from 'node-fetch';
 
 // Replace with the access token you received (console err may pop up if token expires; go to api_fetch and run it for a new token)
-const accessToken = 'BQA64Pt6qHv2BUB3dWaQz_irkM3L2SwSemltkzF1ZwNRTznNKLDpV3vqLuPPv3iJ00hdYqQh_qoG1pOatT1RLdyoYiSykh5_SVHjcNsQm1vEmPg3P43XpmHuv2TePKee1aATb13dx3s';  
+const accessToken = 'BQDHXTLKsHM_gVvE3tlkXNbGUldgVt7US_47qtz0tC9aFMC6OoMMBHrun-iohxvv8SKVZ6gRRclCHdZTEEODXUODONRPnOdhi5x2Qoyn_ppx0SgfudGzJJCwwDtkJ_9O-C5FnxfMyrw';  
 
 // Define the query (e.g., a song name or artist)
-const query = "wild babymonster";
+const query = "after moon twice";
 
 // Spotify's search endpoint for tracks
 const url = `https://api.spotify.com/v1/search?q=${encodeURIComponent(query)}&type=track&limit=1`;
