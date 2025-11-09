@@ -1,6 +1,6 @@
 *{max-width:100%;}
 html{scroll-behavior:smooth;}
-body{background-image:linear-gradient(180deg,black,navy,black,navy,black);border-radius:50%;background-repeat:no-repeat;background-size:100% 100%;background-attachment:fixed;}
+body{background-image:url("https://music-player-site-bucket.s3.us-east-2.amazonaws.com/images/1377092-anime-boy-alone-night-stars-scenery-4k-pc-wallpaper.jpg");border-radius:50%;background-repeat:no-repeat;background-size:100% 100%;background-attachment:fixed;}
 .player{width: 100%;height: 100vh;display: flex;align-items: center;justify-content: center;flex-direction: column;}
 .wrapper{width: 350px;padding: 30px 40px;border-radius: 20px;box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;background-color: black;color: blue}
 .details{display:flex;flex-direction:column;align-items:center;justify-content:center;}
