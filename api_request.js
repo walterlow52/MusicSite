@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 // Replace with the access token you received (console err may pop up if token expires; go to api_fetch and run it for a new token)
-const accessToken = 'BQDHXTLKsHM_gVvE3tlkXNbGUldgVt7US_47qtz0tC9aFMC6OoMMBHrun-iohxvv8SKVZ6gRRclCHdZTEEODXUODONRPnOdhi5x2Qoyn_ppx0SgfudGzJJCwwDtkJ_9O-C5FnxfMyrw';  
+const accessToken = 'BQBl32e060dm6vbkQFWDrT0XnavmvTMDIMKdYUn47aLsecR0Q36wUr_zvGSyJiOepQhsxT_KTLtYRmS_l9pl46zv1UqS31bVltHTlHiMofeVLRKNnN7uOcbzB8jHiZST-CNbL3g5iQU';  
 
 // Define the query (e.g., a song name or artist)
 const query = "after moon twice";
